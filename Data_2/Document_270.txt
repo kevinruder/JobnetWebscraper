@@ -1,0 +1,36 @@
+[DTU Management Engineering’s Transport Modelling Division invites applications for an appointment as Assistant Professor in the area of Traffic Safety Modelling.The assistant professorship is a permanent entry-level faculty position.The Transport Modelling Division is a lively and research oriented group of scientists and support staff with a shared interest in understanding, mathematically and algorithmically representing, predicting, and analysing transport phenomena in perspectives that range from private to public transport, real-time operations to long term planning, classical mobility technologies to new “smart” mobility options (e.g. Autonomous Vehicles, Electrical Vehicles, Mobility as a Service, Sharing modes).Responsibilities and tasksThe aim of the new position is to consolidate the Department’s teaching and research in modelling mainly within the field of traffic safety with a quantitative approach.  We seek ambitious candidates with a strong research focus in traffic safety. We envision the position to help expand the division’s research in application areas such as
+
+Statistical modelling of accident risk and severity based on time series data as well as official register records on individuals, vehicles and accidents;
+Data handling and analytics within the domain of traffic safety
+Quantitative modelling of the influence of human factors and infrastructure design in traffic safety.
+The duties of the Assistant Professor include research (e.g. publication/scientific dissemination and application for research grants), research-based teaching and advisory functions to relevant Danish government organisations. The division is keen to ensure that assistant professors are given supervision and guidance, and develops a teaching portfolio in order to qualify for an associate professorship approval within maximum 3-4 years. Assistant Professors must follow the DTU UDTU education in university teaching and learning.Since the position is permanent, we expect candidates to eventually learn Danish. All DTU's graduate courses are taught in English, and the division language is English, whereas undergraduate courses are mainly taught in Danish. Some of the industry outreach will benefit of Danish language skills, as well as transport surveys and accident records are collected/documented in Danish.QualificationsCandidates must hold a PhD degree (or equivalent).The key qualification requirements are as follows 
+
+Documented scientific production/publication and research potential within traffic safety research
+Strong foundation in general statistical methods (e.g. Bayesian framework, Bayesian inference, multivariate statistics, stochastic simulation)
+Ability and desire to contribute to the Divisions national and international collaborative efforts, including the dissemination of research results and research-based consultancy
+Teaching experience and good communication skills
+DTU Transport has a contractual obligation to provide public sector consultancy services to the Danish Ministry of Transport, inter alia concerning traffic safety issues. This task is a crucial part of the raison-d’etre for the traffic safety research activities at DTU. Hence, to contribute properly to this task, the candidate should possess the following qualifications:
+
+ability to draw policy relevant conclusions from research results;
+documented skills in communicating results and recommendations to governmental authorities and the public in general, in writings as well as oral presentations;
+personal skills to establish and develop external co-operation
+AssessmentIn the assessment of the candidates consideration will be given to 
+
+Experience and quality of teaching
+Research experience
+Research vision and potential
+Societal impact
+Documented innovation activities, including commercialization and collaboration with industry
+International experience
+Internal and external collaboration
+Communication skills
+We offer DTU is a leading technical university globally recognized for the excellence of its research, education, innovation and scientific advice. We offer a rewarding and challenging job in an international environment. We strive for academic excellence in an environment characterized by collegial respect and an academic freedom tempered by responsibility. Salary and terms of employmentThe appointment will be based on the collective agreement with the Danish Confederation of Professional Associations. The allowance will be agreed with the relevant union.An assistant professorship is a permanent entry-level faculty position. After a maximum of 4 years, an assistant professor can be promoted to an associate professor position after assessment. More information can be found here: Career paths at DTU. Further information Further information may be obtained from Jeppe Rich, rich@dtu.dk, +45 4525 1536.You can read more about DTU Management Engineering on http://www.man.dtu.dk/english. ;Application procedure Please submit your online application no later than 1 May 2018 (local time). Applications must be submitted as one PDF file containing all materials to be given consideration. To apply, please open the link "Apply online," fill in the online application form, and attach all your materials in English in one PDF file. The file must include:
+
+Application (cover letter)
+CV
+Views regarding teaching and research based on the “Assessment” bullets
+Documentation of previous teaching and research based on the “Assessment” bullets
+List of publications
+H-index, and ORCID (see e.g. http://orcid.org/)
+Diploma (MSc/PhD)
+Applications and enclosures received after the deadline will not be considered.All qualified candidates irrespective of age, gender, race, disability, religion or ethnic background are encouraged to apply.DTU Management Engineering contributes actively to the development of management tools and optimization of processes by using and re-thinking theoretical engineering perspectives, models, and methods. Through our research and teaching, we ensure an innovative, competitive, and sustainable organization and use of technologies within areas such as energy and climate, transportation, production and health, both domestic and abroad. DTU Management Engineering has 350 employees, including around 70 PhD students. More than 20% of our employees are from abroad and a total of 38 different nationalities are represented at the Department. DTU is a technical university providing internationally leading research, education, innovation and scientific advice. Our staff of 5,800 advance science and technology to create innovative solutions that meet the demands of society; and our 11,000 students are being educated to address the technological challenges of the future. DTU is an independent academic university collaborating globally with business, industry, government, and public agencies.]

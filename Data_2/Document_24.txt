@@ -1,0 +1,25 @@
+[Can you deliver the first-class big data solutions that will bring us closer to a world run entirely on green energy?  Join us in our Business Intelligence team where you’ll be part of our digitalisation initiatives and help structure and support the processes for collecting, storing, processing and analysing big data. With a continuous focus on exploration, optimisation and improvement, you’ll implement, test, maintain and monitor the solution components.   You’ll also ensure that the big data platforms are integrated with the wider company architecture, and that parallel big data initiatives in our business units are established on a uniform set of processes while supporting the various needs of the business units.   As part of our team, you’ll help enable decision making by working in agile release trains. We use data science and data engineering to build and advance our technologies, delivering solutions to realise our company’s vision of sustainable energy in a competitive market.  
+Your key tasks will be to 
+
+implement data ingestion and transformation processes to manage data sources and target destinations 
+define data retention policies 
+develop, maintain, test and evaluate data scientists’ recipes with relevant toolsets 
+monitor and control versioning and code promotion 
+monitor performance and advise on changes to the set-up. 
+ Furthermore, you’ll support data scientists and business analysts on daily operations related to tools and processes.  
+Your competences include that you 
+
+have a bachelor’s or master’s degree in computer science, software engineering, or a comparable technical education coupled with practical experience 
+are curious, self-driven, thrive on complicated problem solving, and are good at building up new competences in an independent and motivated manner 
+are ahead of the game, seek out development potentials and possess the personal skills to drive these forward 
+possess good verbal and written communication skills. Danish skills are an advantage not a perquisite 
+Prefer to work in teams and collaborate with others to clarify requirements. 
+ Additionally, practical experience with some of the following technologies is preferred: AWS/ Azure for Cloud technologies, Hadoop (HBase, Spark) or Docker. Knowledge of and practical experience with open source frameworks is also preferred, including programming C#, .Net and Python.   
+Working at Ørsted 
+To be the frontrunner in the green energy transformation, we invest significantly in innovation and empower our employees to help shape the renewable energy technologies of the future. We cultivate a collaborative, dynamic and diverse work environment and encourage career-long learning and development so our people can realise their full potential.   
+Would you like to help shape the renewable technologies of the future? 
+Send your application and a copy of your diploma(s) as soon as possible and no later than 12 July 2018, as we’ll be conducting interviews on a continuous basis.  Please don’t hesitate to contact Thomas Vind, Head of Business Intelligence, by telephone on +45 99 55 86 48 if you’d like to know more about the position.  
+Criminal record certificate 
+Please note that for Danish applicants, we may procure a criminal record certificate in connection with this job, and that employment will be subject to the information listed. The criminal record certificate will only be used in the assessment if the criminal activity is of relevance to the position.  
+About Ørsted 
+Headquartered in Denmark, Ørsted’s 5,600 employees develop, construct and operate offshore wind farms, bioenergy plants and innovative waste-to-energy solutions and provide smart energy products to its customers. Ørsted IT delivers professional, stable business solutions and drives the digital transformation of the Ørsted group. For more information on Ørsted, visit Ørsted.com. ]

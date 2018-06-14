@@ -1,0 +1,26 @@
+[Er det dig vi mangler?
+Grundet fortsat vækst og tilgang af kundeopgaver, søger vi en kompetent og engageret PHP-udvikler, der kan bidrage til at vi kommer i mål med alle vores opgaver. Du vil blive en vigtig del af teamet, og du vil hurtigt få ansvar for egne projekter.
+Hvad kommer du til at arbejde med?
+
+Back-end programmering (PHP)
+Front-end programmering (JavaScript/ HTML/ CSS (+ LESS/ SCSS))
+Databaser (MySQL)
+Projektstyring i mindre teams (Scrum/ Kanban)
+Eventuelt systemadministration (Linux landskaber)
+Drupal web og e-commerce
+Videreudvikling af egne projekter
+
+Hvad forventer vi af dig?
+Om du er nyuddannet, autodidakt eller har flere års erfaring som PHP-udvikler i en lignende stilling kommer sig ikke så nøje. Du skal blot kunne fremvise en portfolio med eksempler på forskelligartede opgaver, du har løst. Derudover forventer vi, at du har en god forretningsforståelse, samt at du møder med et engageret sind og en god attitude.
+Hvordan er det at arbejde i Efiware?
+Som udvikler i en lille virksomhed tør vi godt garantere dig, at du bliver en central del af virksomheden. Der er god stemning på kontoret og en afslappet omgangstone. Du vil opleve, at der altid er mange spændende projekter i gang. Der er ikke blot kort afstand mellem dig og dine kolleger, men også fra idéer til handling.
+Hvad kan vi tilbyde dig?
+Vi tilbyder dig en attraktiv fuldtidsstilling i en lille, teknisk velfunderet virksomhed, der er i fortsat vækst. Her får du kompetente kolleger, som du kommer til at sparre med i det daglige. Du får også rig mulighed for at præge stillingen og ikke mindst bidrage med dine personlige egenskaber og faglige viden.
+Hvem er Efiware?
+Vi er et teknisk tungt webbureau i Aarhus, der producerer web- og mobilt software, hvor vi blandt andet udvikler egne produkter. Vi beskæftiger os med PHP og JavaScript som vores primære teknologier, og vi har gennem mange års erfaring specialiseret os i komplekse skræddersyede webløsninger samt e-commerce.
+Sådan ansøger du
+Send din ansøgning til Nikolaj Stockholm på nst@efiware.com. Du skal også medsende dit CV samt gerne et kodeeksempel og andre relevante papirer.
+Har du spørgsmål til stillingen, er du ligeledes velkommen til at kontakte Nikolaj på førnævnte mailadresse eller på tlf. 28 18 11 61.
+Hvornår er der ansøgningsfrist?
+Vi tager imod ansøgninger og indkalder interessante kandidater til samtale løbende.
+ ]

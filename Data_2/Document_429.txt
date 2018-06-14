@@ -1,0 +1,27 @@
+[Do you want to take part in developing a platform that will enable customers to be active players in tomorrow’s green energy system?  
+Join us as a Senior Full-Stack Developer in the Advanced Analytics team where you’ll be responsible for helping us develop our new, unique Flexibility Platform. The platform allows B2B customers to participate actively in the energy system with their industrial processes and integrates with customer assets with the help of machine learning and artificial intelligence.  
+You’ll become part of a small but passionate team that consists of highly competent cloud architects specialized in Azure Cloud. In our team, you’ll get the opportunity to work in an innovative environment and deliver solutions based on fast processes and new ways of using technology. You’ll work closely together with the business and customers to continuously deliver value and automated solutions. We believe that DevOPs is a significant means for achieving sustained innovation while maintaining quality. The team builds, deploys, monitors and operates the platform and you’ll be a part of this journey.  
+Your key tasks will be to 
+
+take responsibility of the frontend development 
+implement complex business-driven features in web portals and backend systems 
+develop SOLID software, writing Clean Code using latest Microsoft technologies 
+take part in operational duties as part of a DevOps team 
+leverage the possibilities of the Azure Cloud. 
+ Your competences include that you 
+
+are an expert in ASP.NET, SignalR and AngularJS 
+have several years of experience developing in C# and JavaScript/TypeScript 
+are experienced in working in an agile environment 
+have experience with micro-services or event-driven architecture  
+know your way around in Azure 
+are a team player, dedicated to your work, ready to take responsibility and focused on meeting deadlines.  
+Moreover, we expect that you are familiar and preferably have experience with cloud components such as Service Fabric, Web Apps, Data Lake, Streaming Analytics, IoT Hub, Service Bus, Storage and SQL Databases. Finally, you should speak and write English fluently.     
+Working at Ørsted 
+To be the frontrunner in the green energy transformation, we invest significantly in innovation and empower our employees to help shape the renewable energy technologies of the future. We cultivate a collaborative, dynamic and diverse work environment and encourage career-long learning and development so our people can realise their full potential.  
+Would you like to help shape the renewable technologies of the future? 
+Send your application to us as soon as possible and no later than 26 March 2018, as we'll be conducting interviews on a continuous basis.  
+Please don't hesitate to contact Umid Akhmedov, Advanced Analytics Team Lead, on telephone +45 99 55 76 26 if you'd like to know more about the position.  
+You should expect some travelling in relation to your work, mainly within Denmark.  
+About Ørsted 
+Headquartered in Denmark, Ørsted's 5,600 employees develop, construct and operate offshore wind farms, bioenergy plants and innovative waste-to-energy solutions and provide smart energy products to its customers. Ørsted Wind Power's 2,200 employees have developed and constructed the largest portfolio of offshore wind farms in Northern Europe, and we're expanding with international activities in the US and Asia-Pacific. For more information on Ørsted, visit Ørsted.com. ]

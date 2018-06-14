@@ -1,0 +1,33 @@
+[We are looking for an experienced Mechanical Engineer with a strong technical background. At Vestas, Tower Engineering we constantly aim for improving our design, grow our competence level, and being the best at what we do. It is an ever-developing task to contribute to the overall business result in a challenging and dynamic environment Do you have strong technical skills with structured mindset and ability to work on challenging technology projects in mechanical engineering area? Are you motivated by a broad interface with many different stakeholders? Would you like to play a key role in Vestas, Tower Engineering being responsible for successful execution of our projects?  Mechanical EngineeringTower Engineering Tower New ProductsTower Engineering in Technology & Service Solutions is maintaining and developing the complete Vestas tower program. The tasks range from structural engineering over highly specialized FEM calculations, requirements specifications, DFMEA, test planning and execution to risk assessments and compilation of certification documentation.The team is responsible for design of all internals: access ladder, platforms, internal ladders, lift, HSE and compliance to the standards applicable to the markets where the towers are sold, and for the complete BOM of Towers including the Tower structure. Focus is on securing sound, cost-optimized and production friendly solutions and at the same time fulfilling the overall requirements to safety and functionality for the products. Additionally, process efficiency and lead time reduction is of key importance to fulfill Vestas’ overall ambitions of delivering products, which are configured to customer needs in a timely manner. The team is located at 2 different sites:  Aarhus in Denmark and in Chennai, India. The team consists of 20+ highly skilled design engineers with background in mechanical engineering.ResponsibilitiesYour primary responsibility will be to deliver the technical solutions for various internals designs, integration in the modular architecture, and completion/review of production drawings and associated BoM's.In greater detail your area of responsibilities will be:
+
+Development of detailed designs and integration into the modular architecture and product configuration.
+Fulfill role as lead for one or more internals components/modules/new products.
+Design of secondary structures for towers and ensure compliance with relevant HSE standards.
+Ensure cross functional collaboration with relevant interface owners throughout the value chain.
+Through standardization, modularization and process efficiency improvements make cost reductions and heighten quality.
+Leverage on parameterized design for automatic generation of 3D models and 2D drawings where possible.
+Implementation of configurable CAD models
+Have a knowledge network of Suppliers, Customers, Product Management, SBUs and PBUs.
+Ensure the technical solutions provided don't conflict other IPR's and not to miss out a new IPR opportunity.
+Qualifications
+
+Bachelor or Master's degree in Mechanical Engineering.
+Knowledge of full design life cycle, from requirements scoping to end of life of a product.
+Experience of structural engineering, FEA, practical design, DFM & DFA.
+Experience from larger R&D organisation.
+5 to 10 years of industry experience.
+CompetenciesWe see the ideal candidate possessing the following competencies and personality:  
+
+Knowledge of design for manufacturing and preferably insight into wind turbines.
+Experience with calculations, structural engineering, design of load carrying structures using both analytical and FE analysis.
+Preferably an experienced user in PTC's CAD systems - i.e. Creo, PDM link. 
+Experience with six sigma tools, ECM, and PDM-link would be an advantage.
+Experience with integrated product development and modularization.
+Process oriented, structured way of working and solution oriented. 
+Proactive and extrovert, able to lead your surroundings using communication and stakeholder management.
+A strong networker, capable of building, developing and maintaining relationships in a global setting.
+Having a sound business and value chain understanding.
+Strong English skills, verbally and in writing.
+What we offerWe offer a challenging workplace with excellent professional and personal development opportunities in an inspiring, international work environment with the world’s leading wind turbine manufacturer. We value initiative, responsibility and the right balance between creativity and quality in all solutions. You will become part of a highly professional environment with a strong technical commitment Additional informationYour work location will be at Vestas Technology R&D office at Aarhus, in Denmark. Up to 30 travel days per year shall be expected. For further information, please contact New Product-Towers Manager Sakthivel Dhanusu at +45 5215 7639. Please send your application as soon as possible as we will close the position as soon as we find the right candidate.About VestasVestas is the energy industry’s global partner on sustainable energy solutions. We design, manufacture, install, and service wind turbines across the globe, and with more than 83 GW of wind turbines in 75 countries, we have installed more wind power than anyone else.Through our industry-leading smart data capabilities and unparalleled more than 73 GW of wind turbines under service, we use data to interpret, forecast, and exploit wind resources and deliver best-in-class wind power solutions. Together with our customers, Vestas’ more than 22,000 employees are bringing the world sustainable energy solutions to power a bright future. We invite you to learn more about Vestas by visiting our website at http://www.vestas.com and following us on our social media channels. 
+Job MechanicalPrimary LocationDenmark-Midtjylland-Aarhus N 
+Unposting Date Ongoing]

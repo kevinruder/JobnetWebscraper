@@ -1,0 +1,35 @@
+[Are you our next Data Engineer? Do you want to be part of an exciting sports technology company
+At TrackMan, you will play a key role the development of our cutting-edge solutions – creating customer experiences for our leading golf and baseball radar-technology products. The company is growing fast, and we are looking for talented data engineers. Our company culture is open, international, informal and fun – we work hard to deliver quality and take pride in our work. If you are interested in this exciting challenge where professional and personal growth is a focus, we would love to hear from you.
+As a Data Engineer, you will be responsible for the data solutions that are providing data driven insights to both internal and external customers. You will work among highly skilled engineers, helping design, develop and operate our cloud and data applications using a variety of leading technologies. 
+ 
+Key Responsibilities:
+
+Design, build and deliver new data pipelines to grow value of TrackMan sports data, simplify data access for internal and external customers
+Collaborate with Product teams as well as hardware and software application teams to build and manage a wide variety of data sets
+Support our BI & Analytics teams to publish reports and dashboards for both internal and external customers
+Drive technology decisions and help solve data related technology problems
+Ensure data solutions are highly reliable and scalable, automate everything
+Requirements
+We are looking for an individual with strong problem solving and management skills and who can support a team to deliver against a product roadmap and release plan. You are well organized, comfortable working to deadlines, and a great team player. Strong oral and written communications skills in English is a pre-requisite.
+ 
+Furthermore, you have:
+
+A technical educational background, BS in Computer Science or equivalent
+5+ years of relevant work experience working with data
+Experience writing SQL and data processing in Python
+Experience designing and building data pipelines and ETL
+Understanding of Big Data batch and real time technologies (e.g. Hadoop, Spark)
+Understanding of data warehouse solutions and data modelling, NoSQL a plus
+Knowledge working on cloud providers such as AWS, Azure and Google
+Experience running all the above as production data operations
+So what does TrackMan do? 
+TrackMan develops, manufactures and sells 3D sports ball measurement systems. Our technologies are used by top performing athletes, coaches, and organizations in a broad spectrum of sports, spanning from golf, baseball, football (soccer), and tennis, to more unique disciplines like the Olympics’ hammer throw and shot put. Common for them all is their need for reliable and actionable data in their quest of unleashing potential. Today, TrackMan is considered to be the world leader in sports ball measurement, and the company has become the industry standard for accuracy in both golf and baseball.
+ 
+Join a great company! 
+TrackMan's blend of sports, cutting-edge technology and robust growth make it a unique workplace. The work culture is entrepreneurial, ambitious, and rewarding as you collaborate with some of the best brains in Denmark in the areas of algorithms, radar technology, computer vision, software development, coding, embedded software and hardware development. TrackMan's state-of-the-art technologies are conceptualized, engineered and developed by combining engineering know-how with an embracing and an ever-diversified pool of cultures and talents. 
+ 
+TrackMan A/S is a privately held Danish company, established in 2003. Today, TrackMan has a global footprint with its headquarter located in Denmark (Vedbæk) and offices in New York, Phoenix, Poland and Tokyo. We are more than two hundred people worldwide, of which hundred work in Denmark. Here, most hardware and software products are developed, tested and manufactured.
+ 
+Apply today and join a company with great technologies, great colleagues, and great opportunities to grow. 
+ 
+Due to the high number of hires, applications (and subsequent interviews) are ongoing and without time limits. If you have any question or would like to learn more, please contact HR Manager Lene E. Olesen at +45 5151-0546 or Head of Data Platform Miles Johnson at +45 3172 6896. We look forward to hearing from you soon.]

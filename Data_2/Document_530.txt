@@ -1,0 +1,32 @@
+[Would you like to be part of Ramboll’s digital transformation team?Digitalisation is high on the agenda in Ramboll. We seek a software developer with passion for creating client centric software solutions and who can participate in engineering software projects. You can use a broad range of technologies within web, Sharepoint, desktop clients, apps, plugins for Microsoft Office, GIS and CAD within engineering disciplines, document exchange systems, resource planning systems, visualisation applications, reporting, digital learning, IOT and Big Data.You will participate in both new and old, big and small software projects in collaboration with a team of software developers, usability specialists, UX designers, project managers, testers and end-users in the engineering departments.Your will participate in all phases including
+
+Create system design and architecture
+Participate in planning, designing, and developing software solutions
+Participate in operation administration of servers and systems
+Conduct usability test and user learning material
+Customize SharePoint sites and software support
+You and your competenciesTo succeed in this position, you must be able to apply old and new technologies to employees’ busy working days. This involves building commitment and motivation for employees to join the development projects and adopt the cultural change.You operate in a self-managing way and you proactively identify new and relevant projects and continuously seek to develop your area of expertise. In an outgoing role with a large surface of contact, you thrive in close collaboration with others, where your interpersonal and listening skills are important assets.The right candidate:
+
+Holds a relevant master degree in software development including familiarity with design, installation, testing and maintenance of software systems
+Has experience within collaborative programming and agile software development e.g. SCRUM
+You have solid experience developing software in C#/.NET and HTML5/JavaScript/CSS3.
+You have some experience with one or more of the following: Mobile app development (e. g. Xamarin), SQL or SharePoint.
+Have experience in involving end users, stakeholders and system owners
+Handles working with several concurrent projects and navigates well between different types of tasks
+Enjoys being part of a changing environment in a company in progress
+Has good technical understanding and know what is on the edge
+Has a good team spirit and high attention to detail and quality
+Communicates, presents and facilitates fluently in Danish and English
+Some of the technologies in our department today:
+
+JavaScript/HTML5/CSS3 incl. plugins such as jQuery, Bootstrap, ArcGIS for JavaScript,
+.NET framework, C#, WPF, WCF, Universal Windows Applications
+REST and SOAP basted APIs/webservices
+SQL Server, SQL CE
+Addins to Revit and AutoCAD, Microsoft Office, ArcGIS
+ArcGIS Server, FME Server
+Development of apps via Xamarin and Android SDK
+Team Foundation Server and JIRA
+SharePoint 
+Some of the technologies we wish to adopt as soon as possibleReact, Angular, Bootstrap, WebVR,Service worker, web components, NoSQL, Azure, Google CloudJoin the Digital Business Transformation (DBT) departmentAs a software developer you will be a part of the Digital Business Transformation department (DBT) that explores the potential in new technologies, develops ideas and concepts and helps with organisational innovation, implementation and change management.In DBT, it is important to work in multidisciplinary teams, openly communicate and share ideas, and involve the users as much as possible in all phases of a project. DBT has around 15 employees and is in close contact with the entire Ramboll organisation.We passionately believe that Ramboll’s business can be better, when focused more on people and people’s needs, believing that the process of change driven by digital technology has only just begun.Working in RambollTo work in Ramboll means being part of a people organisation. We are focused on knowledge sharing and collaboration across competence areas and geography, aiming for a strong diversity among our employees. This enables us to solve a broad range of projects, and we firmly believe that cross-collaboration leads to creative and longstanding solutions. Thus, the possibilities in Ramboll are many and diverse - we invest a lot in development of people and offer career paths tailored for the individual needs.Interested?If you want to know more about the position, please contact Head of Department Kikki Gyldenvang Steffensen at +45 5161 6974 / KIGS@ramboll.dkor Software developer Morten Raasted at +45 5161 5298/ mr@ramboll.dk.If you are interested, please apply through our online recruitment system by clicking the link ‘Apply for job online’ below before 3 April 2018.
+Ansøgningsfrist 2018-04-03 Arbejdssted Copenhagen]

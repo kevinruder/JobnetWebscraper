@@ -1,0 +1,26 @@
+[Job Description
+Can you lead cut-over planning and activities in a large and complex ERP roll-in? Then you might be the Cut-over Release Lead we are looking for to join the One ERP Program, and support Danfoss’ digital transformation.One ERP is the foundation of Danfoss’ digital transformation. It will give Danfoss speed and flexibility enabling us to give a better digital customer experience. This will be possible by having aligned business processes, SAP configurations, business forms, master data definitions and training material across the entire organization. You will join a highlight motivated One ERP Program Team, with members from the four Danfoss segments and key corporate functions. Together with business input, they have built the system, established various interfaces and mapped business processes upfront, using the latest technology available. The implementation of One ERP is running and an ambitious three-year roadmap is in place and will cover all Danfoss entities across the world.Project management, cut-over planning and execution activitiesAs our new Cut-over Release Lead, you will become part of the Transition Support Team (Business), with responsibility to release cutover scoping, planning and execution. We expect you to be the driver to create a cut-over plan, based on a template and deliver according to established timelines and resources. You will work closely together with the release team including consultants and many local stakeholders, which will include a lot of virtual team work. This position is for now located in Flensburg, Germany but over time it can be moved to e.g. Nordborg, Denmark, so you need to be flexible regarding the location. Your key tasks will be:
+
+Planning cutover rehearsals and productive cutover for release
+Aligning release cutover plan with own release requirements both central and local, other releases, data migration, technical architecture
+Communication of cut-over plans to all parties and stakeholders
+Executing cutover rehearsals and go-live cutover
+Monitoring and reporting progress during cutover execution
+Escalating issues to release lead
+Collecting and presenting cutover status for Go-Live decision
+Assisting the Deployment Lead in all deployment-related tasks including work planning, scheduling, budgeting, metrics, training and resources
+Developing Cutover Approach, Cutover Plan steps for managed area and link interdependencies
+Developing and conducting cutover communication sessions with project team, business cutover coordinators and application support teams
+Tracking status, reporting/resolving/escalating issues for managed area 
+Expert with good communications skillsWe expect you to have minimum a relevant Bachelor’s degree, but more importantly, you have solid experience within cutover planning and testing from SAP/ERP implementation and/or operation. You have knowledge of cutover methodologies and standards and a good understanding of cutover planning, execution and reporting tools. You are also an expert in using MS Excel and MS Project. You are used to work for a big company with many stakeholders. You have strong project management skills and have a broad understanding of SAP data objects. On a more personal note, you are:
+
+Focused on results
+Analytic, structured and systematic
+Both a team player and self-driven
+Used to work in an international environment
+Good in communicating and networking across all levels in an organization
+Last, but not least you are fluent in business English, both written and verbal.As One EPR Program member, you get the opportunity to work in a high-profile Danfoss program. You will join an international and dynamic team, who are used to work under pressure and collaborate to reach key deadlines and goals. Being part of the One ERP Program, means that you will be a key player in Danfoss’ digital journey, helping to create a better digital customer experience and enable growth in Danfoss. For further information about the position,please contact Senior Director, Bent Schrøder at +45 2169 6489.Please apply at your earliest convenience. We do not have an application deadline but accept applications as long as the job is posted.The position will be closed down once we have found the right candidate.
+ 
+Auto req ID
+12492BR
+ ]

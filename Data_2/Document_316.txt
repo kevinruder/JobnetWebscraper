@@ -1,0 +1,38 @@
+[If you are a software developer looking for a chance to make an impact, we want to hear from you!
+As a developer at Ulobby, you will help us scale our platform and move to a service-oriented architecture. In addition to being highly skilled on the technical side, you should also be able to put yourself in the user's shoes and think critically about what you're building. We take pride in our work and want you to as well.
+Our team is curious, driven, friendly, and collaborative. Though we have areas of specialty, we're also generalists and equally comfortable up and down the stack from writing SASS to optimizing database queries. We believe in an egoless approach to development and a blameless approach to problem solving. While we work independently, we support each other through frequent code and design reviews, daily stand-ups, and pair programming, facilitating learning and reducing friction in our weekly releases.
+Engineering is at the heart of Ulobby. We believe that it takes exceptional people to distill complex problems into simple solutions.
+ 
+Responsibilities
+
+
+Develop our webapplicaition for lobbyists. We want to be the preferred platform for political advocacy work.
+
+
+Continue to scale our system to users from all over the world and integrate our platform more deeply with parliamentary api's.
+
+
+Continue migrating our JavaScript to Vue.js. We want our service to be fast, responsive, and mobile-friendly.
+
+
+We work mostly in PHP (Laravel framework) but believe in using the right tool for each particular job and have built a couple of microservices in Node.js and Python.
+
+
+Our stack also includes AWS, Neo4j, ElasticSearch, Redis, AWS SQS, SASS, and Vue.js
+Requirements
+
+
+Experience: You’ve done web development for 3+ years (not a hard requirement) with an MVC-type framework. Bonus points for JS experience.
+
+
+Team work: You’re used to working collaboratively; participating in code reviews, and being a team player.
+
+
+Product-centric: You love solving hard technical challenges and producing clean code, but you also recognize that the product and the end-user’s experience is the most important thing. You need to care about the users and think beyond just the technical challenges.
+
+
+Self-directed: We’re a startup. We need someone who is comfortable taking an imperfect feature specification and driving it all the way to completion.
+
+
+Good judgment: You have the ability to handle sensitive customer data.
+If you share our values and want to join us in tackling modern politics with software, we'd love to hear from you.]

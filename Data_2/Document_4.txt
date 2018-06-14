@@ -1,0 +1,39 @@
+[Would you like to work with advanced data analysis, big data and AI? And are you ready to use your expertise to impact and define the digital future of Grundfos?
+ 
+“Grundfos is on an amazing journey into a digital future – a journey that you can become an important part of. This is also your chance to become part of a great team and a very inspirational environment where competent colleagues will enrich, challenge and inspire you,” Thomas Asger Hansen explains.
+ 
+Drive digital transformation
+Joining a competent team of 15 competent data scientists at our Digital Transformation Office DTO in Bjerringbro, you become part of a hub spanning the entire Grundfos organization. Working cross-functionally with digital services, we are part of driving the digital transformation agenda and more specifically the Analytics and Data Science Capability network. Focusing and working together on a wide range of projects, we have a wide reach and interact with stakeholders throughout the organization.
+ 
+”We all understand the importance of collaboration and have the utmost respect for the technical and specialist knowledge of our peers. We love what we do, and the mutual enthusiasm is tangible and heartfelt when we succeed in something new,” Thomas elaborates.
+ 
+Explore new opportunities
+As chief data scientist, you will be responsible for data, platforms and implementation of digital services, and you will have the authority to define the global data science process. Taking the lead on strategic pilots or business projects across Grundfos globally, your primary task will be to provide entrepreneurial action consulting. Tackling problems such as minimising energy consumption in pump systems, optimising digital configuration tools or designing a graph database, you ensure that the project team solves the task in the best possible way. More specifically, your tasks involve:
+ 
+
+Advising top management, presenting roadmaps on data science and data analytics as well as concrete design, analyses, modelling choices and recommendations for selected projects
+Scoping and testing new data science platforms and tools
+Driving Big Data and AI Strategy across Grundfos
+Defining the global Grundfos Team Data Science process
+Mentoring and coaching lead and senior data scientists
+Driving and designing global data science and AI training programmes 
+ 
+Do you have hacker skills?
+To succeed in the role as chief data scientist, you will need to have a deep understanding of mathematics and modelling. Furthermore, you will need extensive knowledge of AI, including machine learning and deep learning. Thus, we expect you to have:
+ 
+
+A postdoc in mathematics or physics
+Experience within Python, Java, C++, HTML, Scala, Matlab, Julia and R
+An extensive technical toolbox, and it is an advantage if you have experience with Graph database concepts, Azure and cognitive services and with DevOps and continuous development/deployment 
+Experience with driving training programmes
+Good communicational skills in English in both speech and writing
+ 
+ 
+ “On a personal level, you have excellent interpersonal skills as you interact with colleagues and stakeholders on all levels. Thus, it is important that you have a positive, open and forthcoming personality, and we expect you to know how to coach and motivate others to do their best,” Thomas finishes.
+ 
+Additional information
+If you have questions or want to know more about the position, please contact Senior Manager for Big Data & AI Lab Thomas Asger Hansen on +45 51 44 95 07.
+ 
+If this job sounds appealing to you, please send your resume and cover letter today and no later than 16 June 2018 by clicking on “Apply”. We expect interviews to be held during week 25 and 26.
+ 
+We look forward to hearing from you. ]

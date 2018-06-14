@@ -1,0 +1,27 @@
+[Would you like to help government institutions as well as large enterprises around the world reduce their power usage and optimise the performance of their equipment by exploring the thousands of data points we receive every second? Join Schneider Electric and help evolve our new generation, data-driven services and transform billions of measurements and alarms into clear and tangible insights for our customers. 
+Welcome to an innovative Software Development team in Schneider Electric
+At Schneider Electric, we offer our customers guidance and overview of the performance of their backup power systems, cooling systems, environmental monitoring, and more through our data-driven EcoStruxure IT solutions. We have customers from all over the world, and we monitor a great variety of equipment and usage patterns. This makes our data pool extremely diverse, and we never run out of new data stories. 
+You will join the Analytics team of five and become part of the Software Development department consisting of 70 talented developers located in Kolding, Denmark, and in Boston, USA. Here, we all work to continuously develop our cloud-based software to optimise our service solutions. 
+Your ambition is to use data smart and bring value to the customer
+As our new data analyst, you will help us analyse billions of data points by using our incredibly fast analytics cluster, where Spark is co-located with Cassandra, and develop new features from initial idea to production. 
+In our team, we work by agile principles, and each morning we start off with a stand-up meeting, planning and prioritising the tasks we need to focus on that day. More specifically, you will:
+
+Explore data in our notebook solution on top of the nine nodes analytics cluster
+Discuss findings with domain experts
+Apply data preparation and transformation
+Develop Spark jobs to deliver insights to internal and external customers
+Collaborate closely with your team, the product owners and colleagues throughout Software Development 
+
+Work in a fun and collaborative international environment
+Here, it is not just our data lake that is diverse – so are we. We form a unique and dynamic department working with newest technologies and software development methods in a modern and visionary organisation. We enjoy developing both personal and professional skills and sharing knowledge with our brilliant colleagues. 
+You know how to make use of data
+You enjoy diving into data – and you know how to apply findings to serve customer needs. You:
+
+Hold a degree within computer science, software development or mathematics
+Have previously worked with data modelling and/or data visualisation
+Communicate effortlessly in English 
+
+Interested?
+If you have any questions regarding the position, please contact Engineering Leader Sara Wesenberg at +45 2777 0140 or Engineering Director Anders Jensen on +45 4137 7987. Read more about our solution on https://ecostruxureIT.com  
+Please apply before June 18, 2018. Please send us your motivated cover letter, CV and diplomas.
+We are looking forward to hearing from you.]

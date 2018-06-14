@@ -1,0 +1,28 @@
+[Do you have experience with electronics testing and development of electronics test equipment and test sequences? Are you passionate about using your electronics background and technical measuring experience? Then have a look at this opportunity to grow your career among experienced co-workers in a dynamic environmentPower Conversion  PEX Test  Software & Electronics EngineeringThe Electronics team covers test and NPI of electronics in the Power Conversion segment in Vestas Manufacturing. The team has interfaces to and cooperation with Vestas R&D and the electronics factory in Hammel, Denmark.You will be responsible for developing test equipment including test sequences for new as well as existing electronics products in the Vestas portfolio. The projects are executed in a team with clear responsibilities, but with many opportunities to develop with others. The primary function is to translate test specifications from R&D into test equipment that can plug directly into a production line and subsequently support any update or improvement, day-to-day support is handled by a Technical Support function. Responsibilities
+
+Take lead and responsibility for developing module and PCB test equipment
+Specify fixtures (high-level) to be developed by external suppliers
+Develop, maintain and improve test sequences
+Qualifications
+
+You hold a B.Sc. or M.Sc. in Electronics Engineering 
+You have theoretical as well as practical knowledge of measuring theory
+Solid experience with test sequencers, e.g. SequenTEST (which we use), TestStand or other
+You are a professional user of software and computers, LabView programming skills is an advantage
+English skills at a professional level
+You have approximately 3-4 years' experience from a similar role
+Experience with Boundary Scan test, Altium and PCB layout is an advantage
+CompetenciesIt is vital that you show communication and cooperation skills as you will interact with a wide range of stakeholders. The ideal candidate possesses the following personality and competencies:  
+
+Proven experience with hands-on development of electronics test equipment and test sequences 
+Experience from complex and long-lived products 
+Pro-active personality and a sense of humor
+High degree of flexibility and can work independently
+You have relevant experience from development projects and experience with project teams.
+What we offerWe offer a challenging workplace with excellent professional and personal development opportunities in an inspiring, international work environment with the world’s leading wind turbine manufacturer.The department places high focus on an informal working environment where professional skills can be developed and enhanced and you can influence on our solutions. We consistently score high on team collaboration in our employee surveys.Additional informationThe work location will be Hammel, Denmark.  For additional information about the position please contact Director, Peter Cassøe on tel. +45 40836001.About VestasVestas is the energy industry’s global partner on sustainable energy solutions. We design, manufacture, install, and service wind turbines across the globe, and with more than 83 GW of wind turbines in 75 countries, we have installed more wind power than anyone else.Through our industry-leading smart data capabilities and unparalleled more than 73 GW of wind turbines under service, we use data to interpret, forecast, and exploit wind resources and deliver best-in-class wind power solutions. Together with our customers, Vestas’ more than 22,000 employees are bringing the world sustainable energy solutions to power a bright future. We invite you to learn more about Vestas by visiting our website at http://www.vestas.com and following us on our social media channels.
+ 
+ 
+Job Engineering and R&DPrimary LocationDenmark-Midtjylland-Hammel
+ 
+Unposting Date Ongoing
+ ]

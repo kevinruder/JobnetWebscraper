@@ -1,0 +1,26 @@
+[Would you like to drive the SCADA and Cyber Security design of Vestas’ wind power plants? Do you have a strong technical background and are you motivated by leading integrated product development via cross functional and cross organisational teams in Denmark and abroad? Then please take a look at this challenging career opportunity and join the world’s leading supplier of wind power solutions.Power Solutions  Platform Management  Product Leads & CertificationThrough innovation, development and continuous product improvements we continuously develop our products and technologies to reduce the cost of energy to ensure highest possible value to our customers and to Vestas. The Product Leads department is responsible for product specification, feasibility studies and technical execution all done through cross functional teams. You will have to create and execute a strategy to deliver modular SCADA solutions configurable to customer needs and meeting local requirements as well as the agreed Vestas internal product performance KPIs. We are looking for someone who can support the overall plant design with a specific focus on creating and executing a SCADA / Cyber Security product design strategy.The team is located in Denmark and is expanding abroad to meet the demand of a growing and challenging business. ResponsibilitiesAs Senior Product Lead you will be technical responsible from specification to validation of the product. An important aspect of the role is to define and execute a strategy by which Vestas can ensure compliance to local (SCADA and cyber security) law in the markets we sell in an efficient manner.Your main focus will be on:
+
+Together with Product Management, define a SCADA and cyber security product strategy delivering on customer needs and ensuring compliance with local laws
+Lead execution of Product feasibility studies
+Lead and execute the agreed product release master plan
+Challenge stakeholders to strive for best in class design optimised for the full product life cycle
+Translate Customer and Value Chain expectations into design requirements and allocate to system level ensuring best balance in design
+Facilitate and lead integrated product development via cross functional and cross organisational teams.
+Define project scope and lead project break down into work packages together with the project team
+Maintain technical risks overview and ensure that proper mitigations are in place.
+Provide technical specification for the product and product verification strategy
+QualificationsWe are looking for a candidate who holds a bachelor, M. Sc. and/or PhD in Computer Science or other relevant branch of engineering, with a strong focus on translating theory into practice. Further we expect that you have:
+
+5 – 10 years’ experience within energy systems or similar critical IT/OT-infrastructure 
+5 - 10 years’ experience with a larger organisation dealing with complex products and a solid understanding of the value drivers of supplying power plants to the markets around the world
+Good understanding of fundamental SCADA and cyber security design of wind turbine power plants (with main focus on OT and with good understanding of the synergies to IT solutions)
+CompetenciesYou have an extrovert and driven personality as well as an proactive work approach. Further, we expect that you have:
+
+Leadership skills demonstrated for cross functional engineering teams, and good communication and collaboration skills at all levels in the organisation
+An analytical approach and ability to drill down and communicate complex issues in easy understandable terms and actions
+What we offer We offer an exciting job with excellent opportunities for professional and personal development in an inspiring environment at the world’s leading wind turbine manufacturer. We value initiative, responsibility and the right balance between creativity and quality in all solutions. You will become part of a highly professional environment with a strong technical commitment.  Additional information Primary work location: Vestas Technology HQ, Aarhus, Denmark. As you have colleagues at different locations abroad some travel will be requested.  You must expect up to 30 travel days/year.  For additional information please contact Vice President Ole Sønderby on phone +45 4062 7803. About VestasVestas is the energy industry’s global partner on sustainable energy solutions. We design, manufacture, install, and service wind turbines across the globe, and with more than 83 GW of wind turbines in 75 countries, we have installed more wind power than anyone else.Through our industry-leading smart data capabilities and unparalleled more than 73 GW of wind turbines under service, we use data to interpret, forecast, and exploit wind resources and deliver best-in-class wind power solutions. Together with our customers, Vestas’ more than 22,000 employees are bringing the world sustainable energy solutions to power a bright future. We invite you to learn more about Vestas by visiting our website at http://www.vestas.com and following us on our social media channels.
+ 
+ 
+Job Hardware and SoftwarePrimary LocationDenmark-Midtjylland-Århus N
+ 
+Unposting Date Ongoing]

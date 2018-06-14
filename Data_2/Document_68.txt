@@ -1,0 +1,33 @@
+[Are you passionate about games and numbers? Do you have an interest in freemium economics? Then you might be what we are looking for!
+Kiloo is a leading mobile game developer founded in 2000. Our ambition is to create cool, colorful and catchy games that are as fun to play as they are to make.
+The people who create our games are the key to our success, and we are always on the lookout for passionate and talented individuals to join our family.
+Kiloo is a team of over 120 dedicated people with many different backgrounds, nationalities and cultures. Our headquarters is located in Aarhus, Denmark, and we also have offices in Copenhagen and Budapest.
+We are currently looking for a Game Analyst for our headquarters in Aarhus.
+THE JOB
+As our new Game Analyst, you will refer to our Lead Analyst and you will be an essential part of our Analytics Department. You will be involved in every stage of the development cycle, working with the game teams to support them with data-driven insights from concept to launch, always keeping the product at heart.
+You will create and maintain an in-game event library in order to collect relevant in-game data; you will develop models for predicting and segmenting players behaviour or to forecast revenue of a specific title; you will be running A/B tests and work with Game Designers to improve balancing and the health of our in-game monetization; you will develop dashboards in order to support cross-departmental activities and in general you will play a lot of games and strive to provide data-driven insights that add value and make our games more fun!
+YOUR PROFILE
+It is essential that you have strong data analysis skills, suited for the highly skewed populations occurring in free-to-play games, and at the same time possess the strategic thinking and interest in the mobile industry knowledge that is required to support decisions. Your advice and recommendations will have a huge impact on the game development and will need to be clearly communicated and always based on verifiable arguments. Thus, your ability to communicate and share knowledge to different audiences is key.
+Furthermore you:
+
+love games, and always have!
+have at least a bachelor’s degree, ideally in economics, finance, maths, but it could also be in data science, statistics or anything numbers-heavy
+love data analysis, have a background in statistical modelling techniques and have an understanding of A/B testsare an Excel super user and you have some experience with SQL
+are comfortable with R or Python
+are an excellent communicator and you enjoy proactively sharing insights
+are interested in the game industry, and have a willingness to keep yourself updated
+are fluent in English, spoken and written
+It is a bonus if you:
+
+have experience with Tableau or a similar tool and have excellent data visualization skills
+are familiar with performance marketing and user acquisition
+WHAT DO WE OFFER?
+
+An opportunity to influence the future of our titles
+A trusted position in the coolest game company
+An international and unique organizational culture with a lot of social activities and events
+A chance to work with experienced and passionate colleagues
+Assistance with relocation and work visa
+WHERE DO WE GO FROM HERE?
+Now that you are interested in this position, hurry up and send your CV and a cover letter, in English, telling us about your favorite mobile games, your technical skills and why you want to work for Kiloo. Use the form on our website or send your CV and cover letter to jobs@kiloo.com. Be sure to include “Game Analyst” in the subject line of your email, and include a note saying where you found this job advertisement.
+Looking forward to hearing from you!]

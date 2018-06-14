@@ -1,0 +1,19 @@
+[Vi søger en kvalitetsbevidst og struktureret programmør til udvikling og vedligehold af test- og lysmålesystemer i .NET.
+SGM Light A/S, der er en betydelig global spiller inden for lysdesign-løsninger til underholdningsindustrien og arkitektur, søger en softwareprogrammør, der skal medvirke til at sikre virksomhedens fortsatte udvikling.
+Virksomheden har mange spændende opgaver og er inde i en rivende udvikling, som du vil få rig mulighed for at blive en del af. Du skal derfor kunne trives og udvikle dig i en iværksætterkultur, hvor alt ikke er givet på forhånd, men hvor du har mulighed for at sætte dit præg på udviklingen. Du bliver en del af SGMs udviklingsteam, som består af 12 fagligt skarpe og engagerede medarbejdere, heraf tre kolleger i softwareteamet.
+Opgaver og ansvar
+Som softwareprogrammør bliver dit primære ansvarsområde at sikre produkternes kvalitet til aftalte deadlines, hvorfor jobbet medfører en tæt dialog med den øvrige udviklingsafdeling og produktion.
+Dette gør du ved at programmere og vedligeholde testsystemer og intelligente lysmålesystemer i form af eksempelvis visionteknologi. På baggrund af de indsamlede data opbygger du databaser til håndtering af de indhentede komplekse måledata.
+Du får mulighed for at tage ejerskab af produktet gennem hele processen og får derved mulighed for at se et fysisk resultat af din programmering inden for lysrobot-teknologi. 
+Faglige kvalifikationer
+Du har sandsynligvis en baggrund som ingeniør, datamatiker eller anden relevant uddannelse. Vigtigst er det, at du har solid .NET erfaring inden for området og kan se en udfordrende fremtid i denne stilling.
+Kendskab til datakommunikation, avanceret måleudstyr samt visionsteknologi er en stor fordel.
+Personlighed
+Som person er du systematisk og grundig, og du går op i at have fokus på kvalitet og har sans for detaljen. Du er af natur ansvarsbevidst og kan lide at arbejde selvstændigt. Du er muligvis en person, som er iderig og nysgerrig, men vigtigst af alt er du god til at afslutte de påbegyndte opgaver. Du værdsætter derudover en god, uformel, humoristisk omgangstone.
+Du tilbydes
+Du kommer til at arbejde i en dynamisk og international virksomhed, og du vil få nogle kollegaer med stor interesse for feltet. Du kommer som softwareprogrammør til at få med hele virksomheden at gøre, og dit arbejde vil spille en væsentlig rolle i forhold til virksomhedens fremtidige udvikling. Der er gode muligheder for faglig og personlig udvikling i et arbejdsmiljø, hvor åbenhed og humor vægtes højt.  SGM tilbyder dig derudover en god løn, pension,  mobiltelefon og internet i hjemmet.
+Tiltrædelse
+Der er ansættelse hurtigst muligt, men der ventes gerne på den rette person.
+Ansøgning
+Alle ansøgninger behandles fortroligt og vil ikke blive videregivet til kunden uden din tilladelse. Ønsker du at søge stillingen, så send ansøgning og CV via link på denne side. For yderligere information kontakt direktør Claus Bak på e-mail cb@betterpeople.dk eller mobil 5383 4994.
+(C) betterpeople A/S ]

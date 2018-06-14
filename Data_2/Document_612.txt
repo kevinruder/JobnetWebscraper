@@ -1,0 +1,48 @@
+[Afdelingen for Måling og Instrumentering i DTU Space søger et dygtig medarbejder som vil indgå i produktionen og test af stjernekamera og andre navigationsinstrumenter. 
+ Du vil indgå i vores team af forskere, ingeniører og teknikere, og du skal være en del af vores produktionsgruppe. Du vil deltage i flere processer som udvalg af komponenter og opdatering af database, styring af komponentlager, test af print, udarbejdelse af dokumentation og i mange andre praktiske opgaver. 
+
+ De primære arbejdssområder 
+
+ I samarbejde med kollegaer vil du 
+ •registrere forbrug i vores komponent-database, kontrol og inddatering af nye komponenter samt opgørelse af aktuel status 
+ •udvikle eksisterende testprogrammer og database 
+ •administrere vores lager af elektroniske og mekaniske komponenter 
+ •udvælge komponenter til montering ud fra specifikke lister 
+ •udarbejde nye testopstillinger, metoder og programmer 
+ •udføre funktions og elektriske test af print og færdigbyggede enheder 
+ •dokumentere procedurer og udarbejde testrapporter 
+
+ Vores forventninger til dig 
+ •Bachelor, elektroniktekniker eller tilsvarende uddannelse gerne med en del erfaring i fremstilling og test af højpålideligt elektronisk udstyr 
+ •En del erfaring med programmering er nødvendig, da vi anvender LabView og Microsoft Access med VBA kodning 
+ •Kendskab til elektroniske komponenter primært til SMD montering. 
+ •Grundigt kendskab til Microsoft Office pakken (Word, Excel, Visio) 
+ •I vores branche er kravene til instrumenternes pålidelighed ekstrem vigtige, hvorfor jobbet kræver stor omhyggelighed, præcision og tålmodighed 
+ •Du er struktureret, grundig, pålidelig og med interesse for at lære vores metoder og arbejdsprocesser 
+ •Du behersker dansk og teknisk engelsk, i tale og skriftligt 
+
+ Jobbet kræver høj standard i hygiejne da arbejdet foregår i et rentrumsmiljø. 
+
+ Hvad tilbyder vi dig 
+ Vi tilbyder et spændende job med gode muligheder for faglig og personlig udvikling. Arbejdsområdet er et højt specialiseret felt, som få er privilegeret at arbejde med. Afdelingen for Måling og Instrumentering er en fleksibel, familievenlig arbejdsplads med en uformel og åben omgangsform. 
+
+ Løn og ansættelsesvilkår 
+ Løn og ansættelsesforhold i henhold til fællesoverenskomsten samt organisationsaftale for håndværkere i staten eller AC-overenskomsten. Lønnen fastsættes ud fra jobbets indhold og dine kvalifikationer. 
+
+ Ansættelsen er tidsubegrænset og på fuld tid med tiltrædelse snarest. 
+
+ Ansøgning og kontakt 
+ Vi skal modtage din online ansøgning senest den 9. april 2018. 
+
+ Åbn linket "Ansøg online", hvor du udfylder ansøgningsformularen samt vedhæfter motiveret ansøgning, CV og eksamensbeviser. 
+
+ Ønsker du flere oplysninger om stillingen, er du velkommen til at kontakte Finn Jørgensen, fj@space.dtu.dk eller Anastassia Bang, am@space.dtu.dk. 
+
+ Alle interesserede uanset alder, køn, handicap, race, religion eller etnisk tilhørsforhold, opfordres til at søge stillingen. 
+
+ DTU Space er den ledende rumfartsorganisation I Danmark med ca. 145 medarbejdere. Instituttets mission er at udføre forskning, udvikling, forskningsbaseret rådgivning, uddannelse og innovation på det højeste internationale niveau inden for følgende felter: Rum teknologi og instrumentering, Jordobservation & Geosicence samt rum- og astrofysik. 
+
+ Afdelingen Måling og Instrumentering, Institut for Rumforskning og -teknologi, DTU Space, søger en kvalificeret medarbejder til at udføre opgaver indenfor fremstilling af rumfartsinstrumenter. Afdelingen har designet, udviklet og testet instrumenter til flere end 60 rumfartsmissioner. 
+ Læs mere om Institut for Rumforskning og -teknologi på: http://www.space.dtu.dk/Forskning/Afdelinger/Maaling_og_instrumentering 
+
+ DTU er et teknisk eliteuniversitet med international rækkevidde og standard. Vores mission er at udvikle og nyttiggøre naturvidenskab og teknisk videnskab til gavn for samfundet. 11.000 studerende uddanner sig her til fremtiden, og 5.800 medarbejdere har hver dag fokus på uddannelse, forskning, innovation og forskningsbaseret rådgivning, som bidrager til øget vækst og velfærd. DTU stiller krav og giver muligheder uanset hvor i organisationen, man arbejder. Vi står for høj faglighed, kollegial respekt og ansvarlig handlefrihed.]

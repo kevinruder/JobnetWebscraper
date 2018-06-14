@@ -1,0 +1,26 @@
+[As a Falcon Backend Software Engineer, you will help build, scale and improve the backend of a fast growing Customer Experience platform. You will aid us in building a real time, scalable, stable platform serving thousands of clients in a reliable and performant manner. You will be using new technologies, to solve hard problems in a friendly and encouraging work environment. You will also be encouraged to share your experience and knowledge, sparring with your colleagues to grow together!What we are looking for:
+
+
+Good knowledge of Python, especially Python3 and libraries such as: Flask, Requests, Celery, SQLAlchemy
+Experience with relational (e.g. PostgreSQL) and NoSQL (e.g. ElasticSearch, Redis) databases
+Good knowledge of  RESTful APIs, their design and implementation
+Experience with building and/or running large-scale applications on a PaaS/SaaS cloud, preferably AWS
+Experience with building scalable data processing pipelines
+Knowledge of Docker and containerization a big plus
+English language fluency
+What you'll do:
+
+
+Help design, design and improve our services while helping us adopt best practices 
+Write elegant, self testing, well documented code
+Be mindful of the business - by communicating with your colleagues and management, help us ensure that we’re building the right thing at the right time
+What you can expect from us:
+
+
+Internal tech talks, skills-building resources and technical people leads who help you achieve mastery
+Social events like friday bar, rooftop parties, company outings and more
+Competitive salary with pension and health benefits
+Assistance for relocation if not currently living in Denmark
+Breakfast, lunch, snacks and drinks
+About Falcon.ioFalcon.io is Europe's leading CX platform. Headquartered in Copenhagen Denmark, we have offices in Budapest, Berlin and New York. We have a strong customer base in Europe and are quickly gaining foothold in USA.
+We’re a nimble team of around 40 developers building a big integrated, polished, easy to use SaaS suite. We value self motivated, driven and enthusiastic developers who want to take active part in our journey - this is more to us than ‘just’ programming!We take an agile approach to problem solving, and favor failing early when venturing off the beaten path. We honor initiative, and learn from our mistakes.]

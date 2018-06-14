@@ -1,0 +1,52 @@
+[An opportunity to lead software engineering & technical engagement programs for Microsoft in Northern Europe   
+Do you love bleeding-edge technology? Do you want to work with Microsoft’s most important customers and make them more successful by helping them to apply new technology?   Would you enjoy delivering new software engineering and technical programs? If so, then we have the job for you in the Microsoft Commercial Software Engineering (CSE) team. We are looking for someone with a deep passion for technology, deep and fresh hands-on software engineering experience, ability to create and deliver high impact programs and the ambition to drive results with, and through a team of Software Engineers. 
+ 
+The Commercial Software Engineering (CSE) team enables high-impact organizations and developer communities to achieve more and drive the value of our intelligent cloud and intelligent edge. How do we do it? We are an industry-leading software engineering team that codes with partners, customers & technical communities every day. We accelerate platform adoption and serve as trusted technical experts by coding side by side with development teams. 
+ 
+We are looking for a Senior Technical Program Manager with 
+ 
+deep and broad experience of both the software development cycle and modern software engineering practices 
+deep, broad and fresh hands-on software engineering and architecture expertise from cloud or data domains 
+ability to understand, prioritise and address key customer problems and opportunities 
+proven record of ability to facilitate and deliver deep technical and business negotiations with C-level executives 
+ability to identify and prioritize industry wide or technology area scenarios and drive investment decisions and execution to deliver them   
+ 
+You will ‘own’ key technology scenarios and work with software engineers to address the biggest customer problems, orchestrate the engineering approach to address these, and be able to tell the end-to-end story with internal and external stakeholders. This will include working on major commercial opportunities where software development expertise unblocks deals and engaging across Microsoft’s businesses in the UK to drive adoption of the newest technologies. Your virtual team across software engineers will deliver contributions to key open source and internal frameworks and build the technical evidence and case studies that can be showcased to inspire others.   
+ 
+These scenarios will likely change on a frequent basis, so you’ll need to love learning about new technology quickly, and enjoy going from the ’10,000 ft.’ view to feature-level detail – including testing / demonstrating your vision with code. 
+ 
+To thrive in our team, you will be self-motivated to sharpen and deepen your own technical skills. Loving the complexity, uncertainty and constant change of our environment, you see ambiguity as an opportunity to lead and set direction for the team and yourself. You’ll be leading and collaborating with inspirational people, and your constant thirst to learn, to try new things and to take risks will make you and your team successful. Above all you’ll need to be inspired, and be able to inspire others, with the stories that you and your peers create through code & data. 
+ 
+ 
+The Impact You’ll Be Making 
+In this role, you will be responsible for: 
+ 
+Leading end-to-end planning, execution and reporting of key technology programs to drive excitement and adoption of our Intelligent Cloud and Intelligent Edge. Some key focus areas include: Cross-industry digital transformation, AI, Mixed Reality, High scale cloud native apps and data and IoT. 
+Demonstrating technical subject matter expertise to lead virtual teams to scope projects, architect and design solutions, and resolve issues. 
+Delivering ongoing market and competitive insights in collaboration with Microsoft business groups and Evangelism teams, using them to define a product/service vision and to optimize programs. 
+Partnering with the Software Engineering & Evangelism teams to identify and deliver highly visible and scalable early platform/technology adoption opportunities with communities, customers and partners. 
+Building trusted relationships with the relevant Microsoft account leadership in Northern Europe and more broadly, ensuring that they see value from the CSE programs you run and help drive digital transformation within their key customers. 
+Rocking the basics of program management essentials including technology understanding, and articulating product feedback to the product groups. 
+Embracing a nascent but growing account engagement approach such as account plans, pipeline management and post-engagement technical hand-offs. 
+ 
+ 
+Who We Are Looking For 
+We often think we know the kind of person we are looking for, but invariably find that we hire an individual that doesn’t meet any specific definition. So please relax - there’s no such thing as “the ideal candidate” for this or any role at Microsoft, and in this spirit, the list below is absolutely NOT a check list to be completed but simply a set of pictures we’re painting to give you an understanding of the role. 
+ 
+Proven record of success with Program Management or Product Development in software engineering. 
+Strong knowledge of application development practices and a track record of working closely with large software engineering teams. 
+Deep understanding of Cloud, Mobile and other computing technologies, business drivers, and emerging trends across Microsoft and non-Microsoft technologies. 
+Deep, broad, fresh, production grade and hands on software engineering experience from cloud and/or data domains 
+Leadership (but not necessarily Management!) especially of geographically dispersed, virtual teams and ability to orchestrate a high-performing team. 
+Ability to build technical and business relationships with senior business stakeholders leadership teams within Microsoft businesses.
+Results-driven with strong verbal and written communication ability including fluency in English. 
+Be prepared to spend 25% of your time travelling within the Northern Europe, EMEA and occasional travel worldwide.   
+ 
+We will adjust the context and complexity of the role according to the candidate. 
+ 
+At Microsoft, we believe that diversity enriches our performance and products, the communities where we live and work, and the lives of our employees. As our workforce evolves to reflect the growing diversity of our communities and the global marketplace, our efforts to understand, value, and incorporate differences become increasingly important. Come explore diversity at Microsoft!   
+ 
+Our values: come as you are, do what you love 
+At Microsoft we expect all our people to have a passion for technology and the positive impact that technology can have on the communities in which we live and do business. We seek motivated individuals who wish to use Microsoft as a platform for making a difference in the world. Microsoft is an equal opportunity employer and sees workforce diversity as the foundation on which we will deliver on our company mission to empower every person and organisation on the planet to achieve more.   
+ 
+We have an informal and flexible work environment and you’ll be welcome to work from home, our offices, customer sites or your favourite coffee shop next to the gym – wherever is best for you to get your job done. We invest in your health, wellness and financial future by offering a competitive package including a wide range of benefits built around your personal needs and of those close to you.]

@@ -1,0 +1,54 @@
+[Koncern HR på DTU søger en dygtig dataspecialist og analytiker, som skal arbejde med datatræk, udvikling af dataområdet, kvalitetssikring af data og dataanalyse. 
+
+ I Koncern HR på DTU er vi ca. 80 medarbejdere og 8 ledere, fordelt på faglige sektioner og et HR Ledelsessekretariatet, som du vil blive en del af. Der er i alt 11 medarbejdere i HR Ledelsessekretariatet, som blandt andet leverer data på HR-området til Koncern HR, DTU’s Direktion, institutter og ledere. 
+
+ Dataområdet har gennem de sidste fire år været igennem en udvikling, og DTU har nu et velfungerende BI-system og processer på dataområdet. Som HR dataspecialist og analytiker får du overordnet ansvar for at generere og validere data og nøgletal på HR-området samt at sikre den fortsatte udvikling af dataområdet. 
+
+ Koncern HR er i gang med implementering af et nyt HR-system (Oracle), som også får betydning for udviklingen af dataområdet og det BI-system, der anvendes i dag. Det forventes, at du indgår i dette projekt og kan bidrage med viden og erfaring inden for dataområdet. 
+
+ Dataspecialist og analytiker 
+ Det forventes, at du har erfaring med BI og en forståelse for vigtigheden af anvendelsen af human capital analytics til at træffe strategiske beslutninger. Endvidere forventes det, at du har flair for tal og kan sætte dem ind i en større kontekst med henblik på at validere data. Dine primære ansvarsområder vil være: 
+ • Specialist på standardrapporter på HR-området 
+ • Ad hoc dataanalyser til DTU’s Direktion og Institutledelser 
+ • Ansvarlig for diverse indberetninger af data og rapporteringer (f.eks. fraværsdata til Danmarks Statistik og sygefraværsrapporter til DTU’s ledere) 
+ • Udarbejdelse af data til DTU’s årlige lønforhandlingsproces 
+ • Udarbejde HR-data til DTU’s årsrapport 
+ • Udarbejde data på Koncern HR’s driftsopgaver til Koncern HR’s årsrapport 
+ • Kvalitetssikre Koncern HR’s driftsopgaver, f.eks. indtastning i systemer 
+ • Deltage i projekter som dataspecialist 
+ • Deltage i udviklingen af dataområdet 
+
+ Talekspert og systemforståelse 
+ Som dataspecialist og analytiker vil du få mange samarbejdsrelationer på tværs af Koncern HR og DTU. Du vil have et tæt samarbejde med DTU’s IT-afdeling og Økonomiafdeling. Endvidere vil du komme til at arbejde en del i de systemer, hvor data er lagret. Derfor forventes det, at du både er samarbejdsorienteret og kan løse opgaver selvstændigt. 
+
+ Desuden forventer vi, at du: 
+ • Er superbruger i Excel 
+ • Har teknisk flair 
+ • Har erfaring med BI-systemer (gerne Qlickview og Oracle) 
+ • Har erfaring med at arbejde med human capital analytics 
+ • Kan lide at agere selvstændigt og i samspil med andre 
+ • Har et stærkt personligt drive 
+ • En uhøjtidelig og omgængelig facon 
+
+ Vi tilbyder 
+ Du tilbydes en udfordrende stilling i en ambitiøs og videnstung afdeling, hvor du kommer til at arbejde sammen med kompetente kolleger. DTU er kendt for at have en åben og uformel omgangstone, i et miljø, der tænker og agerer akademisk. Det er også en organisation, hvor der udvises respekt for den enkelte medarbejder. 
+
+ Du kommer til at udfolde dine evner på et teknisk eliteuniversitet i verdensklasse, hvor Koncern HR er en essentiel del af at understøtte og udvikle universitetets aktiviteter. 
+
+ Du får gode muligheder for løbende at beskæftige dig med nye og udfordrende opgaver og kan selv være med til at præge retningen – og bl.a. derigennem opnå både personlig og faglig udvikling. Her til kommer mulighed for løbende at videreuddanne dig. 
+
+ Løn og ansættelsesvilkår 
+ Du ansættes som fuldmægtig i henhold til overenskomsten for akademikere i staten (AC) og din løn fastsættes på baggrund heraf. DTU har desuden en familievenlig politik med flekstid - arbejdstiden er gennemsnitlig 37 timer pr. uge inkl. frokost. 
+
+ Arbejdsstedet er Koncern HR, DTU Lyngby Campus. 
+
+ Ansøgning og kontakt 
+ Vi skal modtage din online ansøgning senest den 11. april 2018. Åbn linket "Ansøg online", hvor du udfylder ansøgningsformularen samt vedhæfter motiveret ansøgning, CV og eksamensbeviser. 
+
+ Ønsker du flere oplysninger om stillingen, er du velkommen til at kontakte kontorchef, Christina Colding Nedergaard på 2712 4533, mail: ccone@adm.dtu.dk. 
+
+ Der afholdes 1. samtaler den 18. og 19. april 2018 og 2. samtaler den 25. april 2018. 
+
+ Alle interesserede uanset alder, køn, handicap, race, religion eller etnisk tilhørsforhold, opfordres til at søge stillingen. 
+
+ DTU er et teknisk eliteuniversitet med international rækkevidde og standard. Vores mission er at udvikle og nyttiggøre naturvidenskab og teknisk videnskab til gavn for samfundet. 11.000 studerende uddanner sig her til fremtiden, og 5.800 medarbejdere har hver dag fokus på uddannelse, forskning, innovation og forskningsbaseret rådgivning, som bidrager til øget vækst og velfærd. DTU stiller krav og giver muligheder uanset hvor i organisationen, man arbejder. Vi står for høj faglighed, kollegial respekt og ansvarlig handlefrihed.]

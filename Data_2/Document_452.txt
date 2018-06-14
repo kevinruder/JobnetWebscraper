@@ -1,0 +1,37 @@
+[As a developer in Shoreline, you will join a team of engineers providing wind farm developers, operators, service providers and OEMs around the globe with world-class simulation, analysis and visualization software and services by utilizing state of the art artificial intelligence technology.
+You will be part of a team developing our simulation and analysis platform Shoresim (TM), which is a fully integrated cloud based system. The system provides data collection and storage, customer access control, advanced visualization and analysis capabilities. Features like agent-based simulation, machine learning, result analysis, 2D and 3D visualization are essential components of the system.
+You will work in an agile team environment where you will be involved in all aspects of our development; analysis, design, user experience, test-driven development, code quality review.
+The ideal candidate will have strong development and teamwork skills, and a creative and innovative mind set.
+Job duties
+As a developer, you will take part in the following, but not limited to, activities:
+
+Participate in all product development phases from analysis and architectural design to software implementation and quality assurance
+Develop software and solutions in all areas, from databases to computing technologies
+Carry out tasks in general, as directed by the CTO/VP Engineering
+At all times adhere to Shoreline’s general code of conduct and ethical guidelines
+Requirements
+Primarily we are looking for a developer, who can relate to following:
+
+Object oriented programming experience (C# or Java)
+Front end programming experience (HTML, JavaScript, Node.js, CSS)
+Knowledge of relational and/or non-relational databases (MySQL, MongoDB)
+Experience with test driven development
+Be self-motivated, flexible and self-driven
+A relevant higher degree of education
+Good communication skills in English
+A customer and user focused mind-set
+We offer 
+
+The opportunity to become a member of a small fast-growing company with a huge global potential, where your contribution will make a significant difference
+An international working environment, with a team of knowledgeable and dedicated people that together create awesome services for our customers and amazing software.
+Remuneration package matching your qualifications and market conditions
+Company lunch program in Esbjerg
+Team Building
+Please send you application as soon as possible to applications@shoreline.no 
+If you have any questions related to the position Ronni H. Baslund can be contacted on +45 2063 7474 or baslund@shoreline.no 
+Visit http://www.shoreline.no to get to know us and our products. 
+About Shoreline AS
+Shoreline provides simulation software and consultancy for the global offshore wind industry. With our state of the art in-house developed simulation and optimisation solutions, customers can simulate, visualise, analyse and optimise operations from installation through operation and maintenance onto decommissioning, and obtain significant savings and increased profitability. We furthermore provide our knowledge and experience along the whole project life cycle, through consultancy services.
+Our simulation solutions are used by all stakeholders in the value chain ranging from developers and operators to OEMs, vessel owners and technology providers.
+We are based in Stavanger, Esbjerg, Hamburg and Palo Alto with a fast-growing team, and we are looking for a software/web developer to help us lift our platform to the next level.
+ ]

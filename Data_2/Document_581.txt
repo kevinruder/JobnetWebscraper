@@ -1,0 +1,21 @@
+[Vi har behov for en ny konsulent, der kan betjene vores helpdesk og varetage support af vores kunder i brugen af vores systemer, rådgivning om elektronisk faktura, NemHandel og PEPPOL samt i det hele taget være virksomhedens daglige ambassadør for en optimal kundebetjening.
+Opgaverne vil hovedsagelig bestå i support indenfor følgende områder:
+
+Elektronisk faktura i Danmark og udlandet f.eks. OIOUBL og PEPPOL-BIS
+Den danske NemHandel infrastruktur samt den europæiske PEPPOL infrastruktur
+Vore egne produkter som VAX 360, VAX Data Capture, og integrationsløsninger til e-Boks m.v.
+Teknisk bistand til implementering af løsninger hos vore kunder
+
+Herudover bliver du ansvarlig for oprettelse, konfigurering og administration af VAX løsninger til vores kunder.
+Du vil indgå i en tæt dialog med vores konsulenter og systemudviklere på hele området, om betjening af vores kunder.
+Personen vi søger
+Du skal være udadvendt, struktureret og effektiv, har gode sproglige egenskaber og behersker dansk og engelsk såvel mundtligt som skriftligt, er selvstændig men samtidig en holdspiller, serviceminded og i stand til at skabe gode relationer til både kunder og kollegaer.Vi forventer, at du har kendskab til kundesupport på højt kvalificeret niveau samt kendskab til den danske elektroniske faktura og NemHandel.
+Vi kan til gengæld tilbyde dig
+Et godt og inspirerende arbejdsmiljø, en god etableret kundeportefølje af både private og offentlige virksomheder. Kort sagt en god solid virksomhed, der har fokus på kunden og stiller store krav til kvalitet og leverance. Du bliver medlem af et team, der er i besiddelse af en helt unik kompetence på området.
+Vi kan tilbyde dig en løn, der svarer til dine kvalifikationer og præstationer.
+Ansøgning og yderligere oplysninger
+Såfremt du er interesseret i jobbet, kan du sende din ansøgning som e-mail til job@mysupply.dk mærket ”supportkonsulent” senest den 9. marts 2018.
+Såfremt du ønsker yderligere information, kan du kontakte projekt- og konsulentchef Frank Hejselbæk på telefon 9696 2141 eller 4025 4786.
+Om mySupply
+Vi har specialiseret os i implementering af NemHandel og PEPPOL løsninger og er i gang med salg af vores løsninger i udlandet. Vi har udviklet egne systemer for udveksling af elektronisk faktura Vi yder rådgivning og support til offentlige og private virksomheder i brugen af NemHandel og PEPPOL (elektronisk faktura).
+Du kan søge nærmere oplysninger om os og vore produkter på https://mysupply.dk og https://vax360.mysupply.dk.]

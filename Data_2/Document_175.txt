@@ -1,0 +1,44 @@
+[We're looking for a front-end specialist to take ownership of the user facing aspects of the Siteimprove platform, and to work closely with our product teams to make sure our front-end tooling and developer ergonomics are best in class.
+You will be someone who not only loves building great user experiences, but also has a clear understanding of what makes a great front-end working environment. This includes everything from what JavaScript frameworks to use, how to handle CSS, how to best model front-end components to how to build testability in, how to design the delivery pipeline and, very importantly for us and our customers, how to build accessible UI.
+The Siteimprove platform is a data-heavy asp.net web application which is shared between our products. You will take ownership of the UI component library we use to build the customer-facing parts of the platform and develop it through close collaboration with our product teams. We are very ambitious when it comes to bringing value to our customers through data visualization and excellent UX, and you will help the product teams achieve those goals.
+You will be part of the Core Engineering team which solves platform-wide problems and builds tools and infrastructure for the product teams, while also taking active part in many of our product deliveries.
+Responsibilities
+
+Develop and maintain our internal UI library
+Build accessibility into our UI tools, making sure they are 'accessible by default'
+Work together with product teams on solving complex front-end tasks
+Take ownership of the front-end related parts of the build pipeline
+Take part in and improve on the way we develop software
+Understand what other teams are doing, help them, take action when you see problems on the horizon
+What We Require of You
+
+Have at least 5 years of professional experience building real software solutions
+Be outstanding with modern front-end technologies
+Be fluent in spoken and written English
+Thrive working in an iterative development process, being a strong, independent problem-solver
+Be proud of what you deliver to end users
+You need to have practical knowledge of agile development and continuous delivery. You should be equipped to challenge and tune our processes, and you should be ready to mentor us in your favorite practices.
+What We'll Love About You
+
+A relevant educational background within IT, bachelor level or more would be great!
+That you’re self-driven, creative, inquisitive individual possessing lots of drive. Aiming to join a team of skilled colleagues, whom you can inspire, and who can inspire you.
+The Siteimprove front-end toolbox
+We value general skills and experience higher than any specific technology, and technology stacks should always be challenged, improved and renewed. If you have an interest in any of the following, or if you have something to add, we will consider that a bonus.
+
+Javascript, C#
+vue.js, Knockout, Backbone, D3
+babel, rollup, gulp, npm, styled-components, eslint, prettier, jest
+What You'll Love About Us
+Siteimprove is a Danish founded multinational company with over 450 employees worldwide. In addition to our headquarters in the heart of Copenhagen, we have offices in Minneapolis, London, Berlin, Vienna, Amsterdam, Oslo, Sydney and Toronto, and our customers are spread across North America, Europe, Japan and Australia.
+Siteimprove transforms the way organizations manage and deliver their digital presence. With the Siteimprove Intelligence Platform, you gain complete visibility and deep insights, empowering you and your team to measure what matters, drive accountability, and act with certainty.
+We also offer amazing perks!
+
+Great and Inspiring Company Culture. We are passionate, innovative and people-centric. We’re consistently named as a great place to work across the globe
+Amazing Kitchen Staff. Our celebrity head chef and his kitchen staff cook delicious lunch for us every day. There’s always cake on Fridays and on special occasions and celebrations (which, luckily, is quite often). Naturally, we offer free coffee, free sodas and free fruit ad libitum, plus there’s opportunity to buy food to take home at extremely reasonable prices
+Outstanding Office Location. We are located in the heart of Copenhagen in a beautiful building sometimes referred to as “the Palace” by our employees
+Own Friday Bar. On the top floor, we have our very own Friday Bar with quality beverages. In the summer, we may take the party to our cozy courtyard for barbecuing in the sun
+Coding Club, Events, and Workshops. The Coding Club meets weekly (pizza and beverages on the house), and we regularly throw in-house events and workshops
+Corporate Social Responsibility. We do various activities to be a good corporate citizen, and we are very proud to be a socially responsible company, internally and externally. Learn more about our CSR efforts here
+How To Apply
+Click on the ‘Apply Now’ button to submit your application. If you have any questions regarding the job or need a reasonable accommodation to apply, feel free to contact our Talent Acquisition Specialist Jacob Bjerrehuus at +45 3161 6742.
+Siteimprove is a global corporation and has developed data practices designed to assure your personally-identifiable information is appropriately protected. Please note that personal information may be transferred, accessed and stored globally as necessary for the uses and disclosures stated in accordance with our Privacy Policy at Siteimprove.com/privacy]

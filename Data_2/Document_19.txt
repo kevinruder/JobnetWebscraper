@@ -1,0 +1,16 @@
+[Deployment konsulent med appetit på lidt mere
+Elsker du at lære nye teknologier? Er du god til at tale med IT-administratorer, der har behov for hjælp? Motiveres du af, at tingene begynder at virke igen ude hos kunderne? Søger du nye faglige udfordringer, spændende opgaver og en alsidig hverdag?
+Så er det måske dig, vi søger til vores tekniske afdeling!
+Vi søger en dygtig Deployment konsulent, som kan supportere vores kunder med EasyInstall, software pakker, Windows Images og Mobile Device Management. Du kommer også til at arbejde tæt sammen med vores udviklings afdeling.
+Du kan nikke genkendende til en eller flere af de følgende teknologier:
+Microsoft Windows Server og Workstation, Android, Apple iOS / MacOS på administrator niveau. Deployment og software distribution. Du har evt. erfaring med EasyInstall eller tilsvarende system.
+Dine primære opgaver:  • Support i vores Helpdesk system • Udvikling af software pakker og images • Onsite installation hos kunder • Onsite Workshops hos kunder • Online demo for mulige nye kunder • Test og dokumentation af EasyInstall
+Vi kan tilbyde: • Et alsidigt job med spændende udfordringer og mulighed for personlig og faglig udvikling • Dygtige og engagerede kolleger i et uformelt arbejdsmiljø • Store muligheder for at præge dit jobindhold • Du vil indgå i samarbejdet på lige niveau med de øvrige kollegaer • Rejseaktivitet kan forekomme.
+Du skal have kørekort til personbil og være villig til at anvende din egen bil. Som person er du mødestabil, engageret og struktureret. Du bevarer overblikket, selvom der er mange, der har brug for din hjælp i løbet af en dag. Du skal være præsentabel og god til at tale og skrive dansk / engelsk på teknisk niveau.
+Arbejdsstedet er IXP Datas hovedkontor i Køge i teknisk afdeling.
+Interesseret? Har du spørgsmål vedr. jobbet, kan du kontakte Jan F. Jakobsen på e-mail: jfj@ixpdata.dk 
+Send din ansøgning og dit CV allerede i dag til hr@ixpdata.dk
+Vi gennemgår og behandler ansøgninger løbende.
+IXP Data er en IT udviklings- og konsulentvirksomhed, som arbejder med at gøre administration af din Microsoft baserede IT infrastruktur lettere og mere effektiv. Vi har gennem adskillige år specialiseret os i System Management løsninger til mellemstore og store virksomheder.
+ 
+ ]

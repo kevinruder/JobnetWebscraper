@@ -1,0 +1,29 @@
+[Do you want to join our CORE algorithm team?
+ 
+As a Core Developer you will be deeply involved in the development and optimization of our tracking systems. The Team is responsible for converting the raw radar signal, video feeds and other sensors into accurate and meaningful information about the performance of the athlete. Our Doppler radar based products measures ball impact, ball flight, and ball landing by providing more than a dozen different data points as reference, such as ball speed, spin rate and carry. This valuable information is instantly made accessible on the user’s mobile device for easy-to-understand feedback and analysis on performance. You will play a significant role in the development of our world-leading golf and baseball proprietary sensor technology, which is now also being applied in football, tennis, cricket and many other sports. You will have the opportunity to do your own research and development work, and see the direct impact of it.
+ 
+Are you our new colleague?
+Our ideal candidate is specialized in one or more disciplines in the areas of signal processing, mathematic modeling and tracking algorithms. Other relevant topics include optimization algorithms, statistics, machine learning and convolutional neural networks.
+ 
+Your responsibilities will include specific ownership of a product or part of a core process within the tasks of the team, based on you experience and competencies. You will be working together with other specialist within these fields and together we strive to remain the best in the world at what we do.
+ 
+Requirements
+
+Master Degree in Computer Science or equivalent training
+Strong skills in Signal Processing and/or Mathematic Modeling
+Strong mathematical skills
+Solid programming skills within C++ / C# / Python
+Working in a fast-paced, team-based environment also demands a certain degree of self-planning, as well as the ability to work independently. Your colleagues are highly skilled, innovative and pro-active in their work approach. They possess strong analytical skills, tend to be good communicators in Danish or English, and take pride in their job and deliverables. We expect you to be of a similar caliber.
+ 
+So what does TrackMan do? 
+TrackMan develops, manufactures and sells 3D sports ball measurement systems. Our technologies are used by top performing athletes, coaches, and organizations in a broad spectrum of sports, spanning from golf, baseball, football (soccer), and tennis, to more unique disciplines like the Olympics’ hammer throw and shot put. Common for them all is their need for reliable and actionable data in their quest of unleashing potential. Today, TrackMan is considered to be the world leader in sports ball measurement, and the company has become the industry standard for accuracy in both golf and baseball.
+ 
+Join a great company! 
+TrackMan's blend of sports, cutting-edge technology and robust growth make it a unique workplace. The work culture is entrepreneurial, ambitious, and rewarding as you collaborate with some of the best brains in Denmark in the areas of algorithms, radar technology, computer vision, software development, coding, embedded software and hardware development. TrackMan's state-of-the-art technologies are conceptualized, engineered and developed by combining engineering know-how with an embracing and an ever-diversified pool of cultures and talents. 
+ 
+TrackMan A/S is a privately held Danish company, established in 2003. Today, TrackMan has a global footprint with its headquarter located in Denmark (Vedbæk) and offices in New York, Phoenix, Poland and Tokyo. We are more than two hundred people worldwide, of which hundred work in Denmark. Here, most hardware and software products are developed, tested and manufactured.
+ 
+Apply today and join a company with great technologies, great colleagues, and great opportunities to grow. 
+ 
+Due to the high number of hires, applications (and subsequent interviews) are ongoing and without time limits. If you have any question or would like to learn more, please contact HR Manager Lene E. Olesen at leo@trackman.com.  We look forward to hearing from you soon.
+Apply for this JobApply for this Job Apply with LinkedIn Apply with Indeed]

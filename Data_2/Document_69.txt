@@ -1,0 +1,43 @@
+[The Group of Machine Learning and Applied Statistical Signal Processing (πSeG) and Embodied Systems for Robotics and Learning (ESRL) invites applications for a vacant position as a postdoctoral fellow in Industry 4.0 with the focus on big data analytics targeted at Medical Robots, to be filled as soon as possible and for a period of 2 years.
+About the Positions
+The successful candidates will be working on two commenced projects (i) Industry 4.0 with the focus on detection and prediction of faults in offshore wind turbines and (ii) design and development of Medical Robots for early colorectal cancer detection. The first project deals with Big Data analytics and statistical inference; while the second one deals with the design of non-invasive medical robots, i.e. wireless camera pill (capsule endoscopy) for screening colorectal polyps. The aim is to drive research forward in Industry 4.0 and Medical Robots related topics, and contribute to creating value with our industry partners such as Siemens Wind Power.
+Industry 4.0: Wind Energy
+Together with major industry partners, especially Siemens Wind Power, we develop novel statistical fault detection, prediction, and tracking methods to foresee abnormal behavior in wind turbines and wind farms. The research goal is to identify mechanical and electrical failure on both system and component level. All which is facilitated in a Big Data framework, with temporal dependencies and sparsity across the data sets.
+Medical Robots: Capsule Endoscopy
+Together with Odense University Hospital and medical companies, we design and develop novel medical robots for GI tract screening for early detection of cancer. Health related topics range from image processing of in vivo sensory data, to modeling environmental impact on human health, and engineering solutions for monitoring and evaluating patients in their homes.
+Opportunities exist for mentoring higher degree research students. These positions offer an exciting opportunity for the right candidates to work with a highly motivated, innovative and visionary research team who are focused on high quality outputs to the two sectors.
+πSeG and ESRL
+The Group of Machine Learning and Applied Statistical Signal Processing Group (πSeG) is embedded in the ESRL unit at the technical faculty of the University of Southern Denmark. Within ESRL, πSeG covers fields such as machine learning, signal processing, and statistical inference. At πSeG theoretical knowledge is applied to analyze and interpret data from human health, environmental, biological and engineering studies.
+The Applicant
+We would like to appoint a talented and committed colleague, in the fields of Electrical and Computer Engineering (ECE) and signal processing (machine learning), who will contribute actively to the research environment in our group. We are seeking a candidate with a strong background in Electrical and Computer Engineering (ECE) with interests in Industry 4.0 and Medical Robots-related topics.
+The applicant must have a PhD qualification in ECE and be able to demonstrate the following skills:
+
+Extensive knowledge in signal processing, statistics and machine learning of Big Data.
+A publication track record in relevant scientific journals and conferences.
+Proficiency in English is required.
+Further information can be obtained from Associate Prof. Esmaeil S. Nadimi, e-mail esi@mmmi.sdu.dk.
+Requirements for the position
+Employment as a postdoc requires scientific qualifications at PhD level.
+Applications will be assessed by an expert. Applicants will be informed of their assessment by the Faculty. An interview might be part of the assessment process.
+Conditions of employment
+Employment as a postdoc is temporary. The employment will cease without further notice at the end of the period.
+Employment is governed by the Protocol on PhD Research Fellows signed by the Danish Ministry of Finance and the Danish Confederation of Professional Associations.
+Research will be predominant in the position. Teaching assignments can be agreed individually. Furthermore, other types of assignments may occur to a limited degree.
+The Faculty determines the distribution of the various assignments. The weighting of the different assignments may vary over time.
+Application
+Your application must be uploaded through the link “Apply Online”. Attached files must be in Adobe PDF or Word format. Please read guidelines for applicants.
+All pdf-files must be unlocked and allow binding and may not be password protected.
+In case you have more than one file per field you need to combine the pdf-files into a single file, as each field handles only one file.
+Each box can only contain a single file of max. 10 Mb.
+The applications must include:
+
+Application
+Curriculum Vitae
+Certificates/Diplomas (MSc, PhD) - Danish or English transcripts
+Information on previous teaching experience, please attach as Teaching portfolio
+List of publications indicating the publications attached
+Examples of the most relevant publications. Please attach one pdf-file for each publication, a possible co-author statement must be a part of this pdf-file
+The University wishes our staff to reflect the diversity of society and thus welcomes applications from all qualified candidates regardless of personal background.
+The application must be in English.
+Further information for international applicants about entering and working in Denmark.
+Further information about The Faculty of Engineering.]

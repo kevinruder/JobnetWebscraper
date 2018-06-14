@@ -1,0 +1,48 @@
+[Accelerate your career at Microsoft Development Center in Copenhagen 
+ 
+Are you passionate about software development and would you like to work with the best in the business? 
+ 
+Joining One of Microsoft’s strategic, international development centers in Europe is an opportunity to gain valuable experience in a multicultural environment and to realize your dream of a fast-paced career in the frontline of software development. You will be part of an international team working on products and technologies that have a genuine global impact and you will learn from some of the best talent in the world. Not the least, you will experience what it is like to work at Microsoft. 
+ 
+Microsoft Dynamics 365 is a rapidly growing business at Microsoft and considered one of the leaders in software as a service in the world of business applications. Dynamics 365 is a generic relationship management suite that allows you to quickly build line-of-business applications in the front-office areas of Sales, Marketing, Customer Service and beyond allowing businesses to transform the way they build and nurture customer relationships. 
+ 
+The Copenhagen team is building two Dynamics 365 products:
+ 
+· Microsoft Dynamics 365 for Marketing, which features advanced market segmentation, automated email marketing, web marketing (with landing pages and behavior analytics), campaign management, event management, and more. Design graphically rich emails and interactive landing pages. Model and manage the complete customer journey, from initial inquiry through lead generation, nurturing, and qualification. Use customer 360 views and detailed analytics to better understand what customers really want. It’s built on the Dynamics 365 platform, so not only does it integrate seamlessly with other Dynamics 365 apps (such as for sales or customer service), but it also provides excellent opportunities for customization and extension.   
+ 
+· Microsoft Dynamics 365 for Social Engagement, which puts social media right at the fingertips of sales teams, customer-service agents, marketers, and everyone across an organization. Marketers can measure and manage brand reputation. Sales teams can gather intelligence, source new leads, and build credibility through social selling. Service agents can solve problems effectively by meeting customers on the social or traditional channel of their choice.   Generate and leverage social-media insights to go beyond likes or shares to create measurable business results. 
+ 
+Both products are full cloud native services that run on Azure, utilizing modern technologies on the frontend (React, typescript) and the backend (Service Fabric, microservices, machine learning). Both are built for scale, so they can send and analyze millions of emails and social posts per day. We release updates monthly and manage the services according to the DevOps model. 
+ 
+ 
+Job Description 
+Feature design, high-end coding and owning quality of new products 
+ 
+As an engineer you will be responsible for implementing features towards a wide variety of business applications and services within Dynamics 365 products portfolio as well as ensuring they are done to meet rigorous quality standards with the end result being software that is used by individuals and businesses throughout the world. In short you will do the following: 
+Design, implement, test, deploy, maintain and improve our software components and services 
+Embrace and use state-of-the-art new technologies 
+Participate in technical discussions and bring new ideas on the table
+ 
+Own quality of your code (i.e., unit tests, TDD, and other test methodologies) 
+Work with Product Managers, Architects and UX Designers to design and specify new features from the engineering standpoint 
+Develop software that empowers customers to optimize their business processes 
+Author internal tools that improves the teams’ quality and productivity 
+Contribute to the positive, solution focused and creative team spirit 
+Support less experienced team members in their progress and development 
+Throughout your tasks, you will work closely with Program Managers and other Software Engineers in order to optimize design, quality and functionality as Microsoft places a premium on the ability to work well in a team environment. 
+ 
+The ideal candidate 
+You have a Software Engineering or Computer Science degree, and your specialty is software design, coding and testing. Being familiar with creating great software, you have been working in the industry for two or more years, and you are experienced with object-oriented programming and technologies like C#, .NET, C++, Java or similar languages. Knowledge of building of Cloud Services and of Big Data platforms and tools, as well as modern web development (React/Angular, Typescript) is a big plus.   
+ 
+To succeed in this job, it is also crucial that you are able to see your contributions as part of a larger team: how does your component fit into the overall product and will it meet the needs of the users in the best possible way. This skill takes a combination of the ability to break down tough problems, creative thinking and hard work, to turn these challenges into solutions. At the same time, it is essential that you like working in teams where collaboration and knowledge sharing is the way to meet the common goals. The job’s international aspects and our international work environment require that you are proficient in both written and spoken English.   
+ 
+What we offer our successful candidates:   
+ 
+Microsoft Dynamics solutions enable businesses around the globe to optimize the planning of their resources and increase their productivity. Gathering knowledge and experience from colleagues among the very best in the world, Microsoft Development Center in Copenhagen is a coveted career booster for talents from all over the world. 
+ 
+We value our employees highly and allocate the necessary resources in order for you to understand our business and be a full blown and proactive co-player in your team. You will notably be provided with a mentor to guide you through your work experience.   
+ 
+You will be offered an attractive compensation package that matches your responsibilities.   
+ 
+Diversity 
+Microsoft is a company that values diversity and encourages openness of ideas and communication. All applications will be welcomed and considered on the relative merits of the applicant against the role profile for the position regardless of color, race, nationality, ethnic origin, gender, sexual orientation, marital status, disability, parental responsibilities, age, religion or belief]

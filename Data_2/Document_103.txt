@@ -1,0 +1,29 @@
+[Udvikler med SQL erfaring søges til it-virksomhed i Roskilde.
+ 
+Vil du være en del af et ungt udviklerteam?
+Som udvikler hos Compass Datawarehouse A/S får du mulighed for at være med i hele forløbet fra omsætning af kundeønsker til idriftsættelse af færdige løsninger. Du kommer til at arbejde med udvikling, og du vil også være i kontakt med vores kommunale kunder i forbindelse med support og opfølgning på opgaver.
+Vi har fokus på et godt arbejdsmiljø, fx har vi faste arbejdstider, meget sjældent overarbejde, og vi holder lukket for supporten 1 time hver dag, så der er tid til både et scrum møde og frokost med kollegaerne.
+Hos Compass Datawarehouse arbejder vi med applikations- og databaseløsninger. Dem har vi udviklet i SQL, C#, og .Net på Microsofts SQL Server, hvor vi udtrækker og sammenkører data fra forskellige kildesystemer.
+ 
+Personlighed
+Du er dygtig, god til lytte og har lyst til at lære nyt.
+Du er fornuftig og tager ansvar for dine opgaver.
+Du arbejder struktureret og er grundig med de opgaver du løser.
+Du møder frisk og veludhvilet på arbejde.
+ 
+Kvalifikationer
+Der er flere uddannelser, som gør dig kvalificeret til ansættelse hos os. Det vigtige er, at du har interesse og forståelse for de arbejdsområder, som vi beskæftiger os med.
+Du kan godt være nyuddannet, men du har en god erfaring med databaser og SQL programmering.
+I jobbet kommer du til at samarbejde med vores danske kunder, og kan derfor kommunikere åbent og sikkert på dansk. Du kommer også til at kommunikere på engelsk med vores udenlandske udviklere.
+ 
+Kontakt og ansøgning
+Vi tilbyder et arbejde på 32-37 timer om ugen, hvor du vil beskæftige dig med følgende alsidige opgaver:
+
+Nyudvikling og videreudvikling af vores SQL programmer og databaser
+Dataanalyse og konvertering af data
+Kundekontakt fx i forbindelse med udvikling, support og fejlsøgning
+Kvalitetssikring og idriftsættelse af nye versioner
+ 
+Hvis du vil vide mere, kan du finde flere oplysninger på http://www.compass-dwh.dk. Du kan også kontakte Claus Pedersen på mail ledelsen@compass-dwh.dk, hvortil du også skal sende din ansøgning og CV.
+Skriv i ansøgningen: 1) din motivation for at søge jobbet, 2) kort om dig selv, 3) din erfaring med SQL og databaser, 4) din erhvervserfaring.
+Vi vurderer fortroligt og løbende de indkomne ansøgninger. Hvis du kommer til samtale skal du vise en staffeattest. Ansøgningsfristen er den 26. marts 2018. Tiltrædelse i april eller maj 2018.]

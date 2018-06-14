@@ -1,0 +1,46 @@
+[Om jobbet
+Rødovre Kommune ønsker at styrke GIS og dataområdet. Derfor søger vi en teknisk minded GIS- og dataspecialist i en ny stilling. Du skal være med til at understøtte det fremadrettede arbejde med at bringe data i spil i hele organisationen. 
+Vi står, overfor at skulle i gang med spændende opgaver indenfor databehandling og første opgave bliver udviklingen af et boligsocialt landkort. Du er med fra data indsamles, til de analyseres sammen med de relevante fagpersoner i forvaltningerne og til resultaterne præsenteres. Du kommer derfor til at arbejde på tværs af forvaltningerne sammen med engagerede og fagligt stærke kollegaer.
+Da vi er i en opstartsfase har du store muligheder for at påvirke opgaverne og valg af løsninger.
+Vi har et rigtigt godt og fagligt arbejdsmiljø, hvor vi lægger vægt på tværfagligt samarbejde, fokus på opgaven og høj social kapital.
+Dine arbejdsopgaver vil blandt andet omfatte:
+
+Udføre komplekse dataanalyser herunder at inddrage brugen ikke-geografiske data (ex. FLIS).
+Sætte data i spil til brug for beslutningsunderstøttelse både i daglig sagsbehandling og på ledelsesniveau.
+Sammentænke brugen af data i forhold til nye digitale løsninger til glæde for borgere og virksomheder.
+Analyserer arbejdsgange og vise nye måder at registrere og arbejde med data, der understøtter digitale arbejdsgange.
+Medvirke til at systematisere og dokumentere systemer og data (metadata).
+Drift, konfiguration og udvikling af GIS og geodata-løsninger i kommunen.
+Diverse digitaliserings- og registreringsopgaver (GeoDanmark data).
+Support og undervisning på kommunens GIS-løsninger. 
+
+Vi bruger Spatial Suite som WebGIS, QGIS som desktop GIS og har vores geodata i en PostGIS database.
+Din profil
+Vi forventer at du
+
+arbejder struktureret
+kan arbejde selvstændigt og i team
+er nysgerrig ift. nye måder at løse (eksisterende) opgaver på vha. data og brugen af digitale løsninger
+udviser initiativ og er ikke bange for at prøve løsninger af
+er serviceminded og har en positiv tilgang til alle opgaver – både de udviklingsorienterede og de mere driftsorienterede
+har kendskab til/erfaring med QGIS
+har kendskab til/erfaring med FME
+har kenskab til/erfaring med SQL (PostGreSQL og MS SQL). 
+
+Det er derudover en fordel, hvis du kender til Spatial Suite webGIS platformen.
+Vi forestiller os du er uddannet geograf, landinspektør eller lignende.
+Derfor skal du vælge os
+Vi kan tilbyde et udfordrende job, hvor du selv er med til at skabe jobindholdet og hvor du får rig mulighed for at udvikle dig fagligt og personligt.
+I Sekretariatet arbejder vi meget med digitalisering generelt, herunder Smart City projekter, så der er muligheder for at deltage i spændende projekter.
+Løn- og ansættelsesvilkår
+I henhold til gældende overenskomst og efter aftale med den forhandlingsberettigede organisation. Du bliver ansat i Sekretariatet i Teknisk Forvaltning, hvor du vil arbejde tæt sammen med kommunens GIS Koordinator.
+Hvis du vil vide mere
+Se mere på www.rk.dk . Du er også velkommen til at kontakte sekretariatschef Else Søndergaard Dam på tlf. 36 37 72 13.
+Arbejdssted: Sekretariatet i Teknisk Forvaltning, Tæbyvej 77.
+Ansøgning
+Vi skal have din ansøgning med relevante bilag og referencer senest den 9. april 2018. Klik på knappen ”søg job” for at sende din ansøgning.    
+Din ansøgning må maksimalt fylde 3 A4-sider inklusiv CV og evt. bilag, samlet som én pdf.
+Ved en eventuel samtale vil du få mulighed for at gennemgå yderligere materiale.
+Ansættelsessamtaler uge 16.
+Om os
+Vi ser mangfoldighed som en ressource og opfordrer derfor alle uanset køn, alder, race, religion eller etnisk baggrund til at søge job hos os. Vi tilbyder vores medarbejdere en trivselsordning med kaffe og the, samt en sundhedsordning med bl.a. fysioterapi, helbredstjek og massage.]

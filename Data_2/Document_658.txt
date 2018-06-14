@@ -1,0 +1,29 @@
+[Til vores kunde Collectia Credit Management Services A/S søger vi en C++ udvikler        
+Virksomheden, som er femdobbelt gazelle-virksomhed med 80 ansatte, har stort fokus på IT og udvikling. Virksomheden ligger i Brøndby. 
+Du har nu mulighed for at blive en del af IT-afdelingen med 11 engagerede IT-specialister, der alle sætter en ære i at yde optimal service for virksomhedens klienter.
+ Hos Collectia CMS vil du kunne bidrage med din viden, energi og passion i vores team af multikulturelle IT-folk, hvor du dagligt vil blive udfordret .
+Du skal deltage i udvikling og vedligeholdelse af de webløsninger vi stiller til rådighed for flere tusind brugere. Samtidig bliver du en del af et team, der udvikler services baseret på databaser med millioner af rækker – og du kommer til at deltage i udviklingen af de absolut bedste apps.
+Da vores virksomhed er i en branche med kontinuerlig udvikling, har vi altid gang i mange spændende projekter, og vi leverer løsninger på alle områder fra intern forretningsunderstøttelse og helt ud til kunderne.
+Dine kompetencer:
+
+Du har erfaring med udvikling i Microsoft Visual Studio C++, og gerne i nogle af følgende: C#, ASP.NET MVC.
+Du har erfaring med databaser – gerne Microsoft SQL, LINQ.
+Du er analytisk, struktureret, kvalitetsbevidst og sætter en ære i at gennemføre og afslutte opgaverne på den rigtige måde.
+Du har drive, tager ansvar for dine arbejdsopgaver, og brænder for at levere den bedste løsning til vores kunder – både de eksterne og interne.
+Du har fingeren på pulsen med hensyn til de nyeste trends.
+Du er en åben, udadvendt, positiv og person med en service- og samarbejdsorienteret indstilling.
+
+Arbejdsopgaver:
+Som udvikler, skal du blandt andet varetage følgende:
+
+Udvikle og vedligeholde vores interne systemer, i samarbejde med andre udviklere.
+Designe software løsninger og bistå i valg af arkitektløsninger.
+Udviklingsopgaver i SQL og C++ systemer
+
+Sådan gør du:
+Hvis du er interesseret i stillingen skal du sende ansøgning og CV til Michael Grenaa på e-mail mg@machholdtgrenaa.dk
+Hvis du har spørgsmål til stillingen, er du meget velkommen til at kontakte Udviklings-Chef hos Collectia CMS, Karina Achton på telefonnummer 27 24 84 46 eller på e-mail kp@collectia.dk
+Ansøgningsfristen er den 1. maj 2018. Machholdt Grenaa inviterer løbende relevante kandidater til samtale og tager annoncen ned, når vi har fundet den rette kandidat.
+ 
+ 
+ ]

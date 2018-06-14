@@ -1,0 +1,43 @@
+[Linkfire is looking for a full-time Back-end Developer, that is passionate about working on a metadata and rights management product that is changing the game in the music industry.  
+You will join a company with roots and heart in music, a team of 40+ tech and music enthusiasts from all corners of the world. Rockers and DJs, soccer and basketball players, early twenties and late thirties - we have it all!
+ 
+The Role:
+We have built a successful first version of a metadata-product in .NET that serves as a strong core database for our other products on the platform. On top of this platform, we have developed a rights-management application for the music industry in PHP. We are now in the process of building further products based on this platform as well as to scale it into a more sustainable system. We are looking for a strong .NET developer who can learn the PHP-backbone of the current application (and can extend on it if need be) and who will drive new development in C#/.NET.
+We offer you a chance to extend your .NET background with new tasks and new learnings. You are passionate about finding solutions to non-standard challenges and feel motivated by discovering new solutions to our client's needs. C# and the .NET framework are your back-end weapon of choice, but you also have solid experience with PHP and are ideally no stranger to NoSQL.We value code quality and working in a structured way when it comes to best practice, code testing, and deployment. You’ll get a chance to influence these standards and to work in an agile and structured environment as part of a full-stack team.
+As a member of our talented developer team, you will bring new and valuable experience to help Linkfire serve content to millions of people around the world.
+ 
+Responsibilities:
+
+In collaboration with the development team, support the product development and product architecture.
+Build, maintain and optimise our system and consolidate our products to one scalable platform
+Participate and contribute with feedback in the decision making for back-end implementations and make your voice heard during Sprint Planning
+Optimize code and refactor when needed
+Be able and willing to test and document your code
+Report any issues you find
+ 
+Abilities and Skills:
+
+Bachelor degree in the IT space.
+Fluent in C# and the .NET framework
+Previous experience with ASP.NET Web API.
+Knowledge of and experience with PHP
+MsSQL Database Management. 
+Experienced within: Elastic Search, Message Queuing, Microservice Architecture, PHP Laravel, NoSQL
+Strong executional skills and excellent team player
+Comfortable with an evolving environment and a drive to be part of creating a new product.
+ 
+About Linkfire:
+We’re a passionate team of music techies on a mission to make music consumption easier for fans, labels and artists. The music industry is transforming constantly, the market is fragmented and split across many different platforms and services.
+Physical sales are going down. Legal downloads and in particular streaming are gaining momentum.
+The transformation will continue and the years to come will be very interesting. We want to contribute to the transformation by bringing music and fans closer. Not inside music services, but outside where fans and artists engage. Our approach is to index digital music across music services and provide smart links that routes fans directly to the music regardless of their location or which player or platform they use. It’s complex.
+We make it simple.
+  
+What we offer:
+
+The opportunity to work in one of the fastest growing music tech companies in the world.
+An open, informal entrepreneurial startup working environment.
+The opportunity to be at the very core of a disruptive company in the music business
+Great career possibilities.
+An awesome office and colleagues with 22+ different nationalities
+ 
+Is that you? If so, submit your application and cover letter in English and we’ll be in touch!]

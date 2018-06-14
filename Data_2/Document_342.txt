@@ -1,0 +1,36 @@
+[Vi søger til vores driftsteam en ny kollega som har erfaring med IT drift, teknisk projektledelse, koordinering og analyser, og som herigennem har lyst til at spille en hovedrolle i Kommunens rejse fra traditionel in house it drift til et hybrid it landskab. 
+Køge Kommune arbejder med et ændret fokus fra on premise til en hybrid infrastruktur. Vi er i gang med at udrulle Microsoft 365, skifte til remote backup, og måske er det dig vi har brug for til at starte et analyseforløb om mulighederne for at flytte servere til f.eks. Microsoft Azure. Samtidig laver vi en række vedligeholdelsesopgaver i infrastrukturen. Wifi er udskiftet på Rådhuset og udskiftes nu på institutionerne, SAN skal udskiftes og datacenteret skal flyttes.
+Du kommer til at arbejde med analyser som input til designs og oplæg, og du får mulighed for selv at stå i spidsen for at projektlede initiativerne. Du har en bred og dyb teknisk indsigt og kan bl.a. selv navigere i it systemerne når data skal indsamles til analyser og oplæg. Det bliver din opgave gennem analyser og oplæg, at designe den fremtidige tekniske infrastruktur så den er på forkant med forretningens behov, og samtidig effektiv og sikker. Du kommer også til at arbejde med den interne drift og den løbende vedligeholdelse.
+Stillingen rummer mange muligheder og stiller store krav til den rette kandidat, vi forventer du har erfaring med og er stærk til analyser, har stærk indsigt i teknisk infrastruktur og er god til at udforme design og oplæg og gennemføre det som projekter.
+Du har mindst tre til fire års relevant erfaring og du har en relevant it-uddannelse, eller du har opnået tilsvarende kompetencer gennem dit arbejde. Det er vigtigt du er stærk indenfor analyser, skriftlige oplæg, og at du er i god til at omsætte det til praktik.
+Du har erfaring indenfor nogle, gerne flere, af følgende områder
+Drift af infrastruktur
+Design af hybridinfrastruktur
+Off365
+Azure
+VMware virtualisering
+Active Directory, Radius, PKI
+Windows server
+Cisco LAN og Wifi
+Cisco ISE og Prime
+Cisco ASA m. Firepower firewall
+Citrix
+Citrix Netscaler
+Orion NET/APM overvågning
+PKI
+Radius
+Vi tilbyder
+Køge Kommune har en kompleks infrastruktur med et geografisk stort netværk og en meget bred portefølje af fagsystemer. Som infrastruktur arkitekt bliver du en del af driftsteamet. Driftsteamet varetager drift og udvikling af infrastrukturen og pc arbejdspladser hos alle administrative enheder, biblioteker, folkeskoler og institutioner. Driftsteamet medvirker løbende i en række forretningsprojekter med teknisk støtte og bro til den bagvedliggende drift.
+Vi arbejder sags og procesorienteret med incident, standard/change, problem og service request, og andre processer på en række andre områder i vores teams.
+Vi lægger vægt på, at du udvikler dig fagligt og personligt og tilbyder dig løbende uddannelse og certificeringer relevant for dit arbejdsområde. Desuden har vi flekstid og en god kantineordning. Der er indført røgfri arbejdsplads og arbejdstid i Køge Kommune og vi arbejder i åbent kontorlandskab for at fremme vidensdeling og samarbejde på tværs.
+Ansøgning
+Stillingen er på fuld tid og med tiltrædelse snarest muligt. Stillingen aflønnes efter aftale mellem Køge Kommune og den forhandlingsberettigede organisation i henhold til aftale om ny løn.
+Ansøgningsfrist er den 20. april 2018 kl. 12.00.
+Du er meget velkommen til at kontakte driftschef Ricki Sørensen, tlf. +45 30 54 50 27, eller på mail ricki.soerensen@koege.dk.
+Vi modtager kun dansksprogede ansøgninger indsendt online.
+
+
+
+Køge Kommune ønsker at fremme ligestillingen mellem mænd og kvinder uanset etnisk baggrund. Vi opfordrer derfor personer med dansk og anden etnisk baggrund at søge stillingen.
+Vi foretrækker, at du sender din ansøgning online. Klik på ”Søg stillingen” og vedhæft din ansøgning og dit CV.
+Læs mere om Køge Kommune på http://www.koege.dk]

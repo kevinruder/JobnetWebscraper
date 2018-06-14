@@ -1,0 +1,23 @@
+[Are you a skillful C# and .Net developer? Do you enjoy programming and working with software and dedicated people in a small team? Do you have a good understanding of hardware and possibly measuring devices? Are you motivated by working in a position with high influence on solutions? Then have a look at this opportunity to grow your career in a dynamic and informal environment.If you can recognise yourself in the above-mentioned parameters, please send your application as soon as possible since all incoming applications will be handled continuously.Power Conversion - PEX Test - Software & Electronics EngineeringThe software team is part of PEX Test that develops test equipment used by Vestas production units globally – our equipment and software has a high impact on production flow and quality. We develop test platform software to be used by automation engineers when designing automated testing of Vestas products such as converters, electronic panels, hubs and nacelles in serial production. We also develop the centralized backend systems that collect and store data as well as keep track of software versions and configurations on the test equipment locally.You will, for example, develop test software to ensure test capability for new or changed products from Vestas R&D, and you will develop hardware drivers for third part tools like vibrational sensors and other measuring devices that plug into our test platforms.Responsibilities
+
+Maintain and develop software for test platforms.
+Maintain and develop software plug-ins.
+Participate in SCRUM and project meetings.
+Ensure collection and extraction of test data to be used in test reports, quality reports etc.
+QualificationsWe are looking for an OO oriented Software Developer with +3 years’ experience with software development and support, preferably from the production industry. Experience with wind turbine generators is an advantage, but not a requirement. We expect that you have a technical background with focus on programming, e.g. a degree from an Engineering College or a University.Moreover, we are looking for a candidate with the following competences:
+
+Solid experience with hands-on development in C# and .Net. 
+Experience with end-users.
+Good verbal and written communication skills in English.
+Experience with WPF, LINQ, SQL is a plus.
+Experience with industrial communications protocols is a plus.
+Experience with Jira is a plus.
+CompetenciesIt is vital that you show communication and cooperation skills as you will interact with a wide range of stakeholders. The ideal candidate possesses the following personality and competencies:  
+
+Self-motivated team-player.
+Pro-active personality and a sense of humor.
+High degree of flexibility and can work independently.
+You have relevant experience from development projects and experience with project teams.
+What we offerWe offer a challenging workplace with excellent professional and personal development opportunities in an inspiring, international work environment with the world’s leading wind turbine manufacturer.The department places high focus on an informal working environment where professional skills can be developed and enhanced and you can influence on our solutions. We consistently score high on team collaboration in our employee surveys. Additional informationThe work location will be in Hammel, Denmark. For additional information about the position please contact Director, Software & Electronics Engineering, Peter Cassøe at +45 40836001.About VestasVestas is the energy industry’s global partner on sustainable energy solutions. We design, manufacture, install, and service wind turbines across the globe, and with more than 83 GW of wind turbines in 75 countries, we have installed more wind power than anyone else.Through our industry-leading smart data capabilities and unparalleled more than 73 GW of wind turbines under service, we use data to interpret, forecast, and exploit wind resources and deliver best-in-class wind power solutions. Together with our customers, Vestas’ more than 22,000 employees are bringing the world sustainable energy solutions to power a bright future. We invite you to learn more about Vestas by visiting our website at http://www.vestas.com and following us on our social media channels.
+Job Information TechnologyPrimary LocationDenmark-Midtjylland-Hammel
+Unposting Date Ongoing]

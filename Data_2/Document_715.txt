@@ -1,0 +1,30 @@
+[Vil du have mulighed for at præge din arbejdsplads, produktet og virksomheden som helhed? Så er du måske den Solution Architect med fokus på customer support, vi søger hos QualiWare.
+I QualiWare har du frihed under ansvar, og du opfordres til selvstændigt at tage initiativ - ser du en ny måde at gøre tingene på, skal du ikke tøve med at dele idéen! Som Solution Architect vil du arbejde i vores danske udviklingsafdeling, hvor vi har projekter af forskellige størrelser og karakter. Her får du også mulighed for at opbygge nære arbejdsrelationer, udvide din forretningsforståelse og mærke hvordan du kan gøre en forskel for vores kunder.
+Om jobbet
+Som Solution Architect bliver du en del af vores "Service Delivery" team, hvor du er kundens supporter, og den primære kontaktperson, ved tekniske henvendelser. Vores opgave er at sikre, en god kundeoplevelse hvor vores produkt leverer den forretningsmæssige værdi, det er tiltænkt. Vi har ansvaret for, at vores produkter bliver installeret, konfigureret samt driftes og vedligeholdes ved vores kunde eller i et cloud-miljø.
+For at opnå dette har vi et tæt samarbejde med vores kunder om deres individuelle forretningsbehov. Dette indebærer blandet andet:
+
+Råd og vejledning til kunden om anvendelsen af produktet
+Udvikling og opsætning af produktet
+Support til bl.a. sikring af oppetider, håndtering af incidents rapporteret af kunden, håndtering af hjælp til kunderne
+Analyse og behandling af incidents. Skal der oprettes et problem til udviklingsafdelingen frem mod en kommende release, kræver det en grundig analyse, som afhænger af det aktuelle incident
+Interagere med QualiWares udviklingsafdeling til bl.a. løsning af incidents/problems
+Om dig 
+Kernen i dette job er at være kundens primære support funktion ved levering af komplekse løsninger, der på enkeltvis løser forretningsbehov direkte ved vores kunder - det er derfor vigtigt, at du finder energi i at være løsningsorienteret i samarbejdet med kunden. Ydermere er det vigtigt, at du sætter pris på den mangfoldighed, du vil møde både mht. brancher og personligheder.
+Vi forventer, at du har god indsigt i følgende fagområder:
+
+Programmer lignende QualiWares som anvendes i tværfaglige miljøer og involverer superbrugere uden IT-baggrund
+JavaScript som anvendes til konfiguration af QualiWare produktet
+Erfaring med IT-drift situationer herunder genstart af services, servere samt håndtering af logs, Remote Desktop og fejlsituationer
+Erfaring med tests, struktureret fejlfinding og analyse samt reproduktion af incidents
+Erfaring med produkter udviklet med Microsoft teknologier er en fordel idet vores produkt er udviklet heri
+ 
+Vi forventer, at du besidder minimum en bachelorgrad inden for IT, computer science, datalogi eller lignende, og at du kan skrive og tale dansk og engelsk flydende. Hos QualiWare tror vi på, at talent kan frembringes fra alle erfaringsniveauer, og derfor opfordrer vi også nyuddannede til at søge stillingen. Hvis du har interesse og god forståelse for området og det rigtige drive, er dine antal år på bagen ikke altafgørende.
+Da der indgår en stor og direkte kundekontakt er det vigtigt, at du behersker gode kommunikationsevner. Kundekontakten vil involvere både ledere, superbrugere med og uden IT-baggrund samt kundens IT-fagspecialister. Det er derfor vigtigt, at du behersker kommunikation til en bred vifte af fagfolk og personligheder.
+Jobbet kræver, at du arbejder struktureret og kvalitetsbevidst samt sætter en ære i at løse og aflevere en opgave, før du kaster dig over den næste.
+Vi tilbyder en konkurrencedygtig løn, pensionsordning og sundhedssikring. Derudover er der en række personalefordele, såsom fitnessrum, kantineordning og flere årlige sociale arrangementer.
+Stillingen forventes besat hurtigst muligt, og samtaler afholdes løbende. Rekrutteringen varetages af execute.dk, som sikkert og diskret behandler din ansøgning og informationer.
+Vil du vide mere?
+Kontakt Kenneth Oldenburg fra execute.dk på tlf. 29 72 74 64 eller keo@execute.dk.
+QualiWare tilbyder markedet et omfattende system af modellerings-, ledelses- og dokumentationsprodukter, der fokuserer på at forbedre effektivitet, produktivitet, organisatorisk forandringsparathed og økonomiske gevinster. Vores produkter sælges og benyttes over hele verden.
+ ]

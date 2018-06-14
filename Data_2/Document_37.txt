@@ -1,0 +1,54 @@
+[The Department of Bio and Health Informatics at the Technical University of Denmark (DTU Bioinformatics) has its main research and teaching activities in bio-medical and bio-technological informatics, metagenomics, epidemiology, quantitative genomics, integrative systems biology and machine learning. The research involves the use of vast amount of phenotypic, clinical, environmental, biological, biotechnological and multi-omic information in humans, animals, plants and microbes. We run projects combining big data and laboratory research via the national supercomputing center or Computerome and the molecular biology/genomics laboratories of our institute.
+The department is seeking an associate professor in the field of personalized cancer medicine and bioinformatics. The research at DTU Bioinformatics is focused on quantitative, bioinformatics and computational analyses of new data and data types being generated within biological, biomedical, clinical, and biotechnological and life sciences area. It strives to gain new knowledge, drive innovation in human and animal sciences and technology, and collaborate with all relevant industries. A cornerstone in achieving this is the dedicated effort within DTU Bioinformatics to develop bioinformatics, quantitative genomics, immuno-informatics, metagenomics and systems biology methods and solutions to the challenge of handling and interpreting large scale and heterogeneous big data. The department consists of seven research groups and two core infrastructures (DMAC and a share of Computerome). The department’s research is centered on the following areas:
+1. Personalized Medicine, Health Genomics and immuno-informatics2. Quantitative & Systems Genomics, Bioinformatics, Integrative Omics Data Analyses3. Artificial Intelligence and Machine learning in Life and Medical Sciences
+Responsibilities and tasks
+
+The applicant should be able to document a strong profile for research, education and external collaborations in genomics and bioinformatics with respect to personalized medicine and immunotherapy approaches to human cancers.
+Experienced in using single cell proteomics data and with applications in cancer immunotherapy.
+Integration of multiple omics data types with clinical data with an emphasis on pathway analysis for clonal and subclonal disease subtyping and patient stratification.
+Take part in the development of / or teach existing bachelor and master courses within the field of personalized medicine, cancer genomics and bioinformatics.
+The candidate must actively develop and run research projects or programs and actively seek external funding from national, EU and international funding bodies in field of personalized medicine, cancer genomics and bioinformatics.
+The candidate will closely collaborate with other research groups within and across departments to progress in personalized cancer medicine.
+Supervise and/or co-supervise master and PhD students and mentor postdocs and assistant professors, in his/her area of expertise and perform academic assessment work.
+Dissemination of research results at all levels including publications of research in high impact journals.
+Establish and strengthen collaboration with national and international groups working in the above areas.
+Continued interaction with peers from relevant departments and centers at DTU and from other national and international research groups.
+Qualifications
+
+A PhD degree in one or more of the following areas: genome- and immuno-informatics or bioinformatics and computational biology or systems biology.
+Academic qualifications equivalent to those obtained by holding a senior postdoc / research associate, senior scientist or assistant professorship, and documented didactic/pedagogic training.
+Further Qualifications
+
+Strong understanding of tumor biology and the pathophysiology of cancer, as well as cancer immunology and immune profiling using single cell proteomics data.
+Experienced in working with high-throughput DNA sequencing data, bulk and single cell RNA sequencing, epigenomics data such as methylation data, and single cell proteomics data from cytometry measurements.
+Experience handling large data sets, developing analysis pipelines, data integration of omics data for systems biology.
+The successful candidate must have established strong national and international collaborations with key stakeholders in cancer precision medicine – both translational and basic research. Experience with industry collaborations is a plus.
+Evidence of teaching at BSc and/or MSc level in relevant disciplines and a strong background in supervising research projects is favorable.
+AssessmentIn the assessment of the candidates consideration will be given to
+
+Experience and quality of teaching
+Research impact and experience, funding track record, and research vision
+Societal impact
+Documented innovation activities, including commercialization and collaboration with industry
+International impact and experience
+Leadership potential and collaboration
+Communication skills
+We offerDTU is a leading technical university globally recognized for the excellence of its research, education, innovation and scientific advice. We offer a rewarding and challenging job in an international environment. We strive for academic excellence in an environment characterized by collegial respect and an academic freedom tempered by responsibility.
+Salary and terms of employmentThe appointment will be based on the collective agreement with the Danish Confederation of Professional Associations. The allowance will be agreed with the relevant union.
+You can read more about career paths at DTU here.
+Further information Further information may be obtained from Head of Department and Professor Haja Kadarmideen, mail: director@bioinformatics.dtu.dk.
+You can read more about the Department of Bio and Health Informatics on http://www.bioinformatics.dtu.dk/english.
+Application procedurePlease submit your online application no later than 22 March 2018.
+Applications must be submitted as one PDF file containing all materials to be given consideration. To apply, please open the link "Apply online", fill in the online application form, and attach all your materials in English in one PDF file. The file must include:
+
+Application (cover letter)
+CV
+Views regarding teaching and research based on the “Assessment” bullets
+Documentation of previous teaching and research based on the “Assessment” bullets
+List of publications
+H-index, and ORCID (see e.g. http://orcid.org/)
+Diploma (MSc/PhD)
+Applications and enclosures received after the deadline will not be considered.
+All qualified candidates irrespective of age, gender, race, disability, religion or ethnic background are encouraged to apply.
+DTU Bioinformatics has its main research and teaching activities in bio-medical and bio-technological informatics, metagenomics, epidemiology, quantitative genomics, integrative systems biology, artificial intelligence and machine learning. The research involves the use of vast amounts of phenotypic, clinical, environmental, biological and multi-omic information in humans, animals, plants and microbes. We run projects combining big data and laboratory research via the national supercomputing center or Computerome and the molecular genomics laboratories.
+DTU is a technical university providing internationally leading research, education, innovation and scientific advice. Our staff of 5,800 advance science and technology to create innovative solutions that meet the demands of society; and our 11,000 students are being educated to address the technological challenges of the future. DTU is an independent academic university collaborating globally with business, industry, government, and public agencies.]

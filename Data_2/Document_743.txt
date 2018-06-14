@@ -1,0 +1,93 @@
+[Sitecore is the global leader in experience management software that enables context marketing. The Sitecore® Experience Platform™ manages content, supplies contextual intelligence, automates communications, and enables personalized commerce, at scale. It empowers marketers to deliver content in context of how customers have engaged with their brand, across every channel, in real time—before, during, and after a sale. More than 4,900 brands––including American Express, Carnival Cruise Lines, easyJet, and L’Oréal–– have trusted Sitecore for context marketing to deliver the personalized interactions that delight audiences, build loyalty, and drive revenue.
+ 
+Sitecore is experiencing spectacular growth all over the world.  To build on Sitecore’s success and growth, we’re looking for a skilled Senior QA Lead to work as part of our Product Delivery team. 
+ 
+ 
+Responsibilities:
+
+​​Participating in the requirement management meetings for the project:
+          - making sure testable Acceptance criteriaare defined per PBI;
+          - making sure non-functional requirements are defined​;​
+
+Participating in program operational meetings;
+Planning and executing (or driving execution of) program test activities based on Risk Based testing assessment;
+Writing and maintaining the Test design specification and the Test Plan on Program level;
+Driving the test activities in the projects of the program and at the program level, including regression, integration and non-functional testing;
+Reporting test status on Program level to PgM;
+Participate the Risk meetings in the program, addressing QA risks and monitor the Risk management process on program level;
+Reviewing the Automated tests and integration tests;
+Guiding the project manager/ product owner with regards to QA improvements and requirements;
+Developing QA's and even DEV's in the project and can take on the mentor role;
+Knowledge in the related surrounding projects' artefacts and applies adequate cross project /component tests​.
+Required Skills:
+
+3 -5 years of professional work experience in QA domain;
+Ability to analyze the current situation from strategic perspective;
+Good skills in writing test design specifications and Test Plans;
+3 -5years of experience in any object oriented programming language; 
+Experience in C#;
+Experience in SQL or other database technologies;
+Experience in debugging and code review;
+Strong problem solving and analytical skills;
+Excellent time management skills;
+Excellent teaching and mentoring skills;
+Strong willingness to learn new technologies using all knowledge resources;
+Experience in developing test automation​;
+Excellent written and oral communication skills in English.
+Soft Skills:
+Problem solving and analytical:
+
+Stays focused on a current task and finalizes it despite distractions and interventions;
+With his/her manager clarifies expectations and asks for the assistance when necessary;
+Any unplanned activities related to the particular task are handled effectively without step-by-step instructions;
+Suggests more than one approach to resolve the task if necessary;
+Not only solves immediately faced problems, but also takes action to prevent the same problems in future;​
+Keeps ETAs and sets relevant priorities;
+The person identifies the problems in the current context and effectively resolves them;
+Checks results to make sure solutions were effective and takes action if the resolution has not been accomplished;
+If necessary, works with interest even on uninteresting tasks required for project completion.
+​Communication:
+
+Expresses ideas clearly and concisely in writing, comprehends written messages;
+Keeps people accurately informed and up to date;
+Effectively participates in verbal discussions. Clearly explains his thoughts and comprehends ideas on the discussion subject;
+Offers or accepts trade-offs or exchanges to meet an agreement;
+A person provides constructive feedback to colleagues and managers
+Uses proven communication techniques in business environment;
+Ensures understanding: constantly seeks for a feedback from the audience, correctly interprets it, checks the understanding level and correspondingly adjusts the way how he/she presents the message to improve understanding;
+Effectively composes and provides personal feedback;
+Puts him/herself in other people’s shoes to gain a better understanding of what they are saying.​
+​Attitude:
+
+Follows company processes and practices;
+Demonstrates positive attitude to the company;
+His or her behavior doesn't contradict to Sitecore Values;
+Owns responsibility for the results. Keeps commitments;​
+Sees and seeks out continuous learning opportunities;
+Maintains the team spirit;
+Keeps objectives related to the company’s priorities at the top of the priorities of one's work group;
+Proactively looks for information about other teams' objectives and acts with equal respect for all involved groups;
+Sets up good interpersonal relationships by helping people feel valued and appreciated for their contribution.
+​Agility:
+
+Meets general position expectations;
+Appropriately reacts on the constructive feedback;
+In case of negative feedback, analyzes it and changes behavior that led to issues or fails;​
+Changes according to current needs and expectations. Learns new technologies, techniques and approaches;
+Switches to a different strategy when an initially selected one is unsuccessful;
+Applies rules or procedures flexibly to accomplish tasks or activities more effectively;
+Identifies problem areas and potential pitfalls and takes corrective and preventive action;
+Continuous growth and self-development, including soft skills;
+Drives change in other employees.​​
+ 
+Journey to Principal QA Lead:
+Responsibilities:
+
+Is responsible for Strategic test planning across all product parts, e.g. Platform and Cloud and Modules 
+Manages the QA Leads and Senior QA Leads in Product Department 
+Participating in Master program meetings ​
+​Skills:
+
+Similar traits as a Senior QA Lead
+ 
+Sitecore is proud to be an equal opportunity workplace. We are committed to equal employment opportunity without unlawful regard to race, color, ancestry, religion, gender, national origin, sexual orientation, age, citizenship, marital status, disability, veteran status or any other local legally protected characteristic.]

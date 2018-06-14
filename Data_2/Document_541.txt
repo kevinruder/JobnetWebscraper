@@ -1,0 +1,43 @@
+[We're looking for back-end developers to join our Core Engineering team. You build highly performant and scalable services, have a good understanding of cloud native architectures and infrastructure and thrives in a dynamic environment where things are moving fast.
+You have experience building applications in a cloud-native environment, meaning you are comfortable working with modern communication protocols, containers, messaging systems, build & deploy automation and monitoring. You have a strong theoretical foundation and understand micro service architectural principles and domain driven design. You're an application developer with a strong interest in infrastructure and automation. You want to take operational responsibility for your deliveries, and like to help others solving complex problems.
+Siteimprove Product Development is organized around product teams. You will join our Core Engineering team, which is responsible for implementing cross-platform components and also for our delivery pipeline and much of our infrastructure. You will take part in delivering strategic services for product deliveries and maintain our existing system landscape, as well as improving on our continuous delivery pipeline.
+Responsibilities
+
+Develop and maintain services - for product deliveries and as part of our infrastructure
+Take operational responsibility for deliveries
+Help product teams solving complex problems of technical nature
+Take part in and improve on the way we develop software
+Understand what other teams are doing, help them, take action when you see problems on the horizon
+What We Require of You
+
+Have at least 5 years of professional experience building real software solutions
+Be experienced with cloud-native technologies and service architectures
+Be fluent in spoken and written English
+Thrive working in an iterative development process, being a strong, independent problem-solver
+Be proud of what you deliver to end users
+You need to have practical knowledge of agile development and continuous delivery. You should be equipped to challenge and tune our processes, and you should be ready to mentor us in your favorite practices.
+What We'll Love About You
+
+A relevant educational background within IT, bachelor level as a minimum would be great!
+That you’re self-driven, creative, inquisitive individual possessing lots of drive. Aiming to join a team of skilled colleagues, whom you can inspire, and who can inspire you.
+The Siteimprove toolbox
+We value general skills and experience higher than any specific technology, and technology stacks should always be challenged, improved and renewed. If you have an interest in any of the following, or if you have something to add, we will consider that a bonus.
+
+C#, Go, Python, SQL, Javascript
+Docker, Kubernetes, Mesos, Marathon, AWS
+Kafka, Redis, Postgres, Elasticsearch, Oracle
+CloudFormation, Terraform, bash
+What You'll Love About Us
+Siteimprove is a Danish founded multinational company with over 450 employees worldwide. In addition to our headquarters in the heart of Copenhagen, we have offices in Minneapolis, London, Berlin, Vienna, Amsterdam, Oslo, Sydney and Toronto, and our customers are spread across North America, Europe, Japan and Australia.
+Siteimprove transforms the way organizations manage and deliver their digital presence. With the Siteimprove Intelligence Platform, you gain complete visibility and deep insights, empowering you and your team to measure what matters, drive accountability, and act with certainty.
+We also offer amazing perks!
+
+Great and Inspiring Company Culture. We are passionate, innovative and people-centric. We’re consistently named as a great place to work across the globe.
+Amazing Kitchen Staff. Our celebrity head chef and his kitchen staff cook delicious lunch for us every day. There’s always cake on Fridays and on special occasions and celebrations (which, luckily, is quite often). Naturally, we offer free coffee, free sodas and free fruit ad libitum, plus there’s opportunity to buy food to take home at extremely reasonable prices.
+Outstanding Office Location. We are located in the heart of Copenhagen in a beautiful building sometimes referred to as “the Palace” by our employees.
+Own Friday Bar. On the top floor, we have our very own Friday Bar with quality beverages. In the summer, we may take the party to our cozy courtyard for barbecuing in the sun.
+Coding Club, Events, and Workshops. The Coding Club meets weekly (pizza and beverages on the house), and we regularly throw in-house events and workshops.
+Corporate Social Responsibility. We do various activities to be a good corporate citizen, and we are very proud to be a socially responsible company, internally and externally. Learn more about our CSR efforts here.
+How To Apply
+Click on the ‘Apply Now’ button to submit your application. If you have any questions regarding the job or need a reasonable accommodation to apply, feel free to contact our Talent Acquisition Specialist Jacob Bjerrehuus at +45 3161 6742.
+Siteimprove is a global corporation and has developed data practices designed to assure your personally-identifiable information is appropriately protected. Please note that personal information may be transferred, accessed and stored globally as necessary for the uses and disclosures stated in accordance with our Privacy Policy at Siteimprove.com/privacy]

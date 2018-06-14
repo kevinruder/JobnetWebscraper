@@ -1,0 +1,12 @@
+[Prevas in Aarhus is searching for skilled engineers for our expert center for test systems
+Prevas is looking for experienced and skilled test system architects and developers for our development team. Prevas is working with test systems and test data management in both the R&D world and in industrial production, and is a certified National Instruments Gold Partner in instrumentation and software.
+We are looking for test system engineers with the following qualifications:
+
+5+ years of experience either as a test system architect or as a test system developer with documented project entries in the bag.
+Broad experience in test software development, especially with NI LabVIEW and TestStand, Familiar with latest technologies and concepts in test system design.
+A good understanding of measurement instruments, control systems, hardware, mechanics, and low-level software.
+Thrives with challenges and is able to translate good ideas into innovative, stable solutions.
+Takes responsibility for own work and the overall project. Is able to focus on value creation.
+Has an interest and flair for customer and colleague relations. Can work proactively, both independently and through others.
+Prevas offers a versatile working environment where you will develop test systems for customers in many different fields. You will have the possibility for contributing to the development of our internal concepts and frameworks, which are deployed throughout our company, and so increase the value that we add towards our customers’ projects. Results of your efforts will be visible all the way to the bottom line of the company.
+If you are the one we are looking for, and you want to become a part of positioning Prevas as the leading and most innovative development house in Scandinavia,please send your application and resume to job@prevas.dk with the text ‘TEST ARH 2017’ in the subject field as soon as possible. If you want more information or you have questions, please contact Engineering Manager Mikkel Ingstrup, tel: +45 40 21 61 03.]

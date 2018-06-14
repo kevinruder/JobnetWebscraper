@@ -1,0 +1,72 @@
+[Do you want to work with the newest technologies within real-time data processing and aggregation? Do you live and breath data infrastructure and possess super-administration-powers when it comes to both distributed and relational databases? Are you up for the challenges of a growing company and its rapidly growing data-volume? If you’re silently (or LOUDLY!) shouting YES to this, you should read on:
+Linkfire is looking for a full-time Big Data DevOps Engineer, with a specific focus on optimizing data pipelines.
+ 
+The Role:
+In a quickly growing startup, data volumes are increasing rapidly and infrastructural challenges arise daily. We are looking to add a new member to our team to take on the specific challenges of creating and maintaining a reliable and performant infrastructure for our data platform.
+In this role, you will be working closely together with our CTO and a dedicated team of a Data Engineers, Data Scientists, and DevOps.
+You will join a company with roots and heart in music, a team of 40+ tech and music enthusiasts from all sides of the world. Rockers and DJs, soccer and basketball players, early twenties and late thirties - we have it all!
+You will report to the CTO, Jannik Jepsen.
+ 
+Responsibilities:
+
+
+Provide reliable and efficient infrastructure for all Linkfire’s data.
+
+Administration of our existing distributed databases: Apache Kafka, Apache Cassandra, Druid, Elasticsearch.
+
+Administration of our existing relational databases: MySQL and Microsoft SQL Servers.
+
+Running and maintaining the clusters health.
+
+Serve the programmers in developing high-performance applications.
+
+Plan and execute infrastructural changes.
+
+Ensure data platform monitoring and performance.
+
+Take ownership of the platform and shape it to the next level.
+ 
+Abilities and Skills:
+
+
+5+ years of working in a DevOps or system Engineering role that was focused on database optimization, maintenance, and evolution.
+
+Technical educational background, BS in Computer Science or similar.
+
+Experience with one or more of the following distributed databases: Apache Kafka, Apache Cassandra, Druid, Elasticsearch.
+
+Familiarity in working on cloud providers such as AWS and Azure.
+
+Familiarity with automation tools such as Ansible, Terraform, and Docker.
+
+Strong experience in performance tuning of database systems.
+
+You work independently and are reliable.
+
+You are not afraid of challenges and are motivated by finding solutions.
+
+You are ambitious and intrigued by working in a startup with an infrastructure that supports rapid growth.
+ 
+About Linkfire:
+We’re a passionate team of music techies on a mission to make music consumption easier for fans, labels, and artists. The music industry is transforming constantly, the market is fragmented and split into many different platforms and services.
+Physical sales are going down. Legal downloads and in particular streaming are gaining momentum.
+The transformation will continue and the years to come will be very interesting. We want to contribute to the transformation by bringing music and fans closer. Not inside music services, but outside where fans and artists engage. Our approach is to index digital music across music services and provide smart links that route fans directly to the music regardless of their location or which player or platform they use. It’s complex.
+We make it simple.
+ 
+What we offer:
+
+
+A place to make a difference and working with some of the newest technologies within Real-time data processing and aggregation.
+
+To grow with the Company and its data volume.
+
+The opportunity to work in one of the fastest growing music tech companies in the world.
+
+An open, informal entrepreneurial startup working environment.
+
+An awesome, international office with colleagues from 20+ different nationalities.
+
+Great career possibilities.
+
+Flexible working hours and a healthy work-life balance.
+Is that you? If so, submit your application and cover letter in English and we’ll be in touch!]

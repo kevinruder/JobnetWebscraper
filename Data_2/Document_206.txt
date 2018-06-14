@@ -1,0 +1,49 @@
+[Actimo is redefining internal communication processes across the retail, trade and industry sectors by offering a responsive digital platform. We challenge the modern workforce – more often than not, comprised of geographically dispersed non-desk employees.
+Our intuitive design makes it easier than ever for employers to connect with their frontline staff through mobile on-boarding and app-based training, delivered straight to their phones.
+In five short years, Actimo has demonstrated a commitment to technical innovation by developing all-encompassing communication solutions for high-profile clients such as Vodafone, HSBC Bank and Bosch.
+We have a dedicated team of 30+ employees based in our offices in Copenhagen and Barcelona, and are rapidly expanding to new markets globally.
+We offer a dynamic work environment that fosters creativity and rewards hard work, with the potential for genuine job satisfaction as leaders in the management technology software space.
+We are looking to hire more top-level developers for our newly established Barcelona office.
+ 
+Job Description
+We are looking for Node.js developers responsible for managing the interchange of data between the server and the users. Your primary focus will be the development of all server-side logic, definition and maintenance of the central database, and ensuring high performance and responsiveness to requests from the front-end. You are passionate about coding, architecture, and technical innovation. And you are very keen on working in a dynamic and international team of super-skilled developers.
+ 
+Responsibilities
+
+Drive both full stack and backend development of the core platform
+Write code of the highest quality
+Contribute in the scoping of key development projects
+Take responsibility for the execution of tasks in the internal tech team and with our external partners
+Build REST-style APIs in node
+Work with real-time metrics is fun and makes great sense
+ 
+Desired Skills and requirements
+
+A Computer Science degree or equivalent degree. If you are self-taught, you must have a proven track record of using data structures and algorithms to optimal levels
+Minimum of 2 years of working experience with Node.js
+JavaScript application design and testing experience
+A solid experience building applications on top of RESTful APIs
+Experience with cross-browser, cross-platform, and design constraints on the web
+Experience developing automated unit, integration, and functional test suites
+Strong desire to learn, push the envelope, and share knowledge with others
+An eye for process flows
+Able to communicate effectively in English in both writing and speaking
+Permission to work within the EU
+ 
+Benefits and perks
+At Actimo, we ask a lot from our team members, but we also give a lot back by offering:
+
+A competitive base salary, plus participation in company warrant programme
+Pension and Private health insurance
+The chance to work with an amazing team of talented, committed and goal-oriented people in a fun but intensely professional office environment
+Flexible working hours and a very good work-life balance
+Travel to our new office in Barcelona 
+Personal and professional development through company sponsored conferences and various training courses
+More cool stuff like annual Summer and Christmas parties, company trips to exotic places, monthly Friday bars, etc.
+That amazing feeling that comes from building something unique and making a difference!
+ 
+Preferred personal profile
+At Actimo we have a strong commitment to our four core values: Engaging, Easy, Effective and Fast. It’s essential that you recognize yourself in these values and see them as an integral part of tech: Colleagues should experience you as engaging in what you do and in their business; you are easy to communicate with; you are effective and get things done on time and lastly; you understand the need for speed in most business interactions.
+To succeed, strong team play spirit is vital. Most likely you are a go-to guy within your field of expertise, and people trust you. You understand the importance of your own contribution as well as the reasons for the success of the entire team and the full stack.
+So, if you find the challenge interesting, join us for an amazing journey.
+ ]

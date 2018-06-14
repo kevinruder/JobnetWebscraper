@@ -1,0 +1,49 @@
+[Vi søger en løsningsorienteret backend udvikler. Du kommer til at løse større og mindre allround udviklingsopgaver på vores platform, samt styre projekter helt fra ide til idriftsættelse. Ansvaret vil hurtigt vokse sammen med virksomheden, og du vil få folk under dig på sigt, hvis du ønsker.  
+Det du særligt skal brænde for, er at joine et af Danmarks hurtigst voksende E-commerce teams. Du kommer ind i en virksomhed i rivende udvikling og med masser ansvar at dele ud af. De sidste 3 år har væksten i Trendhim været 100%+ årligt, og vi er gået fra 3 til 50 ansatte. I 2017 blev vi som gazelle den 10ende hurtigst voksende virksomhed i Danmark. Den primære del af forretningen er lokaliseret i Horsens.
+Vi elsker avancerede løsninger hos Trendhim, i alle afdelinger. Det kan ikke blive smart, effektivt og kreativt nok. Vi sigter altid højere og uden begrænsninger, og leder altid efter steder hvor vi kan wow kunderne på en ekseptionel måde eller procesoptimere virksomheden. Det skaber en stor variation i udviklingsopgaver, og med 18 sprog, 24 stores og en vækst på over 100%, skal vi tænke skalerbarhed ind i alt hvad vi laver.
+ Før du læser videre kan du med fordel lige checke The Trendhim Atlas ud: https://www.trendhim.dk/media/atlas.pdf
+ 
+Hvor awesome er jeres platform?
+Vi sætter enormt høje krav til vores platform, og forventer du gør det samme. Vores platforms core er en fully patched Magento 1 på steroider, den er kraftigt customized og videreudviklet, til at kunne håndtere de enorme krav, der skal til for at skalere en webshop ud i så mange lande.
+Her er nogle highlights:
+
+Seperat state of the art frontend (npm, twig, gulp, yarn)
+Fuldautomatisk translation system (intet manuelt indsætten)
+Retur/Ombytnings system
+Custom CMS system med intelligent blockstyring
+Handling/Logistics (integrationer til logistik partnere over hele verden / Highly intelligent tablet packing)
+ERP system (machine learning til indkøbs flow) 
+
+Dig
+
+Du er awesome.
+Du er lærenem, og elsker at lære nyt.
+Du befinder dig godt i et ungt team med fuld fart frem.
+Dit engelsk er flydende på skrift og tale.
+Du er god til at udvikle løsninger fra idé til idriftsættelse.
+Du sætter krav til din arbejdsplads.
+
+Dine kvalifikationer
+
+PHP 7 er dit liv ;-)
+Git er din baghave.
+Databaser, f.eks. MySQL og MariaDB.
+Web services/integrationer, f.eks. REST og SOAP.
+Du kender til Agile udviklingsmetoder.
+Performance profiling. (f.eks Blackfire)
+Tidligere erfaring med Magento eller andre MVC frameworks er en fordel men ikke et krav.
+
+Vi tilbyder
+
+At blive del af et meget stærkt internationalt team.
+Hurtigt at få mere ledende ansvar, og evt. folk under dig, i det omfang du ønsker.
+En uformel og sjov hverdag.
+Enorm faglig udvikling, med særlig fokus på Magento og E-commerce.
+Fokus på både personlig og faglig udvikling (konferencer, seminarer, coaching mv.)
+At vokse i en fleksibel og omstillingsparat virksomhed i enorm vækst.
+Ambitiøse og dedikerede kollegaer.
+En stærk moden platform at udvikle videre på.
+At du selvfølgelig vælger dit tech gear.
+
+ 
+Interesseret? Smid en hurtig mail til martin@trendhim.dk med et link til din LinkedIn profil eller CV, og inkluder gerne eksempler på tidlige succeser du har eksekveret og er stolt af. :-)]

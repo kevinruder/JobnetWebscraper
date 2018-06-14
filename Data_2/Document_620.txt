@@ -1,0 +1,41 @@
+[DTU, Institut for Mekanisk Teknologi (DTU Mekanik) søger laboratorietekniker eller -ingeniør til en stilling inden for test af materialer og processer med hovedvægt på mekaniske processer og tribologi. 
+
+ Du vil indgå i et tværfagligt team af teknikere, der skal servicere alle instituttets laboratorier men med hovedvægt på laboratoriet for mekaniske materialeprocesser. Du vil referere direkte til teamets leder. 
+
+ Jobbet 
+ Dine primære arbejdsopgaver vil være: 
+ •Opdatering, kalibrering og vedligehold af udstyr og maskiner 
+ •Sørge for dataopsamling og styring til relevant udstyr 
+ •Konstruktion og fremstilling af nye opstillinger 
+ •Vejledning af studerende 
+ •Gennemførsel af forsøg for eksterne kunder 
+
+ Erfaring 
+ Vi forventer et personligt initiativ og et højt engagement, samt ordensans så der hele tiden er styr på udstyr og materialer. I forbindelse med arbejdet vil en meget stor del af opgaverne ligge inden for dataopsamling og styring af opstillinger. Dette foregår fortrinsvis ved hjælp af Labview og udstyr fra National Instruments, derfor vil indgående kendskab til disse produkter vil være en fordel. Desuden vil generelt kendskab til PLC, Arduino og CNC-programmering være velset. Derudover skal du have lyst til at omgås og vejlede studerende samt indgå i samarbejde med forskere og eksterne partnere. 
+
+ Vi lægger desuden vægt på at du: 
+ •Er uddannet ingeniør, maskinarbejder eller anden form for tekniker 
+ •En håndværksmæssig baggrund ses gerne 
+ •Har et godt kendskab til IT-værktøjer 
+ •Har gode kommunikationsegenskaber på både dansk og engelsk 
+
+ Hvad tilbyder vi dig 
+ Vi tilbyder en attraktiv og dynamisk arbejdsplads med gode kolleger og en god omgangstone. Instituttet er sammensat af mange nationaliteter, hvilket er med til at skabe en international ånd. Du kommer til at arbejde i et spændende forsknings- og uddannelsesmiljø, med gode muligheder for faglig og personlig udvikling. 
+
+ Løn og ansættelsesvilkår 
+ Lønnen fastsættes ud fra dine kvalifikationer. Løn- og ansættelsesvilkår i henhold til overenskomst for Akademikere i staten (AC) eller OAO-S-fællesoverenskomsten og enten organisationsaftale for Håndværkere i staten, organisationsaftale for kontorfunktionærer, laboranter og IT-medarbejdere (HK/Stat) eller anden relevant overenskomst. 
+
+ Den ugentlige arbejdstid er på 37 timer inkl. en halv times frokostpause samt flekstid. 
+
+ Arbejdssted er DTU Lyngby Campus. 
+
+ Ansøgning og kontakt 
+ Vi skal modtage din online ansøgning senest den 8. april 2018. Åbn linket "Ansøg online", hvor du udfylder ansøgningsformularen samt vedhæfter motiveret ansøgning, CV og eksamensbeviser. 
+
+ Ønsker du flere oplysninger om stillingen, er du velkommen til at kontakte laboratorieingeniør, Jakob Skov Nielsen på 4525 4723, e-mail: jniel@mek.dtu.dk. 
+
+ Alle interesserede uanset alder, køn, handicap, race, religion eller etnisk tilhørsforhold, opfordres til at søge stillingen. 
+
+ DTU Mekanik bidrager til såvel den grundlæggende som den videregående undervisning inden for mekanik. Vi dækker områderne under faststofmekanik, fluid mekanik, vandbygning og maritim teknik, energisystemer og –omsætning, materiale og overfladeteknologi, proces- og produktionsteknologi samt konstruktion og produktudvikling. DTU Mekanik har omkring 135 videnskabelige medarbejdere, 100 ph.d.-studerende og ca. 85 teknisk/administrative medarbejdere. 
+
+ DTU er et teknisk eliteuniversitet med international rækkevidde og standard. Vores mission er at udvikle og nyttiggøre naturvidenskab og teknisk videnskab til gavn for samfundet. 11.000 studerende uddanner sig her til fremtiden, og 5.800 medarbejdere har hver dag fokus på uddannelse, forskning, innovation og forskningsbaseret rådgivning, som bidrager til øget vækst og velfærd. DTU stiller krav og giver muligheder uanset hvor i organisationen, man arbejder. Vi står for høj faglighed, kollegial respekt og ansvarlig handlefrihed.]

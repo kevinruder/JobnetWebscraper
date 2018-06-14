@@ -1,0 +1,23 @@
+[Til vores Application & Data afdeling søges en Business Intelligence (BI) konsulent, der kan bidrage til den fortsatte udvikling af Microsoft BI hos LINAK, samt aktiviteter relateret til øget fokus på data science og advanced analytics. 
+Personen vil indgå i et tæt samarbejde med afdelingsledelse, Data arkitekt og BI konsulent for at fastlægge den overordnede arkitektur og retning for vores BI set-up. Vores koncernløsning dækker en række funktioner med standard rapporter, og vi arbejder løbende sammen med forretningen om at forbedre funktionalitet og nytteværdi af rapporter på både hovedkontor samt fabriks- og datterselskabsniveau.
+Dette er tillige en chance for at komme forholdsvis tidligt med i processen hvad angår avanceret dataanalyse, og det er således muligt at sætte præg på aktiviteter, som kan sikre LINAK endnu større værdi af de omfattende mængder data, der er tilgængelige.
+Primære opgaver:
+
+Deltagelse i løbende forbedring og fornyelse af BI løsning - værktøjer omfatter MS SQL Server (SSIS, SSAS, SSRS), SharePoint, Visio, Excel, Reporting services og Power BI
+Deltagelse i BI relaterede projekter – herunder igangværende opgradering af ERP og IoT projekt
+Deltagelse i projekter relateret til avanceret dataanalyse – værktøjer omfatter blandt andet R, Python og Jupyter
+Sparring med forretningsejere på tværs af funktioner
+Support (2.-3. level), samt bindeled til ekstern partner
+Dokumentation af løsninger
+Holde sig opdateret om tekniske muligheder, som kan skabe værdi for LINAK
+
+Din baggrund:
+Du har en relevant uddannelse på minimum bachelor niveau og meget gerne erfaring med ovenstående teknologier og ansvarsområder. Du kan nikke genkendende til følgende egenskaber:
+
+Analytisk og struktureret i løsning af udviklings-, test- og dokumentationsopgaver
+Forretningsforståelse, der gør dig i stand til at skabe optimale løsninger og inspirere forretningen med afsæt i muligheder og begrænsninger i Business Intelligence
+Effektiv kommunikator som bindeled mellem forretning, teknisk IT og konsulenter
+Gode samarbejdsevner i en dagligdag der vil være en blanding af teknisk fordybelse og involvering i projekter med interessenter fra IT, forretningen og eksterne samarbejdspartnere
+Taler og skriver dansk og engelsk
+
+Har du spørgsmål til stillingen, er du velkommen til at kontakte Senior Manager, Application & Data, Thomas F B Damsgaard på mobil: 5077 1041. LINAK A/S Group Headquarters Smedevænget 8, Guderup 6430 Nordborg]

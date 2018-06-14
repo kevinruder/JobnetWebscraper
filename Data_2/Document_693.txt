@@ -1,0 +1,8 @@
+[Work Supply søger på vegne af vores kunde en PHP udvikler (min. 3 års erfaring)  til København. Opgaven vil være at have fokus på at rådgive, implementere, supportere og performanceoptimere de tekniske dele i og omkring Back-end udvikling. Derfor skal vi bruge en ambitiøs og selvstændig backend udvikler.
+Om dig:
+• Minimum 3 års professionel erfaring med udvikling i PHP (KRAV)• Erfaring gerne med et eller flere PHP-frameworks • Stærke kompetencer i javascript, REST, database design, automated testing og              performance optimization
+ Laravel erfaring er et +
+Du har gode kommunikationsevner både mundtligt og skriftligt på dansk og engelsk.
+Firmaet tilbyder dig at blive en del af en velfungerende organisation med konstant fokus på udvikling, både af forretningen og på det faglige plan.
+Stillingen er en fuldtidsstilling.
+Samtaler afholdes løbende, så søg jobbet allerede i dag ved at maile dit CV til: ak@worksupply.dk  (JOB ID 1219)]

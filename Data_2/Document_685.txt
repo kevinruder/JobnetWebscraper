@@ -1,0 +1,23 @@
+[DETALJEN DENMARK APS - Byggeriets Digitale Partner – har siden 2003 leveret professionelle systemer til byggestyring, kvalitetssikring (KS), aflevering og drift til den danske byggebranche.
+Da vi har rygende travlt, har vi brug for en ny kollega til at udvikle og styre vores egenudviklet digitale system, C-WEB. Derfor søger vi en udvikler, der er lige så dygtig, som han/hun selv tror!
+C-WEB er baseret på en kerne af PHP og MySQL, med en front-end skrevet i HTML5 / CSS3 og jQuery (Javascript) som dynamisk klient-sprog.
+Kan du indgå i et tæt teamwork, kommunikere på dansk og engelsk, samarbejde på tværs af landegrænser og har du kerne-kompetencer inden for
+
+PHP/MySQL
+JS – JavaScript (jQuery/Ajax)
+HTML5/CSS3
+
+og har du eventuelt også kendskab til
+
+JSON
+Linux
+Apache
+Webservice dataudveksling
+
+samt en generel bred teknisk forståelse, så er du måske den medarbejder, vi søger.
+Vi er en virksomhed i fuld fremdrift og vi forventer os derfor, udover ovenstående kerne-kompetencer, at du evner at arbejde i et til tider hektisk miljø, og at du kan træde til med din tekniske viden og agere ”blæksprutte”, hvor det i perioder kan være påkrævet. Du har sans for at organisere kode, og mestrer at sætte dig ind i allerede udviklede funktioner med henblik på videreudvikling og vedligeholdelse.
+Hos Detaljen har vi en afslappet stemning, men et højt fagligt niveau. Vi har fleksible arbejdstider, men træder også til, når det er påkrævet. Vi spiser frokost sammen. God mad, der bliver leveret fra en nærliggende restaurant hver eneste dag. Vi griner og diskuterer løsninger. Vi udvikler og sparrer. Alt i alt, så har vi det bare rigtig godt ved at gå på arbejde.
+Så hvis nogle, eller alle ovenstående muligheder og forventninger har fanget din interesse, så ring til Mads Gundelund Gerlach på 42734873 og hør nærmere, eller send ham din ansøgning på mgg@detaljen.dk.
+Vi indkalder til samtaler løbende, men seneste ansøgningsfrist er 31. marts 2018.
+Så lad os høre fra dig.
+Mange hilsner fra alle os fra Detaljen]

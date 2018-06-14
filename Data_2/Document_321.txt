@@ -1,0 +1,39 @@
+[Om jobbet:Vil du være med til at videreudvikle på et af Danmarks største kommunale identitets- og adgangsstyringssetup og har du lyst til at blive en del af et dynamisk team - så kan du måske være den nye IT-arkitekt til vores hold.   Aarhus Kommune har et komplekst landskab af IT-systemer, hvor vi er i fuld gang med at etablerer sammenhængende identitets- og adgangsstyring samt sikre effektive digitaliserede forretningsprocesser. Du skal indgå i et nyetableret team, som har ejerskabet af infrastrukturkomponenter, der giver ”simpel og sikker adgang” til løsninger i Aarhus Kommune.   Du får ansvaret for arkitekturen af den infrastruktur, der er hjertet for identitets- og adgangsstyring samtidig med, at du er frontløber for procesoptimering og automatisering af området. Du får ansvaret for Aarhus Kommunes fælles ADFS/IdP og IdM samt ansvar for videreudvikling og konsolidering - i tæt samarbejde med sektionens øvrige medlemmer, systemejere og leverandører. Teamet, du bliver en del af, har desuden ansvaret for understøttelse af ITIL processerne i ServiceNow. 
+Vi tilbyder: 
+
+Et fagligt skarpt og inspirerende miljø med højt ambitionsniveau og en uformel stemning 
+En stor kontaktflade til mange interessenter i Aarhus Kommune, såvel forretning, infrastruktur og data specialister 
+Et spændende job med høj teknisk og organisatorisk kompleksitet med rig mulighed for at påvirke egne opgaver 
+En mulighed for at præge den samlede systemarkitektur for identitets- og adgangsstyring sammen med dygtige kollegaer 
+Fleksible arbejdsforhold med respekt for balance mellem privat- og arbejdsliv 
+Oplæring i det kommunale systemlandskab og den fællesoffentlige rammearkitektur, hvis du ikke har erfaring fra det offentlige
+
+Din profil:Vi lægger vægt påErfaring med:
+
+at omsætte forretningens behov til værdigivende IT 
+at indgå i en større organisation gerne med erfaring inden for brugerstyring 
+at kunne indgå ligeværdig faglig dialog med infrastruktur- og dataspecialister 
+at arbejde med agile udviklingsmetoder for at holde fokus på værdiskabelse 
+at kunne overskue og dokumentere processer samt etablere velfungerende Governance 
+
+Faglig ballast:
+
+Relevant uddannelse (f.eks. IT, Merc., Datalog eller lignende baggrund/erfaring) 
+Erfaring med at udfordre leverandører på kvalitet og kunne tage ejerskab for underliggende komponenter og for IT-arkitekturen 
+Erfaring med AD, ADFS, cloud services, netværk etc. vil være at foretrække, dog ikke en forudsætning 
+Erfaring med eksempelvis PowerShell til scripting/automatisering og T-SQL til forespørgsler vil være at foretrække, dog ikke en forudsætning 
+
+Du: 
+
+Er systematisk og struktureret med fokus på at nå målet 
+Kan tænke abstrakt men alligevel tage hånd om de væsentligste detaljer 
+Er selvstændig, opsøgende og klar til at tage ansvar 
+Er en holdspiller med en samarbejdsorienteret indstilling og fokus på de fælles resultater 
+Er en brobygger mellem forretning og IT og kan favne bredt såvel personligt som fagligt 
+Er imødekommende og i stand til at formidle din faglige viden både skriftligt og mundtligt 
+Kan acceptere, at forandring er et vilkår for løbende at kunne understøtte forretningens behov
+
+ Løn og ansættelsesvilkår:Løn og ansættelsesvilkår vil være i henhold til gældende overenskomst. Endelig lønfastsættelse sker efter forhandling med den forhandlingsberettigede faglige organisation på baggrund af kvalifikationer.   Ugentligt timetal: Fuldtid
+ Hvis du vil vide mere:Yderligere oplysninger om stillingen kan fås ved henvendelse til Sektionsleder for Brugere og Servicesystemer Søren Lauritsen på telefon: 2916 3142 eller mail sl@aarhus.dk
+ Ansøgning:Stillinger i Aarhus Kommune søges elektronisk. Klik på ”Søg job” nedenfor for at udfylde og sende din ansøgning. Alle felter med * skal udfyldes. Først når du har modtaget en kvittering pr. e-mail, har vi modtaget din ansøgning.   Kopi af eksamensbevis skal vedlægges.   Ansøgningsfrist: 09.04.2018   Vi forventer, at 1. samtale finder sted i uge 16. Evt. 2. samtale finder sted i uge 17.   Aarhus Kommune ser mangfoldighed som en styrke. Vi opfordrer derfor alle uanset alder, køn, religion og nationalitet til at søge.
+ Om os:Aarhus Kommune har valgt at samle store dele af kommunens IT- og servicefunktioner i en fælles IT-afdeling kaldet Fælles Service. Du vil blive en del af afdelingen Brugerservice, i den nyetablerede sektion Brugere og Servicesystemer, som består af to teams Brugeradministration og Servicesystemer.   Aarhus Kommune tilbyder her en alsidig fast stilling i et uhøjtideligt og dynamisk miljø, som er præget af travlhed og professionalisme.   Konkret arbejder vi efter tre pejlemærker: stabil drift, glade brugere og effektiv kommune, og du kommer til at spille en nøglerolle, der skal sikre, at vi når derhen.   Med et job i Fælles Service, der er en del af Borgmesterens Afdeling med ca. 250 ansatte, er du tæt på beslutningerne i landets næststørste kommune med over 22.000 fuldtidsstillinger.   Visionen er i 2030 at være 50.000 flere aarhusianere og have skabt 40.000 flere arbejdspladser i forhold til i dag. I 2017 var vi Europæisk Kulturhovedstad, og i 2030 er ambitionen, at vi er en CO2-neutral by.   Som medarbejder i Aarhus Kommune er du med til at gøre visionerne til virkelighed. Du vil være med til at skabe rammerne, være med til at skabe bevægelse i Aarhus og skabe fremtidens Aarhus.   Vil du vide mere om Borgmesterens Afdeling, så se på:  www.aarhus.dk/borgmesterensafdeling  ]

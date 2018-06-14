@@ -1,0 +1,47 @@
+[Hello! We’re SYBO and we are here to build awesome things.
+We live to make stuff that you want to play by crafting coolness out of chaos. We're the sum of all our parts and our staff are the beating heart of everything we make and do.
+At the moment we are looking to strengthen our engineering forces with a skilled Game Data Analyst with a passion for mobile games and big data sets.
+We appreciate specialists and with your particular skill set, you will be a large part of forming the position and be a part of our continuous journey.
+Sounds interesting?? Take a look at the description - and let us know if you are the one we are looking for.
+REQUIREMENTS
+As a Game Data Analyst you will proactively employ product knowledge, quantitative analysis and a scientific thought process to optimize every facet of player retention and monetisation. Your work will also produce the insights to allow the marketing and in-app advertising departments to maximise yields on both ad sales and spend.
+The core functions of the position are to:
+
+Work closely with engineers to spec and collect game event logs
+Manipulate data sets to form meaningful takeaways
+Conduct thorough and data informed analysis, leading to actionable insights
+Create logical and intuitively flowing reports
+Dissect and understand core game loops, monetization features and game mechanics
+Relate core game loops, features and mechanics to KPIs within an ARM framework (acquisition, retention, monetization)
+Construct and monitor both real-time and historical KPIs
+Work with game designers to optimize existing game features as well as create new features
+Produce advertising productivity reports to support the
+Provide support where needed to the in-app advertising department
+Work in close data analyst department and help analyse results of A/B test
+Design databases
+Skill Set Requirements:
+
+Ability to cull actionable and meaningful insights from data analysis
+Demonstrated understanding of cohort analysis and control variables
+Exceptional ability to ideate and prioritize potential analysis based on financial impact
+Ability to employ the scientific method in a fast paced environment in an ad-hoc manner
+Proactive, resourceful and a quick learner
+Down-to-earth, team oriented personality
+Working knowledge of Postgresql (or any SQL dialect)
+Experience with a data visualization tool (such as Tableau, Qlik, Mode) a plus
+Working knowledge of R and/or Python a plus
+Experience with Mobile games is a plus
+And advanced degree such as Master's, MBA or PhD a plus.
+BENEFITS
+What we can brag about (other than this is the coolest job(s) ever!!):
+
+The best office location in Copenhagen
+A chance to do the work of your life
+An informal and creative culture where everybody is heard
+We also have...
+
+Health insurance for every employee
+A pension plan
+Healthy lunch buffet
+Currently 17 nationalities
+And a lot of fun - also when working]

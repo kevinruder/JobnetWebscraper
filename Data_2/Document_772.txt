@@ -1,0 +1,24 @@
+[Er du en dygtig softwareudvikler med speciale i C# og webudvikling, og har du lyst til at blive en del af en af landets dygtigste og mest innovative udviklingsteams, så har du chancen nu!MediaConnect ApS er en af landets førende virksomheder indenfor design, udvikling og implementering af digitale kommunikationsløsninger, som f.eks. webløsninger, infoskærme, mobile webapps og selvbetjeningsløsninger, og vi søger en dygtig, innovativ og nytænkende udvikler, som skal indgå i vores udviklerteam på 4 mand.Du kommer i samarbejde med de øvrige udviklere, til at arbejde med udvikling af vores digital signage software, som er skrevet i C#. Derudover gennemfører vi et hav af forskellige udviklingsprojekter som primært bygger på webteknologier. Vi anvender primært PHP til serverside scripting. Det er et krav, at du er dygtig til webudvikling og kender alt til HTML, CSS, JavaScript og jQuery.
+Vi kan tilbyde:
+
+En spændende og udfordrende stilling i en af landets bedste og mest innovative Gazelle-virksomheder
+Du får mulighed for at arbejde med innovative løsninger til nogle af landets største virksomheder og organisationer
+Du får masser af ansvar og får direkte indflydelse på produktudviklingen
+Vi har et højt fagligt niveau og du får mulighed for løbende videreuddannelse
+Et job i en virksomhed hvor vi lægger vægt på godt kollegaskab og arbejder i en uformel og afslappet atmosfære
+
+Det forventer vi:
+
+Du har 3-5 års erfaring med programmering i C#
+Du har 3-5 års erfaring med webteknologier i PHP eller ASP.NET samt Javascript, jQuery, HTML og CSS
+Du er vant til at arbejde med databaser
+Du har en dokumenteret erfaring med systemudvikling
+Du har en bred erfaring med behovsanalyse / afdækning i forbindelse med kundeløsninger
+Du har lyst til at tage ansvar og sætter en ære i at levere arbejde af en høj kvalitet
+
+Vi tilbyder en attraktiv lønpakke med pension, telefonabonnement og internetforbindelse på din hjemmeadresse. 
+Det er en fuldtidsstilling, med arbejdssted på firmaets adresse i Struer.
+Lyder ovenstående stilling som dit drømmejob, så kontakt Michael Bested på tlf. 2395 3678 eller skynd dig at sende en skriftlig ansøgning til job@mediaconnect.dk Vi kalder løbende ind til samtale.
+Vi glæder os til at høre fra dig.
+ 
+ ]

@@ -1,0 +1,11 @@
+[Work Supply søger i øjeblikket efter dygtige Tekniske Tester.
+Du har en solid erfaring med test og kvalitetssikring fra krævende projekter af flere størrelser, og du er typen der gør en forskel i et projekt, derudover agerer du åbent og professionelt i det team, som du er en del af.
+Du er udadvendt, og kan godt lide at have kundekontakt. Du får hurtigt et overblik over projektet, og kan derfor komme med forslag og anbefalinger til vore kunder. Du har en god situationsfornemmelse og formidler dine meninger samt input konstruktivt.
+Du kan se dig selv træde ind i rollen som professionel sparringspartner med vores kunder, og du har måske allerede erfaringer som konsulent.
+Din positive tilgang og din handlekraft gør, at du opleves som proaktiv og professionel, hvilket betyder at vore kunder står stærkt med dig på holdet.
+Om Jobbet: • Estimere og planlægge eget testarbejde• Reviewe testgrundlaget• Give input til testplaner, statusrapporter og testrapporter• Udarbejde testdesign, testcases, testdata og testprocedurer/testscripts• Test eksekvering kun automatisk• Foretage gentest og regressionstest• Registrere og håndtere hændelser/defects• Følge op på status og rest-estimere og forudsige færdiggørelsen af eget arbejde• Rapportere status, risici og afvigelser for eget arbejde til Test Koordinator/Test Manager/Service Manager• Opsamle metrikker for eget arbejde• Risikoanalysere eget arbejdsområde og bidrage til synliggørelse af projektets risici• Anvende kundens værktøjer til arbejdsopgaverne• Give input til erfaringsopsamling
+Om dig: • Minimum 5 års erfaring i rollen som teknisk tester• Indsigt i struktureret test, testprocessen og testdesignteknikker• Erfaring med testmetoder, teknikker og design af testcases• Erfaring med et eller flere testværktøjer Selenium/WebDriver, Cucumber, TestComplete,      SoapUI, HP UFT, SQL, Python, C#, Java• Flydende i skrift og tale på et at følgende sprog: dansk, svensk eller norsk
+Løn fastsættes efter kvalifikationer.
+Stillingen er en fuldtidsstilling, og der søges Tekniske Testere til Århus og omegn.
+Det er en forudsætning at du minimum har 5 års erfaring og taler dansk, svensk eller norsk.
+Samtaler afholdes løbende, så søg jobbet allerede i dag ved at maile dit CV til: ak@worksupply.dk      JOB ID: 1222]

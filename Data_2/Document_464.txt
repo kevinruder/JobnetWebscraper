@@ -1,0 +1,34 @@
+[DTU Wind Energy at the Technical University of Denmark has a vacancy in the Loads and Control Section (LAC) at DTU Risø Campus. Our mission is to develop state-of-the-art design methods to ensure the structural integrity of wind turbines. This is a highly multi-disciplinary issue involving modeling of the non-stationary inflow field, aerodynamics, structural dynamics, structural stability and control. DTU Wind Energy is a department at the Technical University of Denmark with the overall mission to develop and create value using the natural and technical sciences and focusing on wind energy for the benefit of society. This includes research and education in siting and integration, wind turbine technology, and offshore wind energy as well as scientific advice and testing and other research-based services. The department is an internationally leading center in wind energy and cooperates with industry and institutions worldwide. In LAC, the major control activities include controller design of wind turbines and wind farms, estimation of wind conditions and wakes within wind farms. Validation of developed models is of significant importance and is preferably performed using data from full-scale tests. Once validated, the models developed in LAC are used for design, analysis and optimization of wind turbines. Responsibilities and tasks Your work will mainly be focused within control engineering activities of LAC but in close interaction with the other (LAC) disciplines. You are expected to take a leading role in further developing and expanding the section’s theoretical- and experimental expertise in control with applications to wind turbines and wind farms. The development of wind turbine and wind farm controllers will include aspects of both component fatigue load alleviation and production optimization as well as the optimal economical balance between these two aspects. Dissemination is important, and your work will consequently include implementation of developed tools and knowledge in the international research community and industry with focus on mutual interaction. Moreover, supervision of master and PhD students is a priority for the university. You will be participating in ongoing national and international research projects, and you are expected to contribute to the generation and management of new projects. There are also good opportunities for developing innovative ideas in the direction of commercial products. QualificationsLAC is looking for a talented control engineer with a strong background in control theory and its application in wind energy. The candidate must hold a PhD degree (or equivalent) as well as academic qualifications equivalent to those obtained from holding a position as Researcher or Postdoc. Experience with advanced model based control methods, such as model predictive control, within the areas of the wind energy systems is important. Moreover, candidates experienced with state-of-the-art control design tools as e.g. MATLAB/Simulink are preferred. The candidate must further have an internationally recognized track record within the areas of wind turbine and wind farm control and proven ability in modern control strategies - for example:
+
+Model predictive control
+Kalman filtering and estimation
+Individual pitch/flap control
+Feed-forward control
+Experience with programming in a low-level language (Fortran, C, C++) and a scripting language (preferable Python) is an advantage.As personal characteristics, the candidate
+
+Is driven by exploring boundaries
+Enjoy working with complex topics
+Is motivated by both personal and team accomplishments
+Has a focus on processes and development as much as on results
+Strive to develop talent amongst others 
+AssessmentIn the assessment of the candidates consideration will be given to: 
+
+Research impact and experience, funding track record, and research vision
+Experience and quality of teaching 
+Societal impact
+Documented innovation activities, including commercialization and collaboration with industry
+International impact and experience
+Leadership potential and collaboration
+Communication skills
+We offerDTU is a leading technical university globally recognized for the excellence of its research, education, innovation and scientific advice. We offer a rewarding and challenging job in an international environment. We strive for academic excellence in an environment characterized by collegial respect and an academic freedom tempered by responsibility.
+Salary and terms of employmentThe appointment will be based on the collective agreement with the Danish Confederation of Professional Associations. The allowance will be agreed with the relevant union.  You can read more about career paths at DTU here. The place of work is Risø Campus in Roskilde. Further information Further information may be obtained from Head of Section Flemming Rasmussen (+45 4677 5048, flra@dtu.dk), Senior Scientist Gunner Chr. Larsen (+45 2132 6943, gula@dtu.dk), or Senior Scientist Torben J. Larsen (+45 2132 8728). You can read more about DTU Wind Energy at http://www.vindenergi.dtu.dk/english ; Application procedurePlease submit your online application no later than 29 March 2018 (local time). Applications must be submitted as one PDF file containing all materials to be given consideration. To apply, please open the link "Apply online", fill in the online application form, and attach all your materials in English in one PDF file. The file must include:
+
+Application (cover letter)
+CV
+Views regarding teaching and research based on the “Assessment” bullets
+Documentation of previous teaching and research based on the “Assessment” bullets
+List of publications
+H-index, and ORCID (see e.g. http://orcid.org/)
+Diploma (MSc/PhD)
+Applications and enclosures received after the deadline will not be considered.
+All interested candidates irrespective of age, gender, race, disability, religion or ethnic background are encouraged to apply. DTU Wind Energy has more than 240 staff members, including 150 academic staff members and approximately 50 PhD students. DTU Wind Energy has a considerable degree of innovation and cooperation with companies and sector associations within the wind industry in Denmark and abroad. The research is conducted within the three main topics wind energy systems, wind turbine technology, and basics for wind energy. DTU Wind Energy is one of the largest and most prominent research institutions within wind energy. DTU is a technical university providing internationally leading research, education, innovation and scientific advice. Our staff of 5,800 advance science and technology to create innovative solutions that meet the demands of society; and our 11,000 students are being educated to address the technological challenges of the future. DTU is an independent academic university collaborating globally with business, industry, government, and public agencies.]

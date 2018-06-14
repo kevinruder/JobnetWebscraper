@@ -1,0 +1,18 @@
+[Er du PHP webudvikler og brænder for at skabe automatiserede kundeløsninger, så er du måske vores nye kollega.
+Kort beskrivelse af arbejdspladsenIEX Integration er en SaaS (Software as a Service) løsning i rivende udvikling. I den forbindelse har vi brug for en teknisk stærk PHP udvikler.Vi er igang med at udvikle vores nyeste version af IEX, som bliver en helt ny og modulær service - og det er her du kommer ind i billedet og kan gøre enforskel.
+ArbejdsopgaverSom udvikler hos IEX vil du i samarbejde med vores dygtige team primært varetage udvikling af nye integrationer samt research af diverse tekniske supportsager. Vi hygger os til dagligt med SCRUM møder som giver teamet struktur og sammenhold.
+Din profilVi ser gerne at du har en relevant uddannelse, men det er ikke et krav, da det først og fremmest er vigtigt at du har styr på PHP/MySQL. Vi forventer at du på sigt kan byde ind med nye ideer/metoder til udviklingen.Teknisk erfaring:
+
+Objektorienteret PHP (7.X) + Database MySQL (5.7/Aurora)
+API integration (REST, SOAP, XML, JSON)
+Javascript, jQuery, AJAX og evt. Vue.js
+SaaS-konceptet (Software as a Service)
+Versionering (Git)
+Gerne erfaring med/kendskab til ERP-systemer såsom regnskab, lagerog POS-systemer
+Gerne kendskab til PHP frameworks såsom Laravel og composer
+Gerne kendskab til Linux (ssh/shell)
+Gerne kendskab til SCRUM
+God til skriftlig dansk/engelsk
+
+Du kan se frem til...At skulle møde på arbejde i store lyse, rummelige lokaler med højt til loftet. Vi har et skønt fælles område med sofalounge, hvor man kan smide benene op, og tale om løst og småt. Vi får leveret lækker frokost buffet mandag og onsdag, og der er fri kaffe/te samt sodavandsordning. Vi har en uformel omgangstone hvor der er plads til alle. Desuden er vi stolte af vores flade ledelsesstruktur og uhøjtidelighed.
+Ansættelse/lønVi tilbyder ordnede ansættelsesforhold. Løn efter aftale/kvalifikationer. 37 timers stilling. Tiltrædelse snarest muligt!Vi glæder os til at modtage din skriftlige ansøgning og husk at læse mere på https://iex.dkPS Ansøgningen skal være på dansk og i PDF udgave.]

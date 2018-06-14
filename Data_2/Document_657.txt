@@ -1,0 +1,42 @@
+[Som konsulent bliver du ansvarlig for drift og implementering af Linux baserede løsninger i vores datacentre.
+Kunne du tænke dig at blive en del af en virksomhed hvor der er højt til loftet, høje ambitioner, høj vækst og høj kundetilfredshed?
+Du motiveres i høj grad af at arbejde selvstændigt med frihed under ansvar. Der er fart på udviklingen af de nye teknologier, og det er derfor vigtigt at du ikke giver op, men hele tiden ser vigtigheden i at lære nyt.
+Vi tror på, at de personlige egenskaber kommer i første række, hvorfor du tilbydes et selvstændigt job med mange muligheder for såvel faglig som personlig udvikling.
+Arbejdssted er fra kontoret i Kolding, alternativt Viby eller Herning. 
+Dine primære arbejdsopgaver:
+Du har flere års erfaring indenfor Linux - f.eks CentOS-/Ubuntu-/Redhat. Samtidig vil det være en fordel, hvis du også har en god forståelse for virtualisering, netværk og IT-infrastruktur generelt. Dette gør dig i stand til at analysere, fejlsøge og løse komplekse problemstillinger.
+
+Drift og implementering af nye Linux baserede kundeløsninger i vores datacentre.
+Opsætning og proaktiv vedligeholdelse af eksempelvis SaltStack, cPanel, Docker m.m.
+Automatisering af processer via scripting
+Generel administration af Linux-baserede systemer
+Håndtere incidents på driftsplatformen (2. og 3. level sager)
+Dokumentation og rapportering
+Samarbejde med teamet om øvrige leverancer (Citrix, Virtualisering, performance optimering m.m.)
+Indgå i driftvagt ca. hver 4. uge
+
+Personlig profil: 
+Du arbejder for at opnå højest mulige kundetilfredshed, og har ambitionerne om altid at finde den optimale løsning. 
+Dine karakteristika:
+
+Du ønsker at udvikle dig, både personligt og fagligt
+Du er stabil og motiveres af frihed under ansvar
+Du sætter en stolthed i din faglighed
+Du er serviceminded, og vindende i din kontakt med kunder, kollegaer og samarbejdspartnere
+Du besidder evnen til at kommunikere på alle niveauer
+Du evner at planlægge din egen hverdag og trives med en hverdag i et højt tempo
+
+Du tilbydes mere end "blot" et job:
+Du vil have stor indflydelse på din egen hverdag. Der er tale om et meget alsidigt og udfordrende job, som på baggrund af en markant kunde- og markedsorientering samt meget stærke værdier, oplever kraftig vækst i disse år. Du får frihed under ansvar samt en bred kontaktflade med dygtige kolleger.
+Mulighederne for personlig udvikling er særdeles gode da IT Relation vækster kraftigt, og derved opstår der løbende muligheder for at dygtiggøre sig og arbejde med de nyeste teknologier.
+Om virksomheden:
+IT Relation beskæftiger mere end 380 medarbejdere, og er en fusion mellem IT Relation og flere andre komplementære IT virksomheder - nu med 8 lokationer i Danmark.  
+Du bliver en del af et IT-firma som er med helt i front og lidt ud over det sædvanlige. Smilende, lidenskabelige, servicemindede og i særdeleshed skrappe til IT. Du bliver én af hverdagens IT superhelte. 
+IT Relation er gennemsyret af "No Problem" kulturen, som er svaret på enhver IT udfordring. Ligeledes er kulturen kendetegnet ved at alle tænker optimale IT-løsninger og ultimativ kundeservice. 
+Hos IT Relation er der desuden stor fokus på at styrke det sociale sammenhold i virksomheden, via f.eks en meget aktiv personaleforening. 
+ Du kan læse mere om IT Relation på http://www.itrelation.dk/ 
+Ansøgning
+Effektiv Rekruttering bistår IT Relation ved denne rekruttering. For yderligere informationer om stillingen er du velkommen til at kontakte Claus Bønløkke, cb@erhr.dk eller tlf. 40406633
+Alle henvendelser behandles med behørig diskretion og fuld fortrolighed, ligesom virksomheden ikke gøres bekendt med kandidaternes navne før accept af dette.
+Fremsend venligst ansøgning og CV via vores online ansøgningsformular.
+Ansøgningsfrist snarest muligt - samtaler afholdes løbende.   ]

@@ -1,0 +1,41 @@
+[Are you ready to be a part of the cloud revolution in ERP? 
+  
+With a successful investment to move the Dynamics 365 for Finance and Operation Enterprise Resource Planning (ERP) solution to the Azure Cloud platform, we have great new challenges and many opportunities ahead of us to leverage the best of Microsoft technology. As we continue our path to build a multi-billion-dollar business in the cloud, we look for experienced software development engineers, to join our agile project teams that develop significant product improvements to deliver a better and more complete experience to our customers 
+  
+Dynamics 365 is developed across multiple sites around the globe and Microsoft Development Center Copenhagen in Denmark; with specific focus on Operations, is at the center of the product offering. Microsoft Dynamics 365 built on the latest technology with support of the best business processes is key to help our partners and customers realize their full potential through digital transformation. 
+  
+Would you like to be a part of this revolution, and work in an awesome new location with amazing colleagues? Do you want to utilize your passion for technology to bring Dynamics 365 to the next level? Would you like to have direct connection and impact on customers and businesses? Most importantly would you like to be a part of the greatest software company in the world, that continues to fundamentally redefine the rules of the game?   
+ 
+What do we expect from you? 
+You’ll become a member of a strong development team that build the future of Operations on Dynamics 365. We want a team member who can say ‘Yes’ to these 5 virtues: 
+ 
+You have a growth mindset. You want to finish every day smarter than when you woke up in the morning. You are open to trying out new ideas, and take time to reflect. 
+You really care about customers. Everything we do, we do to satisfy our customers. We involve customers in all phases of feature development, from requirements, to design and implementation. We deploy, run and monitor the Dynamics 365 service to make sure it works optimally for each specific customer implementation. We use our rich telemetry to identify and deploy pro-active improvements. We obsess about our customers.
+ 
+You are bright. You will join an agile team, and you will be tired at the end of the day. We are handling the entire supply chain area of Dynamics 365. There are many moving parts, and we have high ambitions, ranging from improving the efficiency of the running service to lighting up new scenarios or perfecting user experiences. 
+You have a sense of quality. You will join a team of software craftsmen with the responsibility of a large code base. We can move swiftly ahead because we pay attention to the detail. We expect you to ensure and improve quality by doing code or design reviews, building test automation, implementing and monitoring telemetry and suggesting new ways for continuous improvement.   
+You like to share successes. You will be a part of a team working towards a common goal. You understand you will only succeed by helping the team grow, learn and deliver amazing experiences. 
+ 
+Minimum qualifications:   
+- 3+ years of professional software development experience 
+- Desire to both develop and operate a world class business critical service 
+- Good software design skills, (object oriented design and analysis - Relational database design)   
+- Solid coding experience in an object-oriented language 
+- Good command of written and spoken English 
+- BS/MS in Computer Science or equivalent.   
+- Experience in agile development methodologies. 
+ 
+Preferred qualifications:   
+- Business application experience -Supply Chain Management (SCM) and Manufacturing a plus   
+- Development experience on large distributed scalable performant architectures. 
+- Experience from working in a Dev-Ops environment 
+- Familiarity with UML, ER diagrams   
+- Experience with design patterns 
+- Experience working on Azure or other cloud platforms 
+ 
+We offer you:   
+Microsoft is a company that values diversity and encourages openness of ideas and communication. MDCC was rated the Best Place to Work in Denmark by the Great Place to Work Institute.   
+  
+Microsoft Development Center Copenhagen is one of Microsoft’s largest development centers outside the US. We offer an international work environment that is characterized by flexibility, an informal atmosphere and a fast pace. We provide an attractive compensation package that will match your responsibility. International visa sponsorship and relocation support is offered for this role.   
+  
+All applications for vacant positions will be welcomed and will be considered on the relative merits of the applicant against the role profile for the position regardless of color, race, nationality, ethnic origin, gender, sexual orientation, marital status, disability, parental responsibilities, age, religion, or belief.]

@@ -1,0 +1,28 @@
+[(Location: Flensburg (Germany) / Nordborg (Denmark))
+Job Description
+Can you lead test activities in a large and complex ERP roll-in? Then you might be the Test Release Lead we are looking for to join the One ERP Program, and support Danfoss’ digital transformation.One ERP is the foundation of Danfoss’ digital transformation. It will give Danfoss speed and flexibility enabling us to give a better digital customer experience. This will be possible by having aligned business processes, SAP configurations, business forms, master data definitions and training material across the entire organization. You will join a highlight motivated One ERP Program Team, with members from the four Danfoss segments and key corporate functions. Together with business input, they have built the system, established various interfaces and mapped business processes upfront, using the latest technology available. The implementation of One ERP is running and an ambitious three-year roadmap is in place and will cover all Danfoss entities across the world.Project management and coordination of test activitiesAs our new Test Release Lead, you will become part of the Transition Support Team (Business), with responsibility to plan, organize and facilitate tests activities in the roll in releases. You will work closely together with the release team including consultants and many local stakeholders, which will include a lot of virtual team work. This position is for now located in Flensburg, Germany but over time it can be moved to e.g. Nordborg, Denmark, so you need to be flexible regarding the location. Your key tasks will be:
+
+Planning release test scoping and design
+Planning execution in test factory
+Execution of a plans together with local teams
+Coordination together with functional teams on test scope definition, creation of test cases and scenarios in Solman, and validation of test scope
+Planning and managing Integration Tests and User Acceptance Tests from a release PoV
+Ensuring that every test effort is effectively planned, monitored and executed and the core activities required by the Testing Framework are completed in a structured and consistent manner
+Engaging of all relevant stakeholders and secure the requisite sign-offs
+Ensuring that all required testing deliverables are created in Solman, including testing approach, testing scenarios, conditions and expected results, test scripts and testing control sheets
+Reporting of test progress and defect resolution progress
+Managing test organizers, defect hunters, testers on an hourly/daily basis during tests
+Managing defects resolution with the central teams
+Escalating defects and issues to relevant teams
+Ensuring test environment and test data readiness (coordinately together with functional teams and test factory)
+Test expert with good communications skillsWe expect you to have minimum a relevant Bachelor’s degree, but more importantly, you have solid experience within test planning and execution in SAP/ERP. You are used to work for a big company with many stakeholders. You have strong project management skills and have a broad understanding of testing planning, execution- and reporting tools (Solman CBTA). You have good knowledge of testing methodologies and standards and are an expert in using MS Excel. On a more personal note, you are:
+
+Focused on results
+Analytic, structured and systematic
+Both a team player and self-driven
+Used to work in an international environment
+Good in communicating and networking across all levels in an organization
+Last, but not least you are fluent in business English, both written and verbal.As One EPR Program member, you get the opportunity to work in a high-profile Danfoss program. You will join an international and dynamic team, who are used to work under pressure and collaborate to reach key deadlines and goals. Being part of the One ERP Program, means that you will be a key player in Danfoss’ digital journey, helping to create a better digital customer experience and enable growth in Danfoss.  
+Auto req ID
+12490BR
+ ]

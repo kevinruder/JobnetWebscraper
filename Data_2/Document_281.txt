@@ -1,0 +1,28 @@
+[Do you have what it takes to develop financial software using both object-oriented and functional programming languages? Then an interesting career could be awaiting you in SimCorp!Location: CopenhagenApplication deadline: 31/03/2018 The position
+SimCorp develops, sells and delivers integrated software solutions to the financial sector. Our product, SimCorp Dimension, is one of the leading investment management systems in the world and is used by global financial institutions and fund managers. Our development division is a full-scale agile organization following SAFe.
+We are looking for a talented software developer to work with our financial instrument modelling language based on OCaml and system integration work based on C# and APL.
+You will be a part of a scrum team in IBOR ART (Investment Book of Records Agile Release Train). The team works amongst other things with the business aspects of financial instruments and functionality related to static data, pricing, and market data as well as the technical framework supporting the business development.
+ 
+Your qualifications
+
+Excellent C# skills, good insight to the .net framework and object-orientated software design and programming
+A solid understanding of functional programming languages (OCaml, Standard ML, F# etc.)
+Well-founded in working with complex architectures
+You are a team player who actively seeks collaboration to find optimal solutions
+You hold a M.Sc. or Ph.D. in Computer Science, Software Engineering or you possess similar relevant knowledge and you wish to work within the financial domain
+Furthermore, we value that you:
+
+are willing to acquire other technical and programming skills, for instance APL
+have strong collaboration and communication skills and fluency in English (written and spoken)
+actively learn through experimentation when tackling latest problems, using experiences from both successes and failures
+can introduce new ways of looking at problems and that you can take creative ideas and put them into practice
+that you think about the entire system and can identify and implement ways to continuously improve
+ 
+Why join SimCorp?
+At SimCorp we sincerely believe our employees are our greatest asset – and we treat them accordingly. As a SimCorp'er you can work with highly-skilled and supportive colleagues from more than 52 nationalities across 20+ international offices. You will experience an organization that welcomes people of all views and backgrounds, and provides countless ways to grow and develop. You will share our pursuit for innovation and knowledge, and your contributions will help shape the future of financial technology. What better place to build a rewarding career?
+More about working at SimCorp
+ 
+Interested?
+Please send CV and motivational letter. Incoming applications will be processed on an ongoing basis.
+To make sure you receive our emails please check your junk/spam folder and add SimCorp  to the safe list of your e-mail contacts.
+Please note that only application sent through our system will be processed.]

@@ -1,0 +1,62 @@
+[As a backend engineer, you will work with the core of Ulobby's products and design services and APIs for data heavy applications in robust fashion.
+Ulobby builds technology for Public Affairs professionals who rely on our systems to provide realtime data on political agendas as they develop.
+Our mission is to provide political insights that give our clients a path to political influence. Keeping track of modern day politics is a fast paced job, but we’re more than up for the challenge. Now, in our second year, we have met every milestone in our initial road map and have begun scaling our solutions for international clients.
+We’re looking for people with a strong background or interest in building successful systems; you’re comfortable in dealing with lots of moving pieces; you have exquisite attention to detail; and you enjoy learning new technologies and systems.
+ 
+Responsibilities:
+
+
+Develop our webapplication for lobbyists. We want to be the preferred platform for Public Affairs work.
+Design, build, and maintain APIs, services, and systems.
+ 
+
+
+Continue scaling our system to users from all over the world and integrate our platform more deeply with parliamentary APIs.
+ 
+
+
+Debug production issues across services and multiple levels of the stack.
+
+
+Improve engineering standards, tooling, and processes.
+You might work on:
+ 
+
+
+Data mining - both from structured APIs and messy policy documents.
+ 
+
+
+Implementing the server side of a new push notification-system for our mobile app.
+
+
+Modeling the network of European politicians in our graph database.
+
+
+Designing and refactoring internal APIs to make sure different services integrate tightly, are easily maintainable, and run smoothly.
+
+
+Design a general API, that covers several data models, for visualisations and data navigation.
+Requirements:
+
+
+Experience: You enjoy and have experience building APIs.
+
+
+Experience: You’ve done web development for 3+ years (not a hard requirement) with an MVC-type framework. Bonus points for JS experience.
+
+
+Team work: You’re used to working collaboratively; participating in code reviews and being a team player.
+
+
+Product-centric: You love solving hard technical challenges and producing clean code, but you also recognize that the product and the end-user’s experience is the most important thing. You need to care about the users and think beyond just the technical challenges.
+
+
+Self-directed: We’re a startup. We need someone who is comfortable taking an imperfect feature specification and driving it all the way to completion.
+
+
+Responsible: You hold yourself and others to a high standard when working with production systems.
+
+
+Good judgment: You have the ability to handle sensitive customer data.
+If you share our values and want to join us in tackling modern politics with software, we'd love to hear from you.]

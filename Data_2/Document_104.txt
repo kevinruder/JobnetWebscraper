@@ -1,0 +1,37 @@
+[Are you passionate about and experienced in making sure documentation is state of the art? Do you have international experience in providing high quality documentation in a complex working environment? Can you help develop, and take Vestas´s documentation to the next level, leaving your mark on the process?  Do you wish to be part of a global company striving for becoming the undisputed leader in wind energy?If you can recognize yourself in the above, please send your application as soon as possible since all incoming applications will be handled continuously. Industrialisation > PLM & Documentation > Documentation & Training DevelopmentBusiness Unit Power Solutions - Industrialization - PLM & Documentation - Technical Documentation We ensure the overall quality and the further development of documentation in Vestas.  Furthermore, we are responsible for:
+
+Documentation processes and the anchoring hereof in the impacted business areas.
+Guidelines (CCMS, style guide, minimalistic writing, STE (Simplified Technical English).
+CCMS governance and documentation workflows.
+On time in full delivery of projects in close collaboration with an Indian Documentation Team. 
+
+ResponsibilitiesYour main responsibility areas will be:
+
+Single sourcing strategy & information modelling.
+Developing & implementing publishing strategies.
+Developing guidelines and processes for maximum content reuse including best practices.
+Developing & implementation of consistent DITA-compliant content (DITA expertise). 
+Define complete and overall governance in relation to CCMS – including process for DITA code reviews of reusable content from 30+ writers.
+Continuous system optimization (ensure optimal system usage, initiate activities to improve on e.g. Windchill, Arbortext).
+Define and maintain Vestas taxonomy and metadata.
+
+QualificationsThe following qualifications stated are not thorough:
+
+Minimum 5 years documented experience with similar tasks. References required. 
+Familiar with implementation strategies from state-of -the-art companies or consultant companies; such as but not limited to Ixiasoft (DITA CMS), Comtech Services, Publishingsmarter.
+High proficiency with the DITA architecture.
+Taxonomy & MetaData management.
+Knowledge of and experience with intelligent information distribution.
+Knowledge of Information modelling, data modelling, database concepts, RDBMS, OOPS, UML.
+Basic XML and namespaces.
+XML schema (XSD).
+Datatype-definitions (DTD) and Metadata best practices. 
+XPath, XSLT and Xquery.
+Cascading stylesheets (CSS).
+XML & Database.
+XML & web services.
+Wind industry product knowledge is an advantage.
+
+CompetenciesIt will be required that you are a high-level thinker and strategic planner, but also at the same time can initiate, drive and complete different complex work assignments in an independently and self-driven manner.Tackling the many different work assignments, you need to have an action minded & pro-active behavior. To achieve results, you can work together and through other people, hence requiring excellent collaboration, communication & stakeholder management skills. Besides these competencies you also possess a natural ability to focus on quality and detail.Finally, you are fluent in English - in writing and speaking.What we offerWe offer an opportunity to be part of a strong team with highly skilled and motivated colleagues situated in Denmark. You will be part of an organization in an inspiring work environment with opportunities to grow and develop in the job – professionally and personally. We offer the possibility to work with unique products in a unique company.About VestasVestas is the energy industry’s global partner on sustainable energy solutions. We design, manufacture, install, and service wind turbines across the globe, and with more than 83 GW of wind turbines in 75 countries, we have installed more wind power than anyone else.Through our industry-leading smart data capabilities and unparalleled more than 73 GW of wind turbines under service, we use data to interpret, forecast, and exploit wind resources and deliver best-in-class wind power solutions. Together with our customers, Vestas’ more than 22,000 employees are bringing the world sustainable energy solutions to power a bright future. We invite you to learn more about Vestas by visiting our website at www.vestas.com and following us on our social media channels.
+Job Information TechnologyPrimary LocationDenmark-Midtjylland-Aarhus N
+Unposting Date Ongoing]

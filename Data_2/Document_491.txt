@@ -1,0 +1,19 @@
+[Job Description
+Are you motivated by securing development of innovative, cost effective and reliable power electronic solutions? Do you respond with commitment and sensitivity to satisfy the needs of both internal and external stakeholders? Are you inspired by working in close cooperation with competent colleagues and specialists within Electronic Components? Then you might be the Electronics Engineer we are looking for in Danfoss Power Solutions. You will be part of a team of eight motivated and innovative colleagues located in Nordborg and part of a global company, which is a world-class supplier of mobile hydraulics.  You develop specifications for the next generation of joystick productsElectronic Components, Joysticks secure the engineering of new product variants and customer adaptions, with focus on cost effective solutions. As our new Electronics Engineer you participate in product development in all aspects of the design lifecycle, from specification, design (incl. DfM, DfT, DfR, DfCompliance), simulation, implementation, verification test, validation test support and release to handle over to Supply Chain. Your key responsibilities will be:  
+
+New Product Development
+Development and modification of prototype designs for joysticks
+Maintenance of existing product portfolio
+Creating PCB layouts with a complete understanding of the impact of traces, vias, planes, layers and component placement.
+Supporting validation and change management
+Compiling technical documentation according to Danfoss quality standards
+Participating in the cross functional department meetings and represent engineering department in reviewing customer enquiries
+Cost estimation for mechanical and electronics work and gather specifications for construction
+Definition of requirements for qualifying new joysticks constructions in liaison with sales and production
+Performing schematic design using engineering principles and advanced math concepts
+Contribution to development of processes, standards and systems
+To reach your goals, you need to be able to understand and interpret international environmental and engineering standards. Your success will also depend on your ability to become a competent, sought-after specialist for your colleagues to rely on, supporting the organisation with gained product knowledge. At the same time you will be given the opportunity to develop with the role both personally and professionally in a fast growing branch.  You bring a fresh approach to designs and continuous improvement philosophyWe expect that you hold a degree in Electronics Engineering and solid related experience from a design and manufacture environment. You have basic knowledge of digital multimeters, oscilloscopes, PC data acquisition hardware, inspection equipment, signal generators, power supplies, RF equipment and current probes. Advanced knowledge of high-speed design is strongly desired, and experience with LabVIEW is a plus. On a more personal note, you are innovative, analytical and solutions focused with the ability to work well within a close team in a global setting. You have a positive approach and a hands-on attitude to your work. Last, but not least, you possess excellent written and oral communication skills in English.   For further information about the position,please contact Engineering Manager of Joysticks, Harry Singh at +45 2476 9398.
+ 
+Auto req ID
+12075BR
+ ]

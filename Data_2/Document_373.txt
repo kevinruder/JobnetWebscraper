@@ -1,0 +1,25 @@
+[Help to ensure the best user experience with our robots.
+Huge scope for influencing your work
+We offer an exciting and responsible position with excellent opportunities for you to personally shape the position. You will be responsible for the design, implementation and maintenance of the web interface for our robots and fleet management, and you will have a great deal of influence in the way our customers interact with the robots.
+Your primary tasks
+
+Design, maintenance and further development of tomorrow’s web interface for mobile robots and fleet management, by using best practice to ensure maintenance-friendly architecture.
+Ensure a user-friendly interface, so anyone, no matter their technical background, can use our robots.
+
+Ensure a flexible and intelligent design in the form of responsive solutions, so everyone can use robots, regardless of the device they use.
+
+Be part of a development team, closely exploring and sounding out ideas with talented robotics engineers, user experience engineers and testers regarding changes and new features.
+Challenge our methods, so we constantly develop.
+ 
+The successful candidate
+You are experienced in front-end development and have previously been responsible for the design of modern websites, but now really want to try something new – be responsible for tomorrow’s robot interface.
+You have developed competencies based on HTML(5), CSS(3), JavaScript (jQuery and jQuery UI, etc.) and PHP. The front end operates on a traditional LAMP stack and sends functionality to the robot through a REST API and a Websocket API for live data. This means you are also expected to have experience in and are able to work effortlessly with Linux, and are proficient in modern software design techniques for web development, such as MVC and responsive design.
+You are outgoing and thrive in an international environment. You work independently and are enterprising, and you are very driven and a sense of responsibility and ownership permeates your work.
+Excellent workplace
+MiR is an ambitious and dynamic robotics company with global ambitions, an extremely high level of professionalism and a competent management, which focuses on an excellent workplace and its social aspects.
+Do you want to create success and be able to influence your work tasks? Then join MiR and realise your ambitions.
+Application
+If you believe this job is perfect for you, then please submit your job application by email to: hr@mir-robots.com
+If you have any questions, then please contact CTO Søren E. Nielsen by telephone, at +45 23 20 89 95.
+Send in your application asap. Interviews will be held on an ongoing basis, and the position will be filled as soon as we have found the right applicant.
+Start date by agreement.]

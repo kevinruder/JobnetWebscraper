@@ -1,0 +1,36 @@
+[Mærsk Mc-Kinney Møller Instituttet ved Syddansk Universitet søger et antal undervisningslektorer primært med vejlednings- og undervisningsopgaver inden for uddannelserne til civilingeniør i software engineering og diplomingeniør i softwareteknologi. Deltagelse i forskningsprojekter og andre innovationsaktiviteter vil også være en mulighed, herunder særligt i forhold til produktionssystemer og Industri 4.0.
+Kandidater forventes at have erfaring inden for to eller flere af følgende områder:
+
+Software Engineering / Softwareudvikling
+Objektorienteret programmering (Java, C#, m.fl.)
+Databasedesign og databaseprogrammering
+Software metoder
+Software arkitektur
+Web teknologier
+Distribuerede systemer og integrationsteknologier
+Komponentbaseret software og micro-services
+Kunstig intelligens
+Blockchain og cloud computing
+ Instituttet investerer massivt i industri 4.0 dagsordenen, hvorfor følgende kompetenceområder vil være en fordel, men ikke et krav
+
+Programming af industrielle systemer, herunder PLC men også høj-niveau
+Industri 4.0 og digitaliseringsprocessor
+Data standarder (f.eks. OPC UA)
+Internet of Things (IoT) platforme og teknologier
+Sikkerhed
+Simulering
+Augmented og virtual reality
+Dokumenteret undervisningserfaringen vil være en fordel, ligesom evne og erfaring med udvikling af undervisningsmateriale på bachelor- og kandidatniveau. Ligeledes vil brancheerfaring og kommunikationsevner på dansk være ønsket.
+Kandidater skal have enten en relevant Ph.d. grad eller en ingeniøruddannelse og min 3 års erhvervserfaring.
+Mærsk Mc-Kinney Møller Instituttet er internationalt anerkendt og har fastholdt og udbygget en førerposition i robotteknologi i mere end 3 årtier. Instituttet er arnestedet for forskning i robotteknologi i Danmark, og har stået fadder til et verdenskendt cluster inden for robotteknologi i Syddanmark med flere end 120 virksomheder, f.eks. Universal robots og Mobile Industrial Robots. Med udgangspunkt i instituttets styrkepositioner inden for robotteknologi og software er skabt stærke forskningscentre inden for relaterede områder så som Sundhedsteknologi, Energiteknologier, og seneste har instituttets lagt sig i spidsen for den nationale forskningsindsats på droneteknologier.
+Ansættelsen sker i SDU Software Engineering, som er en relativt ny sektion, der arbejder med alle aspekter af softwareproduktion fra krav til test. Enheden arbejder målrettet med at skabe et stærkt software engineering miljø, og du vil have gode muligheder for at påvirke denne udvikling i en sektion, der sætter samarbejde og gode kolleger i højsædet.
+Yderligere information kan fås ved henvendelse til Institutleder, Kasper Hallenborg, tlf +45 21356256, email: hallenborg@mmmi.sdu.dk. eller sektionsleder Torben Worm, email: tow@mmmi.sdu.dk, tlf +45 93507372. Instituttets hjemmeside website: https://www.sdu.dk/en/mmmi
+Ansættelse finder sted efter overenskomst mellem Finansministeriet og AC, Cirkulære om overenskomst for Akademikere i staten 2015.
+Såfremt ansøgeren ikke har dokumenteret undervisningserfaring svarende til adjunktniveau kan ansættelsen ske på prøve i 1½ år.
+Ansøgningen skal sendes elektronisk via linket "Søg stilling online" nederst på siden. Vedhæftede filer skal være i Adobe PDF eller Word format. Læs venligst Vejledning for ansøgere. Hvert felt i ansøgningsskemaet kan kun indeholde én fil af max. 10 Mb. Ansøgningen skal indeholde:
+
+Ansøgning
+CV
+Eksamensbeviser (kandidatbeviset samt det seneste eksamensbevis)
+Undervisningsportefølje - se vejledning her
+Syddansk Universitet ønsker at afspejle det omgivende samfund og opfordrer derfor alle uanset personlig baggrund til at søge stillingen.]

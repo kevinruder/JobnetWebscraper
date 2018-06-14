@@ -1,0 +1,16 @@
+[(Location: Gråsten/Denmark or Vaasa/Finland)
+Job Description
+Would you like to develop world-class user interface for Danfoss Drives products? Does it motivate you to work in close cooperation with your colleagues on both shared and own tasks? Can you communicate with stakeholders both externally and internally in the company? Then you may want to join us either in Gråsten/Denmark or Vaasa/Finland, where you will be a member of a highly skilled software development team in the Global R&D organisation. You are passionate about learning and working with many different technologiesThe team has the ownership of the globally shared software asset related to Danfoss Drives’ SW tools and HMI solutions. The team ensures that the software architecture and chosen implementation technologies are the best to meet our challenging requirements, additionally to the actual software implementation responsibilities of the SW tools and HMI software products. Your key responsibilities will be:                     
+
+Designing solutions for the user interface of Danfoss Drives products
+Developing SW tools and HMI solutions for different type of user devices and platforms 
+You will cooperate with the product and project management, UX/UI designers, other technology experts, etc., including both internal and external partners in different countries. You will work in projects that are: 
+
+Developing software solutions for different purposes and use cases including: user interface, business logic, data communication, cloud systems, etc., required to build an extensive user experience
+Following agile working methods and latest technologies in close collaboration with other team members
+Executed by internal and external teams, located globally. 
+To succeed in this job, you feel a natural interest in keeping updated and knowing about the latest news and developments in multiplatform app development, and you enjoy being around colleagues with the same passion.                                                                     Deep understanding of software engineering and strong communication skillsYou hold a Master’s or Bachelor's degree in Software engineering or other relevant degree combined with work experience in a similar position. Your experience covers development of hybrid applications using Cordova/Electron frameworks in Angular/Typescript and related web technologies. You also have experience with development of back-end SW solutions using the MS Azure cloud platform and services, including but not limited to Node.js, ASP.NET environments. Alternatively, you are a skilled, lately graduated with a passion for this area and knowledge from e.g. an internship. Either way, you are ready to take part in all phases of the SW development projects, i.e. specification, pre-studies, implementation, testing, verification, etc. On a more personal note, you can collaborate with agile, cross-functional and cross-platform teams and build relations across cultures and geography due to your communication skills. You have proficiency in both written and spoken English, and you are willing to travel at some extent. Further information about the position,please contact Senior Manager Mika Korpela on +358 40 8371 300.
+ 
+Auto req ID
+12334BR
+ ]

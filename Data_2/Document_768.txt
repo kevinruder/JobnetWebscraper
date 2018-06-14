@@ -1,0 +1,26 @@
+[ZeBon søger en erfaren PHP udvikler til vores afdeling i Aalborg. Du vil sidde i et team af erfarne udviklere og skal kunne befinde dig godt i et agilt udviklingsmiljø. Vi forventer at du er med til aktivt at løse opgaverne i samarbejde med teamet. Du vil blive en del af vores team der arbejder med kerneproduktet hvor sikkerhed, skalerbarhed og stabilitet er nøgleordene.
+Kvalifikations krav:
+
+Erfaring med udvikling i PHP
+Kan kommunikere på dansk og engelsk – både skriftlig og mundtlig.
+
+Erfaring:
+
+Erhvervs erfaring vægtes højt til denne stilling.
+
+Kendskab til følgende teknologier vil være en fordel:
+
+SQL databaser (MySql, NoSQL)
+PHP, JavaScript, jQuery
+API interfaces (REST, SOAP, JSON, XML)
+Scrum (Projektstyring i mindre teams)
+Zend Framework
+Angular
+React
+
+Du må meget gerne i din ansøgning kommentere i hvor høj grad du har kendskab til de ovenfornævnte teknologier. En ansøgning med detaljeret beskrivelse af erfaringen indenfor ovenfornævnte teknologier vil vægtes højt ifm. udvælgelsen af kandidater til jobbet.
+Vi tilbyder Vi tilbyder et sjovt, travlt og varierende job i en innovativ virksomhed. Du får en lønpakke, der modsvarer dine kvalifikationer og præstationer. Et spændende job i et uformelt arbejdsmiljø. Du vil blive en del af en virksomhed der benytter de nyeste teknologier og er i kraftig vækst.
+Kort om ZeBon ZeBon er et dansk firma, der beskæftiger sig med IT-løsninger der optimerer og effektiviserer processer og arbejdsgange i alle typer og størrelser af virksomheder. Med fokus på håndtering af udlægs- og rejseafregninger har vi udviklet løsningen zExpense, der håndterer alle arbejdsgange omkring styring af udlæg, kreditkorttransaktioner, forskud, kørselsafregning, diætberegning, tidsregistrering mv.
+Vi er et dynamisk team, der brænder for at udvikle markedets mest brugervenlige løsning og yde vores kunder optimal service.
+Interesseret? Vil du vide mere om jobbet, så ring til os og tag en snak om jobbet. Vi kan kontaktes på 72441190.
+Send en ansøgning og CV til: job@zebon.dk. Send din ansøgning hurtigst muligt, da vi afholder ansættelsessamtaler løbende.]

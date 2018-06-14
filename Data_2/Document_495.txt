@@ -1,0 +1,22 @@
+[Would you like to be our new SAP ABAP lead developer, become a part of a great global team and kick-off an amazing agile journey that will broaden your expertise and sharpen your talent inside the LEGO Group?
+Want to be a part of a great global team?
+You will join the Supply Planning & Distribution team in the IT organization. We are responsible for all IT systems related to Supply Planning, Distribution and Direct procurement globally.
+We support the supply chain from procurement of materials utilized in production until the finished goods are delivered at the local warehouses – and parallel to that we have just started our journey into the agile development world here in IT.
+You will work as SAP ABAP lead developer both doing development yourself, but also enabling and helping our ABAP developers in our Offshore development center and in the other product teams.
+Furthermore you will become a part of our development community (Center of Excellence), focusing on the new technologies and strategies within SAP but also in relation to the whole Enterprise platform.You will work closely together with users, consultants, developers, scrum masters and product owners located in Denmark, Singapore, US, Czech Republic, Hungary, Mexico, China and India on an every day basis.
+You will be working within the different applications and systems of the LEGO Enterprise Platform. More specifically, you:
+• Participate in projects, initiatives and daily operations by carrying out the tasks that adds most value to our users
+• Will be involved in the creation of technical specifications, development and testing activities. Also, you provide support, guidance and analysis of user and operational issues
+• Complete change requests by collaborating with consultants and architects to streamline and improve business processes
+• Collaborate and support developers in our offshore development center in India as well as with external consultants when needed. This includes ensuring that the architecture and quality standards are met
+A skilled Developer with visions
+• You enjoy working with new technology and you are looking for a job where you can develop your skills and embark on an exciting international career
+• As a person, you are outgoing and a true team player who can easily adapt to the LEGO Environment where we always succeed together
+• Practical experience with Agile Software Engineering is a plus
+• Ability to clearly communicate concepts and resolutions with both Business and IT stakeholders.
+• Preferably experience with development in the areas around SAP PP, MM and LE (Logistics Execution) area, including a knowledge of processes in relation to these.
+• You have previous experience with SAP ABAP development. You will ideally also have knowledge and experience in one or more of the following technologies :
+• ABAP OO development and OO Design Patterns• OData and RESTful services• Core Data Services (CDS)• Floorplan Manager (FPM)
+Bringing it to life
+“In this carrier position, you will be able to put your skills to use in an great international team and create value to our stakeholders in the LEGO group. We provide quality solutions within planning, procurement and distribution to stakeholders around the globe. We secure the flow from procuring resins till the finished goods are at the warehouses and we are looking forward to have you aboard to enable this.”Says Senior Manager Solveig Sander JørgensenJoin the global family of LEGO
+In the LEGO Group, we succeed together, and you will be part of a global family where you will collaborate across the LEGO Organisation. We look forward to reading your application - please use the APPLY NOW button above or below, and please remember to attach your application and a current CV. If you would like to know more about the position, please contact Solveig Sander Jørgensen, Senior Manager, Supply Planning & Distributionon +45 2922 8517. We do not have application deadlines on any of our positions. We take candidates into the recruitment process continuously and close the position down once we have found the right candidate.]

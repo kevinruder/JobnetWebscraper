@@ -1,0 +1,20 @@
+[Are you a talented developer with a passion for building great products? Would you like to join a team developing a product which spans across a cloud-based backend, a great looking web-based frontend supplemented with native apps for iOS and Android? Would you like to work with the newest technologies and tools and learn from highly skilled colleagues?  
+Make a difference – join Schneider Electric
+At Schneider Electric, we help our customers make the most of their energy by being the best at what we do. You will join 60 dedicated colleagues in our software R&D department in Kolding, Denmark. We create cloud-based software that manages and monitors data centers of all sizes. Our platform is global, and it receives millions of data points per day. Our development methods are based on good agile principles inspired by SCRUM and Kanban.   
+To learn more about what we do, please visit: https://se-dmaas.com.  
+Develop and operate cloud-based data center management software
+As our new full stack developer, you help build features in an iterative fashion. Working as part of a cross-functional development team, you will develop, test and drive our data center applications. You do so using Java, as well as TypeScript, Angular and Redux. Ensuring a stable and reliable platform is a natural part of the daily work and the team focuses on providing a stable and fast platform to the users. 
+You will work on top of a scalable architecture that is undergoing a transition towards micro services and continuous delivery. We have launched a MVP (Minimum Viable Product) of our new product and you will help us mature this product, based on user feedback as well as our vision to create the best possible product within our field.  
+Who are you?Your ambition is to create great software. You enjoy getting to use your curious and collaborative personality when working with your team members.  In addition, you:
+
+Hold a degree focusing on software development, e.g. within the fields of Computer Science, Software Engineering - or another relevant IT education
+Take pride in good architecture and development practices
+Always keeps the users in mind while developing
+Can build online applications that are easy to test and maintain
+Work in a fun and collaborative international environment
+Our development is based in Kolding, but you will also collaborate with teams in Boston, US, and Bangalore, India. Across all three sites, you will meet a work environment focused on work-life balance, collaboration and creativity. To help our team members grow, we regularly provide training across multiple topics, be it the latest technology, new development processes, or personal development. 
+Interested?
+If you have questions regarding this position, please contact Senior Program Manager, Søren Mikkelsen, +45 27 77 01 65 or Engineering Director Anders Jensen +45 42 30 78 44. 
+Please apply before April 3rd, 2018.
+Please include your CV and educational records with your application. We will call for interviews as we receive the applications so don’t hesitate. 
+We look forward to hearing from you.]

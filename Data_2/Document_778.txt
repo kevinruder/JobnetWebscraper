@@ -1,0 +1,36 @@
+[Som Electrical Engineer hos Pascal A/S bliver du en central del i en af verdens førende ingeniørvirksomheder indenfor audio. 
+ 
+
+Pascal A/S er i en unik position. Pascal udvikler og producerer forstærkerløsninger, og er på mindre end 10 år blevet en af de førende leverandører på verdensplan indenfor kraftige forstærkermoduler til professionelt brug, typisk indenfor højttalerfabrikanter. Desuden er Pascal A/S udnævnt til gazellevirksomhed 6 år i træk, hvilket blot 28 andre virksomheder i Danmark har opnået. Dette placerer Pascal A/S i den absolutte top blandt danske vækstvirksomheder. 
+Som en del af vækststrategien har Pascal netop færdiggjort et state-of-the-art EMC test laboratorie.
+Pascal A/S har en sund økonomi og et stærkt værdisæt. Væksten i virksomheden går hånd i hånd med udviklingen af den enkelte medarbejder, hvilket betyder at du tilbydes et selvstændigt job med mange muligheder for såvel faglig som personlig udvikling.
+Arbejdssted er fra kontoret i Herlev. 
+Dine nøgleopgaver bliver:
+Du vil få en nøglerolle i udviklingsafdelingen og din kolleger er højt kvalificerede power ingeniører, med mange års erfaring indenfor switchende elektronik. 
+·                 Udvikling af SMPS, Class-D forstærkere, inputboards og elektromekaniske løsninge
+·                 Digitale designs indeholdende ADCs, DSP og kontroldesigns
+·                 Kreere og opdatere teknisk dokumentation, og ser det som en naturlig del af arbejdet​
+·                  Er med til at udvikle teknisk salgsmateriale såsom EMC rapporter og datablade
+·                 Teste EMC og termiske forhold
+·                 Sikre design kvalitet ved udførelse af verifikaiton på applikationer (elektrisk og mekanisk)
+Personlig profil: 
+·                 Civil, Diplom eller Teknikum elektroingeniør
+·                 Mestre forskellige målemetoder og instrumentkendskab, gerne indenfor audio og power elektronik
+·                 Har arbejdet med elektromekanik, elektronik, køling og EMC principper
+·                 Erfaring med teknisk produktudvikling, helst fra lyd-, strøm- eller apparatindustrien.
+·                 Interesse for mekaniske konstruktioner (2D tegninger) er en fordel
+·                 Erfaring fra projekter, gående fra startkoncept og design til masseproduktion.
+·                 Kreativt mindset og med drive til at arbejde selvstændigt og struktureret
+·                 Detaljeorienteret og god til opfølgning og gennemførsel
+·                 Kan skrive, læse og forstå teknisk dokumentation på engelsk
+·                 Vant til at arbejde i teams og god til at samarbejde tværfagligt
+Du tilbydes mere end "blot" et job:
+Du har her en unik mulighed for at blive en del af et væksteventyr, og samtidig blive central i den videre udvikling af absolut førende forstærkerløsninger. 
+Du vil få faglige udfordringer i et miljø med p.t. 29 meget engagerede, fagligt dygtige kollegaer, som vægter det sociale højt, og hvor tonen er uhøjtidelig og frem for alt humoristisk, men som også stiller høje krav til hinanden. 
+Om virksomheden:
+ Du kan læse mere om Pascal A/S her: http://www.pascal-audio.com/ 
+Ansøgning
+Effektiv Rekruttering bistår Pascal A/S ved denne rekruttering. For yderligere informationer om stillingen er du velkommen til at kontakte Claus Bønløkke, cb@erhr.dk eller tlf. 40406633
+Alle henvendelser behandles med behørig diskretion og fuld fortrolighed, ligesom virksomheden ikke gøres bekendt med kandidaternes navne før accept af dette.
+Fremsend venligst ansøgning og CV via vores online ansøgningsformular.
+Ansøgningsfrist snarest muligt - samtaler afholdes løbende.   ]

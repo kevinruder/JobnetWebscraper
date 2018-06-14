@@ -1,0 +1,31 @@
+[Interesserer du dig for big data og dataanalyse? Vil du arbejde med data fra den kollektive trafik?
+Bus & Tog søger en Data Manager til Rejsedata. Vi er datawarehouse for den kollektive trafik. Dagligt bearbejder vi ca. 1,3 mio. transaktioner fra rejsekortet. Data bruges til at fordele billetindtægten mellem de forskellige trafikvirksomheder og til diverse analyser, rapporteringer og prognoser. Vi skal bruge en data manager med god forretningsforståelse. Hos os er der et dynamisk miljø med kort vej fra ide’ til handling. Vil du med om bord?
+Vi tilbyder
+Gode ansættelsesvilkår, et udfordrende og selvstændigt job i en professionel og teambaseret virksomhed med dygtige kolleger, der alle brænder for at levere gode løsninger til kunderne i den kollektive trafik.
+Vi er netop flyttet til nye lokaler i BINGS på Vesterbrogade i København med dejlig kantine, café, atriumgårde, flere udendørs terrasser, tæt på byens indkøb og midt i forretnings- og cafelivet.
+Om stillingen
+Du bliver en del af Rejsedatas team og arbejder sammen med fire datawarehouse udviklere, to BI udviklere, en erhvervsPhD samt en studentermedhjælper. Der er rig mulighed for at bearbejde de store datamængder, som rejsekortsystemet generer. Du skal beskrive komplekse tekniske problemstillinger for vores beslutningstagere i et tilgængeligt sprog og være med til at sikre en solid dokumentation af vores processer.
+I dit daglige arbejde vil du:
+
+være bindeled mellem de forretningsmæssige beslutninger og datawarehouse udviklerne i din afdeling
+udarbejde forslag til hvordan billetindtægter skal fordeles mellem trafikvirksomhederne
+udvikle, automatisere og dokumentere kvalitetskontroller af data og resultater
+gennemføre analyser af data og forretningsbeslutninger
+indgå i dialog med og yde bistand til aftagerne af data i trafikvirksomhederne
+Rejsedata arbejder på SAS platformen og SAS Visual Analytics. Den daglige datahåndtering sker ofte i samarbejde med medarbejdere i Rejsekort A/S, som er leverandør af data.
+Om dig
+Vi forventer, at du er selvstændig, udadvendt, har et stærkt drive, og at du værdsætter at tage ejerskab for dine arbejdsopgaver. Du brænder for at finde løsninger på problemstillinger og evner samtidig at sikre en god dokumentation og beskrivelse af den valgte løsning. Endvidere har du:
+
+evne til at ”oversætte” det data-tekniske til forståelige beskrivelser til beslutningstagerne
+dataforståelse og erfaring med dataanalyse, gerne på SAS platformen eller lignende
+lyst til at arbejde med dokumentation og beskrivelser af vores leverancer
+power og ”politisk” tæft til at drive projekter og afstemme med interessenter
+forståelse for at koordinere udviklingsopgaver, men sætter også en ære i at sikre en stabil drift
+Ansøgning og kontakt
+Hvis du vil med ombord hos Rejsedata, så send os din ansøgning og dit CV snarest muligt. Du søger via knappen nedenfor. Vi behandler ansøgningerne løbende, og vi lukker processen, når vi har fundet de rigtige kandidater. Så jo før du søger, jo bedre er dine muligheder. Vil du vide mere om stillingen, så kan du kontakte Michael Kock fra EasySearch ApS, som står for rekrutteringen, på tel. 42 78 42 78 eller mko@easysearch.dk. Ønsket tiltrædelse efter sommerferien.
+Om os
+Bus & Tog
+Bus & Tog er et samarbejdsforum for alle trafikvirksomheder i Danmark. Bus & Tog er videnscenter i udviklingen af kollektiv trafik i Danmark og er det ”kit”, som sikrer at trafikvirksomhederne kan præstere sammenhængende kundeoplevelser. Rejsedata er et datawarehouse i Bus & Tog, hvor alle data fra Rejsekortet er samlet til videre analyse og indsigt for trafikvirksomhederne.
+Rejseplanen
+Rejseplanen A/S viser køreplaner i realtid og priser for alle rejser i den kollektive trafik. Rejseplanen har mere end 1 mio. daglige visninger af rejser til kunderne. Rejseplanens app er den fjerde mest populære app i Danmark, hvilket gør Rejseplanen til digital frontløber, når det drejer sig om at gøre det nemt, hurtigt og smart at rejse med den kollektive trafik i Danmark. Rejseplanens åbne data anvendes af 500 virksomheder og organisationer, herunder Google, Apple og kinesiske Baidu.
+Vi holder til på Vesterbro, og vi er i alt 30 gode kollegaer med interesse for kollektiv trafik. Læs mere om os på http://www.busogtog.dk.]

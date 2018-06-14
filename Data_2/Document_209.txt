@@ -1,0 +1,35 @@
+[ If you 
+- want to shape the future in am more sustainable way
+- want to make a difference in renewable energy
+- want a versatile, challenging and technical job in computer science/software engineering
+- are a team player wanting to work in a rapidly developing international company
+ 
+Choose the future 
+Renewable Energy is one of the fastest-growing, most innovative sectors of our economy and Gram & Juhl are true pioneers and genuinely passionate about renewable energy. We are known for pioneering innovative projects using cutting edge technologies, edge computing, working with Big Data, Digitalisation, industrial IOT and industrial 4.0.
+Our TCM® system is a unique vibration monitoring solution that maximizes wind turbines’ uptime by early failure detection on costly components. It provides valuable information on the condition of each wind turbine empowering O&M’s to protect their assets and plan for optimal maintenance and thereby driving down the cost of energy.
+ 
+Become a part of Gram & Juhl A/S 
+We are searching for a Software developer to join our development team. The tasks and responsibilities include various aspects of software design and development including software quality assurance and configuration management. You will be a part of building tools and services for our Enterprise solution with focus on quality and security. We provide a good, international work environment with focus on work/ life balance. So if you are competent at executing tasks, pragmatic, likes a challenging work day and likes servicing international customers, then this is the position for you. The primary workplace is at our Danish headquarter near Highway E45, Exit 68.
+ 
+Your personality is important to us 
+We are looking for an ambitious and proactive person with personal drive. As a person you are forthcoming, have good communication skills and demands high standards from yourself and others (ensuring high quality work). You are structured, good at maintaining an overview of complex solutions and planning your own work schedule. You use words like enthusiastic, resourceful, self-motivated and persistent to describe yourself. As an employee you are given the freedom to act and the inspiration to take responsibility.
+ 
+Required skills and qualifications 
+You have an educational background in Computer science, Software Engineering or similar
+Experience in and knowledge of several of the disciplines below:
+- Test-driven development using agile development processes (Kanban, Scrum etc.)
+- Continuous integration frameworks (Jenkins)
+- Quality assurance using Unit testing and Black-box/regression testing
+- Programming languages, like Java, PHP, Bash, HTML, JavaScript, CSS
+- Communication protocols and version management (Git)
+- Linux development and SQL database experience is an advantage
+- Signal and data processing
+- Network: HTTP services and secure protocols
+- Business level written and verbal communications skills in English and work permit for Denmark is required. Danish is an advantage, but not a requirement.
+- Previous experience and knowledge of the wind industry is considered an advantage, but not essential
+Do you want to be a part of Gram & Juhl? 
+Please send your application to job@gramjuhl.com (all attachments as PDF). For more information on the position, please contact Tine Poder at +45 88163875 or tpo@gramjuhl.com. Commencement as soon as possible.
+ 
+About 
+Gram & Juhl A/S (GJ) is the leading supplier of Condition Monitoring Systems to the wind industry, having installed thousands of TCM® Turbine Condition Monitoring systems worldwide. TCM® is a registered trademark of Gram & Juhl A/S. Learn more about us at gramjuhl.com.
+GJ is a modern, international, unconventional and inspiring place to work. An important parameter for us is that we hire good colleagues, as we at GJ prioritize a positive work environment with a work/life balance that benefits all.]

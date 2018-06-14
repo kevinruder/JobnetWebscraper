@@ -1,0 +1,51 @@
+[Are You Our Next Salesforce Cloud CRM Superstar?
+ 
+What impact will you make?
+Would you like to create an impact, while evolving in a dynamic and inclusive culture founded on cooperation, curiosity and high ambitions? If so, Deloitte is the place for you! We acknowledge and fulfil your potential and offer you a strong professional network, where you can unfold your interests and passions.       
+ 
+Your team Deloitte Digital
+Part Business. Part Creative. Part Technology. One hundred per cent digital.
+We’re a new type of creative digital consultancy that fuses strategy, tech and design to identify where businesses need to be, then get them there. Fast.   Through our studios spread across the globe, including in Copenhagen, where we help our clients imagine, deliver and run the future, through from customer research right through to implementation. And we love doing it. Based in our Danish office in Copenhagen, you’ll join a fun, inspiring and highly skilled team, and get to play with the latest technology.  
+As part of our team, you’ll work side by side with strategists, designers, researchers, engineers, writers, architects and product specialists – using your unique skills and perspective to help drive transformation from operational level to the C-suite, across a complete range of digital channels.  
+We believe in our people, which means giving them the support they need to get the best balance of work and life. Individuality, flexibility, diversity are things we’re passionate about. We wouldn’t be Deloitte Digital without it.
+Our inclusive culture is the core of our firm – the reason why we can call Deloitte one of life’s greatest communities. We embrace and encourage authenticity and diversity of thought, as we understand that inclusion unleashes the power of our people – we understand that our diversity is a source of strength.  
+As part of our Consulting practice, your career with Deloitte Digital can take multiple paths.  We will work closely with you on a career plan that fits your skills, talents and aspirations, and provide an open environment to discuss your development and progression with Deloitte.
+ 
+Your assignments
+You will design and implement Salesforce technology, working closely with functional specialists to develop creative business solutions for iconic brands, solving some of the most exciting problems for our clients, building lasting relationships with executive clients and sponsors.
+Our clients are amongst the biggest brands in the Nordics and you’ll also have a chance to work with clients throughout Europe and beyond. Please note that this is a consultancy role and most of your time will be spent at client site.
+As a Salesforce technical expert, you will play an important role in the delivery of these projects. Depending on the size of the project and the client needs, your role will cover a broad range of responsibilities such as technical and solution architecture design, development, prototyping and testing.
+This is a full-time role. We encourage careful consideration of agile ways of working, both formal and informal arrangements that allow for the best outcomes for our people and our clients. If the opportunity of a full-time role with a degree of flexibility sounds interesting, please do discuss it with us.
+We believe in leadership at all levels. Therefore, we foster a culture that encourages you to take the lead on your specific development level.   
+ 
+Your qualifications 
+It’s not what Salesforce does… It’s what you do with it. We’re looking for candidates with programming experience, who either are still studying or recently finished their Master’s degree. Candidates will work alongside our clients and other disciplines to deliver top tier Salesforce projects from design and configuration to integration and testing, providing an outstanding client experience and making a difference to the business of some of the biggest and most iconic brands in Denmark and the rest of EMEA.
+We picture that you have the skills below. They are not all required, but are certainly a big plus:
+• Development experience in any programming language, but preferably Java/J2EE, Apex, VisualForce, Lightning Components or Force.com.
+• Knowledge of Web Development (Ajax, JavaScript, SOAP, HTTP, JS Remoting, Angular JS, CSS Bootstrap).
+• Salesforce technical certifications such as Salesforce Administrator (ADM201), Service Cloud Consultant, Sales Cloud Consultant, Marketing Cloud, Platform App Builder, etc.
+• Knowledge of Salesforce architecture and knowledge of Salesforce ecosystem.
+• Experience in onsite technical roles on Salesforce implementations and expertise in one or more of the following areas/modules:
+
+Sales Cloud
+Service Cloud
+Marketing Cloud
+Custom / App Cloud
+Force.com
+• Consulting and/or CRM implementation experience.
+• Experience with development life-cycle, code management strategies, architecture and security approaches, capacity considerations and integration approaches.
+• Experience with system configuration using workflows, approval processes, custom objects, validation rules, formulas, process builder, flows and Data Loader.
+• Relational databases and data modelling.
+• Experience contributing to RFP responses and other sales activities.
+• Meta-data migration between SFDC Sandboxes and Production Orgs using Change Sets, Eclipse, Ant or DX tooling.
+• Experience with version-control tools (e.g. Github, Sourcetree).
+• Experience integrating Force.com development with modern deployment and release processes (e.g. Agile; Continuous Integration, Jenkins).
+• Experience implementing CPQ technologies (Big Machines, Apttus, Cameleon).
+• Experience with Salesforce1 and approaches to mobile applications.
+• Experience delivering projects using agile Scrum methodology. 
+ 
+Impact that matters
+We all aspire to fulfil our purpose – to make an impact that matters. Every single day. We measure our success in the quality, creativity, integrity and innovative in our solutions. Only the best is good enough. We do not just aspire to make solutions. We wish to create an impact that makes a positive and crucial difference for the people around us our clients and our society.                  
+ 
+Contact and application 
+Send us your application, your CV and other relevant documents by following the link below. The deadline is 12 February 2018. We process applications and arrange interviews continually. Hence, we recommend that you apply as soon as possible. Please do not hesitate to contact Christian Charity, Consultant at +45 27 98 25 75, if you have questions about the position. You can read more about Deloitte at deloitte.dk and about our career opportunities at karriere.deloitte.dk.]
